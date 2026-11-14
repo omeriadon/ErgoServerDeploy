@@ -1,0 +1,2867 @@
+{
+  "arguments": [
+    {
+      "id": "argument-contingency",
+      "name": "Argument from contingency",
+      "aliases": [
+        "Contingency argument",
+        "Leibnizian cosmological argument"
+      ],
+      "symbolName": null,
+      "summary": "Contingent things could have been otherwise, so their existence is argued to require an explanation beyond themselves.",
+      "body": "A contingency argument asks why there is something contingent at all. In a Leibnizian form, every contingent fact has an explanation; the explanation cannot be only another contingent fact if that leaves the totality unexplained. The argument infers a necessary reality or ground. It differs from arguments that require the universe to have a temporal beginning: an eternal universe could still be contingent. This reconstruction does not infer all divine attributes.",
+      "origin": "Leibniz's principle of sufficient reason and cosmological reasoning; formulation varies among defenders.",
+      "keyFigures": [
+        "gottfried-leibniz",
+        "thomas-aquinas"
+      ],
+      "premises": [
+        "Contingent beings and facts exist.",
+        "Every contingent fact has an explanation or sufficient reason.",
+        "The complete explanation of contingent reality cannot consist solely in another contingent fact without leaving the totality unexplained."
+      ],
+      "conclusion": "A necessary being or fact provides the ultimate explanation of contingent reality.",
+      "assumptions": [
+        "The principle of sufficient reason applies to the totality of contingent facts.",
+        "A necessary ground is a coherent explanatory endpoint.",
+        "Explaining the totality requires more than explaining each member in isolation."
+      ],
+      "objections": [
+        {
+          "objection": "The principle of sufficient reason may be false; some facts may have no explanation.",
+          "reply": "A defender can argue that accepting unexplained contingency is costly, but this is a philosophical motivation rather than a proof of the principle."
+        },
+        {
+          "objection": "The totality may not be an additional fact needing explanation.",
+          "reply": "A defender can say the question concerns why the contingent facts obtain collectively; the critic denies that collective explanation must be separate."
+        },
+        {
+          "objection": "A necessary being could be a brute fact too.",
+          "reply": "A defender can distinguish necessary existence from contingent existence, though necessity does not automatically make a thing self-explanatory."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Each link in a chain is supported by another link, but one asks why the entire chain exists.",
+          "note": "The example highlights the difference between explaining members and explaining the collection; whether a collection needs a further explanation is disputed."
+        }
+      ],
+      "related": [
+        "contingency",
+        "sufficient-condition",
+        "necessary-being",
+        "contingent-being",
+        "gottfried-leibniz",
+        "thomas-aquinas"
+      ],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "argument-from-divine-hiddenness",
+      "name": "Argument from divine hiddenness",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The existence of sincere, nonresistant nonbelief is argued to conflict with a perfectly loving God who seeks relationship with every person.",
+      "body": "The argument does not infer nonexistence merely from disagreement about religion. It focuses on people who are capable of relationship with God, would welcome such a relationship, and nevertheless lack belief through no deliberate resistance. If a perfectly loving God would ensure that such people could believe, their existence counts against that conception of God.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "blaise-pascal"
+      ],
+      "premises": [
+        "A perfectly loving God would be open to relationship with every capable person who is not resisting such a relationship.",
+        "A relationship with God requires at least belief that God exists.",
+        "Some capable people are nonresistant yet lack belief."
+      ],
+      "conclusion": "There is no perfectly loving God of the specified relationship-seeking kind, or at least the expected divine availability claim is false.",
+      "assumptions": [
+        "The relevant nonbelief is genuine and nonresistant; relationship requires some awareness of God."
+      ],
+      "objections": [
+        {
+          "objection": "God may have morally sufficient reasons to permit nonbelief, such as preserving freedom or enabling character formation.",
+          "reply": "A critic asks whether those goods require hiddenness for people who are willing to relate; the defender may dispute that relationship requires prior belief."
+        },
+        {
+          "objection": "People may be mistaken about their own openness or about what relationship with God requires.",
+          "reply": "This challenges whether the cases meet the argument’s conditions, without showing that no such cases exist."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A person sincerely seeks religious truth, remains open to belief, and finds no evidence that makes belief possible.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "blaise-pascal"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-from-evolutionary-debunking",
+      "name": "Argument from evolutionary debunking",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If natural selection shaped moral judgments for reproductive success rather than moral truth, their reliability may be undermined absent an independent vindication.",
+      "body": "The debunking strategy traces a causal genealogy of moral belief. If selection favors judgments that promote cooperation or survival regardless of whether those judgments are true, then the fact that we hold them gives less support to their truth. The argument is conditional: it needs a realist account on which moral truth is independent of the forces that shaped our judgments, and it may target some moral beliefs more strongly than others.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "david-hume"
+      ],
+      "premises": [
+        "Evolutionary pressures substantially shaped human moral dispositions.",
+        "Those pressures select for fitness-promoting responses, not directly for moral truth.",
+        "If a belief-forming process is insensitive to truth in its domain, its outputs need independent support."
+      ],
+      "conclusion": "Some moral beliefs lack justification from their evolutionary origins unless there is an independent reason to trust the relevant faculties.",
+      "assumptions": [
+        "Moral truth, if it exists, is sufficiently independent of adaptive fitness that tracking one need not track the other."
+      ],
+      "objections": [
+        {
+          "objection": "Evolutionary pressures may favor cooperation that often tracks real moral reasons.",
+          "reply": "That offers a possible correlation, but the critic asks whether it explains accuracy in cases where fitness and moral truth diverge."
+        },
+        {
+          "objection": "Reason and reflection can correct inherited intuitions.",
+          "reply": "This may restore some beliefs, though it must explain why the corrective method is reliable rather than itself shaped by the same influences."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A community’s instinctive preference for its own group might aid survival while offering no evidence that outsiders matter less.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "david-hume"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-fair-play",
+      "name": "Argument from fair play",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "People who benefit from a fair cooperative scheme may owe a fair share of its burdens to those who sustain it.",
+      "body": "The fair-play argument derives an obligation from participation in a mutually beneficial practice. If others restrict their conduct and incur costs to maintain a just scheme, a beneficiary who accepts its benefits may owe reciprocal compliance. The argument’s central difficulty is whether benefits can count as accepted when they are unavoidable, and how fair schemes and individual burdens are identified.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "john-rawls"
+      ],
+      "premises": [
+        "A cooperative scheme is reasonably just and mutually beneficial.",
+        "Participants accept benefits made possible by others’ compliance.",
+        "Fairness prohibits taking benefits while refusing a fair share of burdens."
+      ],
+      "conclusion": "Some beneficiaries of fair cooperative practices have reciprocal duties to bear a fair share of their costs.",
+      "assumptions": [
+        "The benefits are meaningfully accepted and the scheme does not impose unjust or excessive costs."
+      ],
+      "objections": [
+        {
+          "objection": "Benefits such as clean air or public order may be impossible to refuse, so receipt alone may not create consent.",
+          "reply": "Defenders may ground the duty in fairness rather than consent, but must explain when unsolicited benefits impose obligations."
+        },
+        {
+          "objection": "A scheme may be unjust or distribute burdens unfairly.",
+          "reply": "The principle applies only to fair cooperation; it cannot justify compliance with every existing institution."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A neighborhood relies on residents taking turns maintaining a shared path; one resident who uses it while refusing every turn appears to free-ride.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "john-rawls"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-from-human-dignity-in-kantian-ethics",
+      "name": "Argument from human dignity in Kantian ethics",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Kant’s humanity formulation says rational nature must be treated as an end in itself, constraining the use of people merely as tools.",
+      "body": "The argument begins from the capacity of rational agents to set ends and act on principles. Because this capacity has unconditional worth, moral action must respect each person’s agency rather than manipulate or coerce them solely for another’s purposes. Using someone as a means is not always forbidden: ordinary cooperation does so with consent and respect. The objection concerns treating a person merely as a means.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "immanuel-kant"
+      ],
+      "premises": [
+        "Rational agency is the capacity to set and pursue ends.",
+        "Rational nature has dignity rather than merely instrumental value.",
+        "Moral action must respect the agency of persons affected by it."
+      ],
+      "conclusion": "Persons must be treated as ends in themselves, which forbids using them merely as instruments.",
+      "assumptions": [
+        "The humanity formulation captures a fundamental moral constraint, and respect can be specified across cases."
+      ],
+      "objections": [
+        {
+          "objection": "Kant’s account may be too abstract to resolve conflicts among people’s ends.",
+          "reply": "Further duties and context-sensitive judgments are needed; the formulation supplies a constraint rather than a complete decision procedure."
+        },
+        {
+          "objection": "Some necessary institutions use people’s labor instrumentally despite formal consent.",
+          "reply": "Consent alone is insufficient if coercion or exploitation undermines genuine agency; the account invites examination of those conditions."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A physician may ask a patient to participate in research for broader benefit, but must disclose risks and secure informed agreement.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "immanuel-kant"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-indeterminacy-of-translation",
+      "name": "Argument from indeterminacy of translation",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Quine argues that all observable linguistic behavior may be compatible with multiple incompatible translation manuals.",
+      "body": "Imagine linguists interpreting an unfamiliar language from speakers’ dispositions to assent and dissent in observable circumstances. Even with all such evidence, several translation schemes may fit while assigning different meanings and reference. Quine uses this to challenge determinate fact about translation beyond the total behavioral evidence. The conclusion is controversial: critics argue that social, pragmatic, or holistic constraints narrow the alternatives.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "w-v-o-quine"
+      ],
+      "premises": [
+        "Translation hypotheses are assessed against observable linguistic behavior and circumstances.",
+        "Multiple incompatible manuals can fit all such behavioral evidence.",
+        "No further fact fixes the uniquely correct manual."
+      ],
+      "conclusion": "The totality of behavioral evidence may fail to determine one uniquely correct translation scheme.",
+      "assumptions": [
+        "Meaning and reference are not fixed by inaccessible private facts beyond the evidence considered."
+      ],
+      "objections": [
+        {
+          "objection": "Context, shared purposes, and broader interpretive practice constrain translation.",
+          "reply": "Quine can incorporate these into total behavioral evidence, while critics argue they still privilege a determinate interpretation."
+        },
+        {
+          "objection": "Underdetermination of translation need not imply that ordinary meaning is unreal.",
+          "reply": "A moderate view can accept practical determinacy while rejecting a uniquely correct manual at the theoretical level."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A word uttered when a rabbit appears might be translated as “rabbit,” “undetached rabbit part,” or a longer occasion-specific sentence while matching observed assent patterns.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "w-v-o-quine"
+      ],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-from-indispensability",
+      "name": "Argument from indispensability",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If indispensable scientific theories quantify over mathematical entities, commitment to those entities follows from the same standards used for scientific commitment.",
+      "body": "The Quine–Putnam strategy treats ontology as what a best theory says exists. Mathematics is deeply embedded in successful empirical science, and attempts to remove it may impair explanatory or predictive power. If one should believe the entities required by the best scientific theory, mathematical entities receive support. The argument is conditional on scientific realism and on mathematics being genuinely indispensable rather than dispensable shorthand.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "w-v-o-quine"
+      ],
+      "premises": [
+        "We should accept the entities quantified over by our best confirmed scientific theories.",
+        "Mature science is committed to mathematical objects.",
+        "Mathematical commitment is indispensable to the best formulation of science."
+      ],
+      "conclusion": "We have reason to accept mathematical entities if our best science is committed to them and that commitment cannot be eliminated without theoretical cost.",
+      "assumptions": [
+        "The quantifiers of the best theory reveal genuine ontological commitment, and the mathematical apparatus cannot be paraphrased away."
+      ],
+      "objections": [
+        {
+          "objection": "Scientific theories may be nominalized or interpreted instrumentally without literal commitment to abstract objects.",
+          "reply": "The defender argues that proposed reductions have not preserved the same explanatory and inferential virtues."
+        },
+        {
+          "objection": "Empirical success might confirm only observable consequences, not every theoretical posit.",
+          "reply": "The argument relies on a holistic view of confirmation; rejecting that view weakens its inference to mathematical ontology."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A physics theory may use real numbers and functions in every workable formulation; the argument asks whether that indispensability warrants belief in such entities.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "w-v-o-quine"
+      ],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "argument-from-model-theoretic-indeterminacy",
+      "name": "Argument from model-theoretic indeterminacy",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Putnam argues that formal theories may have unintended models, challenging the idea that reference is fixed by theory and correspondence alone.",
+      "body": "A theory expressed in a formal language can be true in multiple interpretations whose objects differ, even when the theory’s sentences retain their truth values. If no further constraints select the intended interpretation, formal truth conditions alone do not determine what the theory refers to. Putnam’s broader argument targets certain realist pictures of reference; its scope and premises are heavily disputed.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [],
+      "premises": [
+        "A formal language can have multiple models satisfying the same theory.",
+        "Those models may assign different domains or reference relations.",
+        "If no independent constraint selects one model, the theory alone does not fix unique reference."
+      ],
+      "conclusion": "A formal theory and its truth conditions may not by themselves determine a unique intended reference.",
+      "assumptions": [
+        "The model-theoretic construction applies to the relevant realist account of reference rather than only to artificial formal systems."
+      ],
+      "objections": [
+        {
+          "objection": "Causal interaction with the world and linguistic practice fix reference beyond formal satisfaction.",
+          "reply": "Putnam’s challenge asks whether those constraints can be stated without presupposing the reference they are meant to fix."
+        },
+        {
+          "objection": "Model multiplicity is a feature of formal representation, not ordinary language.",
+          "reply": "The critic may limit the result to formal semantics; Putnam argues that broad realist theories face a related problem."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A mathematical theory may have several models with different underlying objects but identical truth for every sentence in its language.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "argument-from-multiple-realizability",
+      "name": "Argument from multiple realizability",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If a mental kind can be realized by very different physical structures, identifying it with one narrow neural type is difficult.",
+      "body": "The argument challenges type identity theories that pair each mental kind with a single physical kind. A pain state, for example, might be realized in humans, other animals, or hypothetical machines through different physical arrangements. This supports functional or higher-level accounts, but it does not by itself show that mental states are nonphysical: each instance may still be physically realized.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [],
+      "premises": [
+        "The same mental kind can occur in systems with different physical constitutions.",
+        "A strict type identity requires one physical kind identical to each mental kind.",
+        "The realizations do not share the proposed single physical type."
+      ],
+      "conclusion": "Mental kinds need not be identical to one specific neural type, even if every particular instance has a physical realization.",
+      "assumptions": [
+        "The cases genuinely share a mental kind rather than merely resembling one another behaviorally."
+      ],
+      "objections": [
+        {
+          "objection": "Future neuroscience may discover a common physical property underlying the cases.",
+          "reply": "That remains possible; the argument challenges simple identities given current diversity and functional variation."
+        },
+        {
+          "objection": "The argument supports only a functional description and does not establish that the mind is nonphysical.",
+          "reply": "Agreed: its target is reductive type identity, not physical realization as such."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Pain in a human and a differently structured artificial system could play similar causal roles without sharing the same neural tissue.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "multiple-realizability"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-from-no-miracles",
+      "name": "Argument from no miracles",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The success of mature scientific theories is argued to be best explained by their approximate truth, rather than as an unexplained coincidence.",
+      "body": "The inference to the best explanation starts from science’s striking predictive and technological success. Realism says theories succeed because they capture at least some structure of an independent world; instrumentalism can accept success while withholding belief in theoretical truth. The argument is abductive, so its force depends on whether realism is genuinely the best explanation and whether success is measured without selection bias.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [],
+      "premises": [
+        "Mature scientific theories achieve substantial predictive and explanatory success.",
+        "Approximate truth would explain why those theories succeed across varied applications.",
+        "No competing explanation accounts for the success as well."
+      ],
+      "conclusion": "Scientific success provides defeasible support for approximate truth or reference in successful theories.",
+      "assumptions": [
+        "Success is not merely selected retrospectively from many failed theories, and explanatory superiority supports belief."
+      ],
+      "objections": [
+        {
+          "objection": "A pessimistic history shows many once-successful theories were later rejected.",
+          "reply": "Realists can appeal to retained structures and approximate truth, but must say which successful components deserve confidence."
+        },
+        {
+          "objection": "Selection effects and pragmatic adaptation may explain success without truth.",
+          "reply": "The realist disputes whether these alternatives explain the breadth and precision of success as well."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A theory that predicts previously unknown phenomena across different experiments appears less likely to succeed by accident than a curve fitted only to existing data.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "scientific-realism"
+      ],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-from-religious-disagreement-euthyphro-dilemma",
+      "name": "Argument from religious disagreement (Euthyphro dilemma)",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The dilemma asks whether actions are good because God commands them or commanded by God because they are good.",
+      "body": "In Plato’s dialogue, Socrates presses Euthyphro about piety and divine approval. If an act is good only because God commands it, goodness can seem arbitrary; if God commands it because it is independently good, goodness appears not to depend on divine command. The dilemma targets simple divine-command theories, though sophisticated accounts appeal to God’s nature or distinguish explanation from dependence.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "plato"
+      ],
+      "premises": [
+        "If divine commands make actions good, any command could seemingly make an action good.",
+        "If God commands actions because they are already good, goodness is not grounded solely in command.",
+        "A theory of divine moral authority must explain how it avoids both results."
+      ],
+      "conclusion": "A simple account that makes goodness depend only on divine commands faces a choice between arbitrariness and independent moral standards.",
+      "assumptions": [
+        "The two horns exhaust the simple command-based account; appeal to divine nature must provide a substantive third explanation."
+      ],
+      "objections": [
+        {
+          "objection": "Goodness may be grounded in God’s necessarily good nature rather than arbitrary choices or an external standard.",
+          "reply": "This is a prominent response, but critics ask whether “good nature” is intelligible independently of goodness."
+        },
+        {
+          "objection": "Commands may reveal moral truths without creating them.",
+          "reply": "That preserves a religious role for commands while conceding that they do not ground moral truth."
+        }
+      ],
+      "examples": [
+        {
+          "text": "If a deity commanded cruelty, would the act become good, or would the deity command it because it was already wrong to be cruel?",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "euthyphro-dilemma",
+        "plato"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-from-skeptical-scenarios-and-closure",
+      "name": "Argument from skeptical scenarios and closure",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If knowledge is closed under known entailment, knowing ordinary claims can require knowing that skeptical alternatives are false.",
+      "body": "Suppose a person knows they have hands, and knows that having hands entails not being a handless brain in a vat. By closure, they must know they are not such a brain. Since they do not know that, skepticism threatens ordinary knowledge. The argument highlights pressure among closure, ordinary knowledge, and skepticism about how we know the negation of radical alternatives.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "rene-descartes"
+      ],
+      "premises": [
+        "If a person knows P and knows P entails Q, they can know Q.",
+        "Knowing that one has hands entails knowing that one is not a handless brain in a vat.",
+        "A person cannot know that they are not such a brain."
+      ],
+      "conclusion": "At least one of closure, ordinary knowledge claims, or skeptical premises must be revised.",
+      "assumptions": [
+        "Knowledge closure applies to the relevant entailment and the skeptical alternative is genuinely compatible with the subject’s evidence."
+      ],
+      "objections": [
+        {
+          "objection": "A contextualist can say “knows” sets a higher standard when skeptical alternatives are raised.",
+          "reply": "This preserves ordinary knowledge in everyday contexts but changes how the knowledge claim is evaluated."
+        },
+        {
+          "objection": "A fallibilist may know ordinary claims without ruling out every remote possibility.",
+          "reply": "That rejects the skeptical premise that knowledge requires eliminating the scenario."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Knowing the window is open appears to entail knowing that a deceiver is not merely causing the matching experience.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "rene-descartes"
+      ],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-from-the-authority-of-reason-against-psychologism",
+      "name": "Argument from the authority of reason against psychologism",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Frege argues that logical laws cannot be reduced to descriptions of how humans happen to think, because logic prescribes valid thought and applies beyond human psychology.",
+      "body": "Psychologism treats logical laws as empirical regularities of mental processes. Frege objects that a psychological generalization could describe common error as well as correct inference, while logical laws distinguish truth-preserving reasoning from how people in fact think. Logical principles also appear objective and applicable to thinkers with different mental histories.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "gottlob-frege"
+      ],
+      "premises": [
+        "Psychological laws describe how people think, including mistaken reasoning.",
+        "Logical laws distinguish correct from incorrect inference.",
+        "A descriptive regularity alone cannot establish that an inference is valid."
+      ],
+      "conclusion": "Logical laws are normative and objective standards, not merely empirical laws about human thought.",
+      "assumptions": [
+        "Normative validity cannot be reduced to a statistical fact about human cognition."
+      ],
+      "objections": [
+        {
+          "objection": "Evolution and cognitive science can explain why humans developed reliable reasoning habits.",
+          "reply": "Such explanations address origin and reliability, but the Fregean distinction asks what makes an inference valid."
+        },
+        {
+          "objection": "Normativity may be naturalized through functional or social practices.",
+          "reply": "That is a possible alternative, but it must explain the authority of logical standards over widespread practice."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Most people might infer a conclusion from a vivid but irrelevant correlation; its psychological prevalence would not make the inference valid.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "gottlob-frege"
+      ],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-from-the-demandingness-objection",
+      "name": "Argument from the demandingness objection",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A moral theory may be implausibly demanding if it requires agents to sacrifice nearly all personal projects whenever doing so would improve outcomes.",
+      "body": "The objection tests consequentialist duties by considering how often agents could prevent serious harm at modest cost. If every such opportunity creates an obligation, ordinary leisure and personal commitments may become morally suspect. The issue is whether morality should require maximal beneficence, allow agent-centered prerogatives, or distinguish duty from generosity.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "peter-singer"
+      ],
+      "premises": [
+        "Agents often can reduce serious harm at some personal cost.",
+        "A maximizing principle may make each such act obligatory.",
+        "Repeated obligations of this kind can crowd out ordinary commitments and personal goods."
+      ],
+      "conclusion": "A theory that leaves too little room for personal projects may need to revise its account of moral obligation.",
+      "assumptions": [
+        "Moral obligations should leave some defensible space for agents’ own projects and relationships."
+      ],
+      "objections": [
+        {
+          "objection": "The severity of preventable suffering can outweigh the discomfort of sacrifice.",
+          "reply": "The reply emphasizes victims’ stakes; the critic asks whether that makes every opportunity mandatory and sustainable."
+        },
+        {
+          "objection": "Personal projects may be less important than urgent needs.",
+          "reply": "That supports substantial duties but does not settle how much sacrifice morality can demand across a life."
+        }
+      ],
+      "examples": [
+        {
+          "text": "If donating the price of a minor luxury could prevent a serious illness, a strict maximizing view may treat the donation as required rather than admirable.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "peter-singer"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-epistemic-case-for-democracy",
+      "name": "Argument from the epistemic case for democracy",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Democratic participation can improve collective judgment by pooling knowledge, exposing errors, and enabling public inquiry.",
+      "body": "The epistemic defense treats democracy as a way of learning and deciding under conditions of dispersed information. Citizens contribute local knowledge; public criticism reveals consequences; inclusive deliberation can correct elite blind spots. The argument supports democratic procedures when they are sufficiently inclusive and responsive, not the claim that a majority is always correct.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "john-dewey"
+      ],
+      "premises": [
+        "Relevant knowledge is distributed among citizens and affected groups.",
+        "Inclusive participation and public criticism can reveal information unavailable to decision-makers alone.",
+        "Institutions can use that information to revise collective decisions."
+      ],
+      "conclusion": "Democratic institutions can have epistemic value because they organize distributed knowledge and criticism.",
+      "assumptions": [
+        "Participants can communicate, contest, and influence decisions under conditions that limit domination and misinformation."
+      ],
+      "objections": [
+        {
+          "objection": "Majorities can be misinformed, prejudiced, or captured by demagogues.",
+          "reply": "That shows the epistemic benefit depends on institutional quality and does not guarantee correct outcomes."
+        },
+        {
+          "objection": "Experts may reach better decisions than broad participation.",
+          "reply": "Experts can contribute specialized knowledge; democratic accountability helps determine which expertise is relevant and how its effects are distributed."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Residents know local flood patterns that a central agency’s model missed; public hearings can bring that information into planning.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "john-dewey"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-from-the-ethics-of-care-and-dependency",
+      "name": "Argument from the ethics of care and dependency",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The dependence of human life on care challenges moral theories that treat autonomous, independent agents as the default moral subjects.",
+      "body": "People begin life dependent, often become dependent through illness or disability, and rely on networks of care throughout ordinary life. An ethics centered only on contract among independent agents can overlook the labor, vulnerability, and relationships that make agency possible. The argument presses for moral and political theories that treat care as a matter of justice as well as private virtue.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "martha-nussbaum"
+      ],
+      "premises": [
+        "Human agency depends on care across many stages and conditions of life.",
+        "Care labor is often unequally distributed and socially undervalued.",
+        "A theory that ignores these facts omits morally significant needs and burdens."
+      ],
+      "conclusion": "Justice and moral evaluation must account for dependency and the social conditions of care.",
+      "assumptions": [
+        "Care relations can be evaluated without reducing recipients to passive dependents or caregivers to self-sacrificing roles."
+      ],
+      "objections": [
+        {
+          "objection": "Care ethics risks reinforcing gendered expectations that women should provide care.",
+          "reply": "A justice-oriented account makes care labor visible and distributes responsibilities rather than naturalizing unequal roles."
+        },
+        {
+          "objection": "Impartial principles can already account for dependency.",
+          "reply": "They may do so, but the argument asks whether abstract formulations adequately capture relational duties and lived burdens."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A caregiver’s unpaid work can enable another person’s independence while remaining invisible in measures of economic contribution.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "care-ethics",
+        "martha-nussbaum"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-harm-principle",
+      "name": "Argument from the harm principle",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Mill argues that coercion over a competent adult is justified to prevent harm to others, not merely to enforce that person’s own good.",
+      "body": "The principle limits social and legal power over individuals. A person may be advised, criticized, or persuaded, but coercion requires preventing harm to others. Mill’s formulation depends on questions about competence, harm, and indirect effects; it is not a claim that all conduct is harmless or beyond regulation.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "john-stuart-mill"
+      ],
+      "premises": [
+        "Individuals are generally sovereign over their own body and mind.",
+        "Preventing harm to others can justify coercive interference.",
+        "A person’s own good alone is insufficient justification for coercion over a competent adult."
+      ],
+      "conclusion": "Paternalistic coercion over competent adults needs justification beyond the claim that it benefits them.",
+      "assumptions": [
+        "The conduct is genuinely self-regarding and the person has capacity to decide."
+      ],
+      "objections": [
+        {
+          "objection": "Some choices impose diffuse risks or costs on others.",
+          "reply": "The principle permits regulation of other-regarding harm, but defining indirect harms remains contested."
+        },
+        {
+          "objection": "Vulnerability or addiction may undermine competence or voluntariness.",
+          "reply": "That may justify targeted intervention, though it requires evidence and safeguards against expansive paternalism."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A government may warn an adult about a dangerous diet, but a ban needs a justification tied to harm beyond that adult’s own welfare.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "harm-principle",
+        "john-stuart-mill"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-from-the-knowledge-problem-in-central-planning",
+      "name": "Argument from the knowledge problem in central planning",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Hayek argues that economic knowledge is dispersed, local, and often tacit, making centralized allocation unable to gather it all in time.",
+      "body": "Prices and decentralized exchange can communicate changes in scarcity without any one planner knowing every local condition. A central authority that tries to allocate resources from a single plan risks losing information embedded in people’s changing circumstances and practical know-how. The argument favors decentralized coordination in many settings, though it does not show that markets solve every problem or that public planning is never useful.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [],
+      "premises": [
+        "Economic decisions depend on local and often tacit information.",
+        "No central planner can readily collect and update all relevant knowledge.",
+        "Decentralized price signals can coordinate some choices without central possession of the underlying information."
+      ],
+      "conclusion": "Centralized planning faces an epistemic limit when relevant knowledge is dispersed and rapidly changing.",
+      "assumptions": [
+        "Prices reflect relevant social costs adequately enough for the domains at issue, and decentralized systems do not systematically exclude important information."
+      ],
+      "objections": [
+        {
+          "objection": "Markets omit externalities, public goods, and unequal bargaining power.",
+          "reply": "The knowledge argument concerns coordination, not a complete defense of market outcomes; regulation can address some omissions."
+        },
+        {
+          "objection": "Modern computation may improve central information processing.",
+          "reply": "Better computation helps with explicit data but may not capture tacit, changing knowledge or the incentive to report it accurately."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A local shortage of a material can be reflected in a price change before a central office learns which factories need it and why.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-from-the-mind-body-causal-exclusion-problem",
+      "name": "Argument from the mind–body causal exclusion problem",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If every physical effect already has a sufficient physical cause, distinct mental causes seem either redundant or excluded.",
+      "body": "This exclusion argument focuses on mental causation in a physically complete world. A mental event such as deciding to raise an arm appears to cause bodily movement, while a neural event also suffices to cause it. If the mental event is distinct from the neural cause, one must explain whether both cause the movement, whether one is reducible to the other, or whether mental properties are causally idle.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [],
+      "premises": [
+        "Mental events cause bodily behavior.",
+        "Physical events have sufficient physical causes.",
+        "Distinct sufficient causes of the same effect require explanation rather than routine duplication."
+      ],
+      "conclusion": "Mental causation requires an account of how mental and physical descriptions fit together under physical causal completeness.",
+      "assumptions": [
+        "Mental properties are causally relevant and the physical causal order is complete."
+      ],
+      "objections": [
+        {
+          "objection": "A mental event can be identical with its physical realization under different descriptions.",
+          "reply": "This avoids duplicate causes but presses theories that treat mental properties as irreducible."
+        },
+        {
+          "objection": "Causal overdetermination can be common rather than exceptional.",
+          "reply": "The defender must explain why systematic overdetermination is plausible and not merely stipulated."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The intention to move an arm and the neural activity preceding it may be one event viewed at different explanatory levels.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-from-the-moral-law",
+      "name": "Argument from the moral law",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Kant argues that practical reason’s unconditional moral demand gives rational support to postulates such as freedom, immortality, and God.",
+      "body": "The argument starts from the authority of moral obligation, not from observed design or causal origins. Kant holds that reason commands us to promote the highest good, in which virtue and happiness are proportionate. Because this complete good cannot be secured by finite agents alone, practical reason postulates God and immortality; freedom is presupposed in moral agency. These are practical commitments, not theoretical demonstrations of existence.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "immanuel-kant"
+      ],
+      "premises": [
+        "Moral obligation is rationally binding.",
+        "We are obligated to promote the highest good, joining virtue with happiness proportionate to virtue.",
+        "The highest good is not attainable through finite human agency alone.",
+        "Practical reason may rationally postulate conditions needed to make its end coherent."
+      ],
+      "conclusion": "Moral practical reason licenses commitment to freedom and, in Kant’s framework, to God and immortality as conditions associated with the highest good.",
+      "assumptions": [
+        "The highest good is a genuine practical end and rational commitment may extend beyond theoretical evidence."
+      ],
+      "objections": [
+        {
+          "objection": "The demand to promote virtue does not imply that the world must reward virtue.",
+          "reply": "Kant treats the highest good as a rationally required end; critics reject that move from moral duty to a cosmic condition."
+        },
+        {
+          "objection": "A postulate useful for moral hope is not evidence that its object exists.",
+          "reply": "Kant distinguishes practical warrant from theoretical proof, but critics may deny that this warrants belief rather than hope."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A person may act morally while hoping that justice ultimately aligns happiness with virtue, though the hope does not function as a scientific inference.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "immanuel-kant"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-from-the-no-self-analysis",
+      "name": "Argument from the no-self analysis",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A person may be only a changing bundle of perceptions rather than a separately observable, persisting self.",
+      "body": "Hume reports that introspection finds particular perceptions—sensations, emotions, thoughts—but never a bare self apart from them. Personal identity may therefore consist in relations among changing mental states, especially memory and causal continuity, rather than an invariant substance. The argument challenges a simple enduring-self theory but does not settle whether a self can be a process or construction.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "david-hume"
+      ],
+      "premises": [
+        "Every experience encountered in introspection is a particular perception.",
+        "A self-substance would have to be distinguishable from those perceptions.",
+        "No such additional entity is encountered in introspection."
+      ],
+      "conclusion": "Introspection does not reveal a distinct, unchanging self in addition to the stream of experiences.",
+      "assumptions": [
+        "If a self exists as a distinct substance, it should be available to the relevant first-person inquiry."
+      ],
+      "objections": [
+        {
+          "objection": "The self is a subject of experience, not itself another experience to be observed.",
+          "reply": "This explains why introspection may not reveal it as an object, but the critic asks what evidence supports the subject’s existence."
+        },
+        {
+          "objection": "Memory and continuity require an owner who persists through time.",
+          "reply": "Bundle theorists can treat continuity relations as constitutive, though critics argue this may not capture ownership."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A person’s perceptions change from childhood to adulthood, while memory and psychological links may explain why we call the later person the same.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "bundle-theory",
+        "david-hume"
+      ],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "argument-from-the-nonidentity-problem",
+      "name": "Argument from the nonidentity problem",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Some policies change who will exist, making it hard to explain their wrongness by claiming they harm particular future people.",
+      "body": "A choice can affect the timing of conception, environmental conditions, or social policy so that different people are born. If a worse policy leads to a life still worth living, the resulting person may not be worse off than they otherwise would have been, because they would not otherwise exist. The challenge is to explain why choosing that policy is wrong without relying solely on person-affecting harm.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "derek-parfit"
+      ],
+      "premises": [
+        "Some choices determine which future people exist.",
+        "A policy can produce a person whose life is worth living but worse than the life of a different person under an alternative.",
+        "The resulting person is not made worse off than they otherwise would have been if they would not otherwise exist."
+      ],
+      "conclusion": "A person-affecting account of harm alone may fail to explain why some choices that shape future populations are objectionable.",
+      "assumptions": [
+        "Moral evaluation should explain the wrongness of policies whose effects concern future people."
+      ],
+      "objections": [
+        {
+          "objection": "The policy may be wrong because it violates impersonal standards of justice or quality of life.",
+          "reply": "That is a common response, though it requires accepting principles not reducible to comparative harm to a particular person."
+        },
+        {
+          "objection": "The relevant comparison may concern rights or risk rather than whether an individual is worse off.",
+          "reply": "Such accounts can handle some cases but still need to explain the moral status of people brought into existence."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A government delays pollution controls; a different timing of the decision means different future children are conceived, some into seriously impaired but worthwhile lives.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "derek-parfit"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-pessimistic-induction",
+      "name": "Argument from the pessimistic induction",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Because many past successful scientific theories were later rejected, current success may not justify confidence that present theories are approximately true.",
+      "body": "The historical argument reverses the no-miracles inference. Earlier theories often generated useful predictions and explanations yet were later abandoned, so present-day success alone may be a poor guide to truth. The induction does not prove current theories false; it challenges a simple inference from success to approximate truth and presses realists to identify what survives theory change.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [],
+      "premises": [
+        "Many historically successful theories were later rejected or substantially revised.",
+        "Their success did not guarantee that their central claims were approximately true.",
+        "Current theories are not automatically exempt from this pattern."
+      ],
+      "conclusion": "Past theory change gives reason to be cautious about inferring truth from present scientific success alone.",
+      "assumptions": [
+        "The historical cases are relevantly similar to contemporary scientific success, and success by itself does not distinguish truth from useful idealization."
+      ],
+      "objections": [
+        {
+          "objection": "Modern theories are supported by more precise instruments and cumulative testing.",
+          "reply": "This may weaken the analogy, but the pessimist asks whether it gives a principled guarantee against future revision."
+        },
+        {
+          "objection": "Later theories often preserve parts of earlier theories that explain their success.",
+          "reply": "Selective preservation can support a qualified realism, though it requires a non-arbitrary account of which parts are retained."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The caloric theory explained some thermal phenomena before heat was understood differently, warning that explanatory usefulness need not validate its ontology.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-from-the-principle-of-humanity",
+      "name": "Argument from the principle of humanity",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The Kantian universalization test asks whether an agent’s maxim could be willed as a universal law without contradiction.",
+      "body": "An agent states the maxim guiding an action, imagines everyone acting on it, and asks whether the practice or purpose would become impossible or self-defeating. A contradiction in conception indicates a strict constraint; a contradiction in will indicates that a rational agent could not coherently will the universalized practice. The test’s results depend on how maxims are described and is not simply “what if everyone did it?”",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "immanuel-kant"
+      ],
+      "premises": [
+        "Moral maxims should be fit for universal legislation.",
+        "A maxim that destroys the conditions of its own success cannot be consistently universalized.",
+        "Rational agents must not will principles that undermine their own necessary agency or ends."
+      ],
+      "conclusion": "Some maxims are impermissible because they cannot coherently be willed as universal laws.",
+      "assumptions": [
+        "Maxims can be stated without ad hoc narrowing or overbroad generalization."
+      ],
+      "objections": [
+        {
+          "objection": "Different descriptions of a maxim yield different results.",
+          "reply": "Kantian reasoning must defend a morally relevant description; the ambiguity is a real interpretive and practical challenge."
+        },
+        {
+          "objection": "Universalization can permit or forbid actions in ways that seem counterintuitive.",
+          "reply": "The defender can revise the maxim or interpretation, but must avoid adjusting it solely to secure a preferred verdict."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A promise made with no intention to keep it relies on a practice of trust that universal false promising would undermine.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "categorical-imperative",
+        "immanuel-kant"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-principle-of-marginal-cases",
+      "name": "Argument from the principle of marginal cases",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If rationality, autonomy, or language grounds equal moral status, some humans have less of those capacities than some animals, challenging species-based exclusion.",
+      "body": "The argument compares the criteria used to include humans in moral consideration with the capacities of nonhuman animals. Infants and some cognitively disabled people do not possess certain capacities often cited to distinguish humans, while many animals show sentience and interests. The argument pressures a simple species boundary; it does not establish that all beings have identical rights or needs.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "peter-singer"
+      ],
+      "premises": [
+        "A proposed capacity grounds a significant moral status or protection.",
+        "Some humans lack that capacity to a greater degree than some nonhuman animals.",
+        "Species membership itself does not explain why those animals’ interests count for nothing."
+      ],
+      "conclusion": "Species membership alone is difficult to defend as the basis for excluding sentient nonhuman animals from moral consideration.",
+      "assumptions": [
+        "The comparison concerns relevant moral status, not identical treatment in every respect."
+      ],
+      "objections": [
+        {
+          "objection": "Humans may have status because they belong to a species whose typical members are rational.",
+          "reply": "Critics question why typical capacities confer full status on individuals who lack them, or why group membership should govern moral consideration."
+        },
+        {
+          "objection": "Different beings have different interests and may warrant different protections.",
+          "reply": "The argument allows differentiated treatment; it challenges excluding interests solely on species grounds."
+        }
+      ],
+      "examples": [
+        {
+          "text": "If sentience grounds protection from pain, a sentient animal’s pain cannot be dismissed merely because the animal is not human.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "speciesism",
+        "peter-singer"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-problem-of-moral-luck",
+      "name": "Argument from the problem of moral luck",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If moral assessment depends on factors beyond an agent’s control, ordinary judgments conflict with the principle that blame should track control.",
+      "body": "Moral luck occurs when outcomes, circumstances, character, or causal histories affect assessment despite not being fully controlled by the agent. The tension is between the control principle and familiar practices that distinguish a successful attempt from an unsuccessful one. The argument exposes a conflict; it does not by itself decide whether to revise responsibility judgments or the control principle.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [],
+      "premises": [
+        "Moral responsibility should depend only on factors under the agent’s control.",
+        "In practice, judgments of responsibility vary with outcomes and circumstances beyond control.",
+        "Those judgments are not merely judgments about harm or compensation."
+      ],
+      "conclusion": "Ordinary moral assessment is difficult to reconcile with a strict principle that agents are responsible only for what they control.",
+      "assumptions": [
+        "The control principle expresses a plausible constraint on blame, and the cases compare agents alike in relevant controllable respects."
+      ],
+      "objections": [
+        {
+          "objection": "Different outcomes can change the harm caused, so different responses need not mean different culpability.",
+          "reply": "That distinction helps with consequences but may not explain why blame itself often changes."
+        },
+        {
+          "objection": "The control principle may be too strong; responsibility can attach to choices within luck-shaped circumstances.",
+          "reply": "This is a coherent revision, but it concedes the argument’s pressure on the principle."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Two equally reckless drivers behave identically, but only one happens to strike a pedestrian; observers often blame the one who caused injury more.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-repugnant-conclusion",
+      "name": "Argument from the repugnant conclusion",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Population principles can imply that a very large population with lives barely worth living is better than a smaller population with excellent lives.",
+      "body": "The repugnant conclusion emerges from a sequence of plausible-looking comparisons: adding people with positive welfare may seem to improve a population, and equalizing welfare may seem acceptable, until a huge population of lives just above neutral is ranked above a smaller, flourishing population. The argument is a challenge to population ethics and the principles that generate the result, not an uncontested proof that the conclusion is false.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "derek-parfit"
+      ],
+      "premises": [
+        "A population with greater total welfare may be judged better when no one is made worse off.",
+        "Adding worthwhile lives can seem like an improvement.",
+        "Repeated application of such comparisons can lead to a vast population with low welfare outranking a smaller population with very high welfare."
+      ],
+      "conclusion": "Some individually plausible population principles jointly produce a deeply counterintuitive ranking.",
+      "assumptions": [
+        "Comparisons across populations can be assessed by a consistent ranking of overall outcomes."
+      ],
+      "objections": [
+        {
+          "objection": "Intuitions about enormous populations may be unreliable or distorted by scale.",
+          "reply": "This cautions against relying on the intuition, but does not remove the formal pressure among the principles."
+        },
+        {
+          "objection": "A theory can reject total welfare or reject unrestricted addition of worthwhile lives.",
+          "reply": "Those are available responses, each with costs for other population comparisons."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A small society of exceptionally flourishing people is compared with a much larger society whose many lives are only slightly better than neutral.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "parfit-s-repugnant-conclusion",
+        "derek-parfit"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-rule-following-paradox",
+      "name": "Argument from the rule-following paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Wittgenstein’s skeptical challenge asks what fact determines that a rule has one application rather than another in every new case.",
+      "body": "A finite history of rule use appears compatible with many interpretations of what the rule requires next. Any explicit interpretation itself requires interpretation, risking a regress. Wittgenstein’s discussion is often read as rejecting a hidden fact that fixes every application and locating normativity in shared practices of training, correction, and agreement. This is not simply the claim that rules are impossible.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "ludwig-wittgenstein"
+      ],
+      "premises": [
+        "Past applications of a rule are finite.",
+        "Those applications are compatible with multiple formulations that diverge in new cases.",
+        "An interpretation cannot settle the issue without itself being applied under a rule."
+      ],
+      "conclusion": "Rule-following cannot be grounded by an interpretation that independently determines every future application; normativity depends on practices of use.",
+      "assumptions": [
+        "Meaningful rule use is embedded in public practices that establish standards of correct and incorrect continuation."
+      ],
+      "objections": [
+        {
+          "objection": "A mental representation or algorithm can encode the rule and determine applications.",
+          "reply": "The challenge recurs at the level of interpreting the representation; computational accounts explain application only within a framework of use."
+        },
+        {
+          "objection": "Social agreement may explain convention but not objective correctness.",
+          "reply": "Wittgensteinian replies distinguish shared practice from mere majority opinion, though the status of normativity remains disputed."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A learner follows “add two” for observed examples; finite examples alone do not logically rule out a bizarre alternative rule that matches them but diverges later.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "rule-following-problem",
+        "ludwig-wittgenstein"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-from-the-state-of-nature-to-political-authority",
+      "name": "Argument from the state of nature to political authority",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Hobbes argues that without a common power to enforce agreements, insecurity makes stable cooperation and peace precarious.",
+      "body": "The state-of-nature argument is a hypothetical comparison, not necessarily a historical claim. Where there is no common authority, each person must judge threats and protect themselves; mistrust and conflict make cooperation fragile. Rational agents therefore authorize a sovereign capable of enforcing rules. The argument supports authority as a solution to insecurity, while raising questions about the limits of sovereign power.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "thomas-hobbes"
+      ],
+      "premises": [
+        "Without common enforcement, agreements are unreliable.",
+        "Unreliable cooperation creates persistent insecurity and incentives for preemption.",
+        "A sufficiently powerful common authority can reduce those conditions."
+      ],
+      "conclusion": "A coercive common authority can be rationally justified as a means of escaping severe insecurity.",
+      "assumptions": [
+        "The authority can secure peace better than decentralized arrangements and its power does not create greater harms."
+      ],
+      "objections": [
+        {
+          "objection": "A sovereign can itself become the source of violence and oppression.",
+          "reply": "Hobbes prioritizes security, but critics argue that the justification needs limits or a comparison with constitutional alternatives."
+        },
+        {
+          "objection": "Communities can sustain cooperation without a centralized sovereign.",
+          "reply": "That challenges the necessity claim, though the success of such arrangements may depend on scale and conditions."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Without an impartial enforcer, rival households may arm themselves because each fears the other will break a truce first.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "state-of-nature",
+        "thomas-hobbes"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-from-the-unity-of-consciousness",
+      "name": "Argument from the unity of consciousness",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The apparent unity of experience is argued to require a subject or organizing condition that integrates distinct representations.",
+      "body": "At a time, perceptions, memories, and thoughts appear as parts of one conscious perspective rather than unrelated mental items. The argument asks what accounts for this unity. Kant’s transcendental version treats a capacity to combine representations under a unified self-consciousness as a condition for experience. That need not establish an enduring soul or a simple substance; different accounts explain unity differently.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "immanuel-kant"
+      ],
+      "premises": [
+        "Conscious experiences occur as an integrated field for a subject.",
+        "Integration is not explained merely by listing isolated representations.",
+        "A condition of integration must make the representations jointly available or attributable."
+      ],
+      "conclusion": "Unified experience requires some principle or process that integrates representations into one perspective.",
+      "assumptions": [
+        "Phenomenal unity is real and requires explanation beyond mere co-occurrence."
+      ],
+      "objections": [
+        {
+          "objection": "Neural coordination and information integration may explain unity without a metaphysical self.",
+          "reply": "Such mechanisms could explain functional integration; whether they explain phenomenal unity remains disputed."
+        },
+        {
+          "objection": "The unity may be constructed by memory and narrative rather than present as a single field.",
+          "reply": "That account may explain diachronic unity but must also address simultaneous integration."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A person hears a melody while seeing a performer and experiences them as parts of one scene, not separate streams.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "immanuel-kant"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-from-the-value-of-free-expression",
+      "name": "Argument from the value of free expression",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Mill argues that suppressing an opinion deprives society of the chance to correct error or understand truth more fully.",
+      "body": "The case for free discussion is epistemic and civic. A silenced view may be true, partly true, or false but useful because defending a true view against challenge prevents it from becoming a dead dogma. Mill’s argument is not that every expression is harmless: his harm principle allows regulation in contexts where expression directly incites harm.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "john-stuart-mill"
+      ],
+      "premises": [
+        "A suppressed opinion may be true or partly true.",
+        "Even a false opinion can expose neglected reasons or clarify the grounds of a true one.",
+        "Unchallenged beliefs can become rote and lose their meaning."
+      ],
+      "conclusion": "Broad freedom of discussion benefits truth-seeking and understanding, so suppression requires a strong justification.",
+      "assumptions": [
+        "Open contestation is more likely than censorship to correct error, subject to limits for direct harm."
+      ],
+      "objections": [
+        {
+          "objection": "False or harmful speech can manipulate audiences and cause serious injury.",
+          "reply": "The argument does not eliminate all limits; it raises the burden for suppression and distinguishes discussion from direct incitement."
+        },
+        {
+          "objection": "Powerful speakers may dominate discussion, so formal freedom may not secure equal hearing.",
+          "reply": "This identifies institutional conditions needed for the benefits Mill describes."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A mistaken medical theory can force defenders of a sound theory to explain evidence and assumptions that routine acceptance would leave unexamined.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "john-stuart-mill"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-from-the-value-of-political-authority",
+      "name": "Argument from the value of political authority",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Raz argues that authority can help people conform better to reasons that already apply to them.",
+      "body": "The service conception treats authority as justified when following its directives helps subjects better comply with the reasons that apply to them than deciding independently. Directives can pre-empt some personal reconsideration by settling coordination or expertise-sensitive questions. The argument justifies authority conditionally, not as an unlimited right to command.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "joseph-raz"
+      ],
+      "premises": [
+        "People are subject to reasons that apply whether or not an authority issues a directive.",
+        "In some domains, coordinated or expert directives help people follow those reasons more reliably.",
+        "An authority is justified only where it provides this service and meets relevant conditions."
+      ],
+      "conclusion": "Authority is legitimate when its directives help subjects conform better to the reasons that independently apply to them.",
+      "assumptions": [
+        "Subjects are more likely to comply with the reasons through the authority than through independent judgment."
+      ],
+      "objections": [
+        {
+          "objection": "Authorities can be incompetent, biased, or self-interested.",
+          "reply": "The service conception makes legitimacy conditional on actual competence and scope; it does not vindicate every directive."
+        },
+        {
+          "objection": "Subjects may know their own reasons better than the authority.",
+          "reply": "In those cases the authority may fail its justification test, which limits rather than defeats the account."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Traffic rules can coordinate drivers better than each driver independently deciding which side of the road to use.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "joseph-raz"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-from-the-value-of-virtue-ethics",
+      "name": "Argument from the value of virtue ethics",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Virtue ethics argues that moral understanding requires attention to character, practical wisdom, and human flourishing, not only rules or outcomes.",
+      "body": "The approach evaluates what a good person would perceive and do in context. Aristotle’s account connects virtues to stable dispositions and practical wisdom, which helps agents judge particulars that universal rules may not settle. The argument is that a complete ethics must explain how people become capable of good judgment, not merely classify acts.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "aristotle"
+      ],
+      "premises": [
+        "Moral situations vary in particulars that general rules may not capture.",
+        "Good judgment requires stable dispositions to perceive and respond well.",
+        "Ethical theory should explain how those dispositions are cultivated and exercised."
+      ],
+      "conclusion": "Character and practical wisdom are indispensable parts of moral evaluation and ethical development.",
+      "assumptions": [
+        "Human flourishing is a meaningful ethical aim, and virtues can be identified without circularly defining them as whatever the virtuous person does."
+      ],
+      "objections": [
+        {
+          "objection": "Virtue ethics may not resolve conflicts or specify duties clearly.",
+          "reply": "Virtue theorists can use practical wisdom and shared exemplars, though critics dispute whether this yields determinate guidance."
+        },
+        {
+          "objection": "Virtue can reflect oppressive social norms.",
+          "reply": "Critical assessment of traditions and institutions is needed to distinguish genuine virtues from compliant dispositions."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Honesty may require tactful disclosure in one context and silence in another; practical wisdom attends to relationship and stakes.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "virtue-ethics",
+        "aristotle"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-wilt-chamberlain-case",
+      "name": "Argument from the Wilt Chamberlain case",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Nozick argues that voluntary transfers from a just distribution can unsettle a patterned distribution, challenging enforced equality.",
+      "body": "The thought experiment starts with a distribution a patterned theory considers just. Many people voluntarily pay a small amount to watch a star athlete; the athlete becomes richer and the pattern changes. Restoring the original pattern requires continual interference with people’s choices. The argument challenges patterned principles, but its force depends on whether the initial holdings and transactions are just.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "robert-nozick"
+      ],
+      "premises": [
+        "A distribution is initially just under the relevant standard.",
+        "People voluntarily transfer small amounts to another person.",
+        "The resulting distribution departs from the pattern.",
+        "Restoring the pattern requires restricting or reversing those transfers."
+      ],
+      "conclusion": "Maintaining a fixed distributive pattern may require repeated interference with voluntary exchanges.",
+      "assumptions": [
+        "Initial holdings and transactions are genuinely just, and voluntary exchange carries substantial moral weight."
+      ],
+      "objections": [
+        {
+          "objection": "Initial holdings may reflect injustice, so later transfers do not vindicate the resulting distribution.",
+          "reply": "Nozick’s entitlement theory requires historical justice; critics argue real holdings rarely satisfy it."
+        },
+        {
+          "objection": "Taxation can preserve fair institutions without abolishing meaningful choice.",
+          "reply": "The example shows a tension, not that every tax is illegitimate; the scope of permissible taxation remains disputed."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Fans each pay a small fee to see a famous athlete, producing a large income difference without any single transfer seeming coercive.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "robert-nozick"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-from-the-wrongness-of-lying-under-a-universal-law",
+      "name": "Argument from the wrongness of lying under a universal law",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Kant’s lying-promise case argues that a maxim of false promising undermines the trust practice it exploits.",
+      "body": "A person in need considers promising repayment without intending to repay. If everyone used that maxim when convenient, promises would lose credibility, defeating the purpose of making one. The argument illustrates a contradiction in conception test. Critics dispute whether the maxim is correctly stated and whether the test proves an absolute duty against every lie.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [
+        "immanuel-kant"
+      ],
+      "premises": [
+        "The false promiser relies on others trusting promises.",
+        "Universal adoption of the maxim would undermine that trust.",
+        "A maxim that defeats its own enabling practice cannot be consistently universalized."
+      ],
+      "conclusion": "A maxim that depends on a practice while universal use would destroy that practice is morally impermissible on Kant’s test.",
+      "assumptions": [
+        "The maxim is described at the right level and the relevant institution of promising is necessary to its success."
+      ],
+      "objections": [
+        {
+          "objection": "A narrowly worded maxim can evade the contradiction.",
+          "reply": "The defender must explain why the morally relevant maxim is broader than the agent’s one-off description."
+        },
+        {
+          "objection": "Lying to prevent grave harm may be permissible despite the universalization test.",
+          "reply": "This motivates revisions or competing formulations of Kantian duties; the example alone does not settle every emergency case."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A borrower promises repayment while intending not to pay, depending on a social practice that universal deception would erode.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "categorical-imperative",
+        "immanuel-kant"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-from-the-zombie-conceivability-premise",
+      "name": "Argument from the zombie conceivability premise",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If a world physically identical to ours without conscious experience is genuinely conceivable, consciousness may not be explained by physical facts alone.",
+      "body": "The conceivability argument begins with a hypothetical duplicate of our world that matches every physical fact but has no phenomenal experience. If such a world is metaphysically possible, physical facts do not necessitate consciousness, challenging physicalism. The key move from conceivability to possibility is disputed; imagining a scenario coherently may not reveal what is metaphysically possible.",
+      "origin": "A contemporary reconstruction of a historically influential argument; scope and formulation vary among defenders.",
+      "keyFigures": [],
+      "premises": [
+        "A zombie world is ideally conceivable: physically identical but lacking phenomenal consciousness.",
+        "Ideal conceivability is a reliable guide to metaphysical possibility.",
+        "If such a world is possible, physical facts do not necessitate consciousness."
+      ],
+      "conclusion": "Physicalism is threatened if a perfect physical duplicate without experience is genuinely metaphysically possible.",
+      "assumptions": [
+        "Conscious experience is not merely an epistemic or conceptual gap in our grasp of physical facts."
+      ],
+      "objections": [
+        {
+          "objection": "Conceivability does not entail possibility; apparent coherence may reflect ignorance.",
+          "reply": "The proponent may distinguish ideal from ordinary conceivability, but that distinction is difficult to establish."
+        },
+        {
+          "objection": "Physical identities can be necessary even when not obvious from concepts.",
+          "reply": "The argument must show why consciousness differs from familiar necessary identities such as water and H2O."
+        }
+      ],
+      "examples": [
+        {
+          "text": "One imagines a molecule-for-molecule duplicate of a person who behaves identically but has no inner experience; the question is whether that description is genuinely possible.",
+          "note": "The example illustrates the inference; it does not by itself establish the premises."
+        }
+      ],
+      "related": [
+        "philosophical-zombie"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-chinese-room",
+      "name": "Chinese room argument",
+      "aliases": [
+        "Searle's Chinese room",
+        "Syntax and semantics argument"
+      ],
+      "symbolName": null,
+      "summary": "Manipulating symbols by formal rules may produce convincing language behavior without understanding their meaning.",
+      "body": "Searle imagines an English speaker who follows a rulebook to answer Chinese questions. Outsiders may judge the replies fluent, yet the operator understands no Chinese. Searle concludes that executing a program by syntax alone is not sufficient for understanding or semantics. The argument targets strong claims that the right program alone constitutes understanding; it does not establish that no machine could understand through embodiment, learning, or other resources.",
+      "origin": "John Searle, “Minds, Brains, and Programs” (1980).",
+      "keyFigures": [],
+      "premises": [
+        "A person who does not understand Chinese can follow a formal program to produce appropriate Chinese replies.",
+        "The person still does not understand Chinese merely by following those symbol-manipulation rules.",
+        "A computer implementing the same program has no relevant understanding-making feature beyond the formal symbol manipulation."
+      ],
+      "conclusion": "Program execution by itself is insufficient for genuine understanding.",
+      "assumptions": [
+        "The thought experiment correctly isolates what program execution contributes.",
+        "Understanding cannot belong to the whole system if its operator lacks understanding.",
+        "The relevant comparison is between symbol manipulation and semantics, not human biology versus machines generally."
+      ],
+      "objections": [
+        {
+          "objection": "The systems reply: although the operator does not understand, the whole room system does.",
+          "reply": "Searle argues that internalizing the rules and symbols still would not create Chinese understanding; critics say whole-system understanding need not be introspectively available to a component."
+        },
+        {
+          "objection": "A robot with perception and action could ground symbols in the world.",
+          "reply": "Searle treats this as adding causal capacities beyond a program; critics can argue those capacities may be computable and relevant to meaning."
+        },
+        {
+          "objection": "The imagined operator's lack of understanding is an intuition, not a demonstration about all programs.",
+          "reply": "A defender presents the case as a challenge to sufficiency claims, while accepting that it does not prove impossibility of machine understanding by every route."
+        }
+      ],
+      "examples": [
+        {
+          "text": "An operator uses a lookup manual to return correct Chinese answers without knowing what any character means.",
+          "note": "The scenario separates output competence from the operator's understanding and prompts dispute about whether the whole system understands."
+        }
+      ],
+      "related": [
+        "chinese-room",
+        "strong-artificial-intelligence",
+        "syntax",
+        "semantics"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-cogito",
+      "name": "Cogito argument",
+      "aliases": [
+        "Cogito ergo sum",
+        "I think, therefore I am"
+      ],
+      "symbolName": null,
+      "summary": "Descartes argues that doubting or thinking cannot occur unless there is a thinker existing at least while the thought occurs.",
+      "body": "In the Meditations, Descartes seeks a belief that survives radical doubt. He treats even a deceiving-demon scenario as unable to undermine the occurrence of his doubting: being deceived is itself a thought. The conclusion is deliberately narrow. It establishes existence as a thinking thing at the moment of thought; further claims about a persisting self or its nature need additional reasoning. This is a reconstruction of a sequence of reflections, not a formal proof stated in one canonical premise list.",
+      "origin": "René Descartes, Meditations on First Philosophy (1641), especially Meditation II.",
+      "keyFigures": [
+        "rene-descartes"
+      ],
+      "premises": [
+        "I am now thinking, doubting, or being deceived.",
+        "Thinking cannot occur unless something exists that is doing the thinking, at least in that occurrence.",
+        "A claim that no thinker exists is itself a thought that must occur to an existent thinker."
+      ],
+      "conclusion": "I exist while I am thinking.",
+      "assumptions": [
+        "The occurrence of thought entails an existent subject or thinker.",
+        "The conclusion is time-indexed; it does not alone establish a lasting, immaterial, or substantial self."
+      ],
+      "objections": [
+        {
+          "objection": "The argument may assume a subject when the thought could be an impersonal event.",
+          "reply": "A defender can say that the first-person occurrence is not merely an event described from outside: the act of doubting presents itself as someone's act, though the metaphysical status of that someone remains open."
+        },
+        {
+          "objection": "It establishes too little to answer ordinary skepticism about the external world.",
+          "reply": "That is a limit of scope, not a failure of the modest conclusion. Descartes needs further arguments for claims about body and world."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A deceiver makes me believe falsely that I am thinking.",
+          "note": "Even if the content is false, the seeming or believing still occurs."
+        },
+        {
+          "text": "Someone asks whether they exist while questioning everything.",
+          "note": "The questioning itself is the case the argument uses."
+        }
+      ],
+      "related": [
+        "knowledge",
+        "self",
+        "consciousness",
+        "rene-descartes"
+      ],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-consequence",
+      "name": "Consequence argument for incompatibilism",
+      "aliases": [
+        "Consequence argument",
+        "No-choice argument"
+      ],
+      "symbolName": null,
+      "summary": "If determinism makes the past and laws fixed, and our actions follow from them, we may have no choice about what we do.",
+      "body": "The consequence argument challenges compatibilism by tracing actions to facts outside an agent's control. If determinism is true, the remote past and laws of nature determine the present action. No one has a choice about the past or laws; if lack of choice transfers across entailment, then no one has a choice about the action either. The transfer principle is central and disputed. The argument does not by itself show determinism is true or establish what freedom requires.",
+      "origin": "Peter van Inwagen, An Essay on Free Will (1983); the transfer principle is commonly associated with the consequence argument.",
+      "keyFigures": [],
+      "premises": [
+        "If determinism is true, the conjunction of the remote past and laws of nature entails each present action.",
+        "No agent has a choice about the remote past or the laws of nature.",
+        "If an agent has no choice about P and no choice about the fact that P entails Q, then the agent has no choice about Q."
+      ],
+      "conclusion": "If determinism is true, agents have no choice about their actions in the relevant sense.",
+      "assumptions": [
+        "The transfer principle correctly captures control across entailment.",
+        "Freedom requires the ability to do otherwise in the relevant sense.",
+        "Determinism is being treated as a thesis about entailment by past and laws."
+      ],
+      "objections": [
+        {
+          "objection": "The transfer principle may be too strong: an agent can control an outcome entailed by facts they do not control.",
+          "reply": "An incompatibilist can defend the principle for entailment fixed wholly by past and laws; compatibilists argue that this still ignores reasons-responsive agency."
+        },
+        {
+          "objection": "Compatibilist freedom concerns acting from one's reasons and desires, not changing the past or laws.",
+          "reply": "The argument presses whether such reasons-responsive action is enough when determinism is true; the compatibilist can reject the argument's freedom requirement."
+        },
+        {
+          "objection": "Indeterminism would not automatically give control; randomness can also undermine authorship.",
+          "reply": "The consequence argument targets determinism and does not claim that indeterminism alone yields freedom; a libertarian theory needs a further account."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A person's action follows necessarily from the fixed past and laws, neither of which they could alter.",
+          "note": "The argument asks whether the absence of choice about these premises transfers to the action they entail."
+        }
+      ],
+      "related": [
+        "causal-determinism",
+        "free-will",
+        "compatibilism",
+        "incompatibilism"
+      ],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "argument-cosmological",
+      "name": "Cosmological argument",
+      "aliases": [
+        "First cause argument",
+        "Argument from existence"
+      ],
+      "symbolName": null,
+      "summary": "The existence, dependence, or beginning of the universe is used to argue for an ultimate cause or explanation.",
+      "body": "Cosmological arguments are a family rather than one proof. A contingency version begins with things that could have failed to exist and asks for an explanation of their existence; a causal version reasons from causes or a beginning. Some versions conclude only that there is a necessary ground or first cause. Further argument is needed to identify that ground with a personal God and attribute divine properties. The premise sets below represent a contingency-style reconstruction.",
+      "origin": "Aquinas's Five Ways (13th century), with earlier and later variants; this reconstruction follows a contingency form discussed in natural theology.",
+      "keyFigures": [
+        "thomas-aquinas",
+        "aristotle"
+      ],
+      "premises": [
+        "At least one contingent thing exists.",
+        "The existence of contingent things calls for an explanation beyond simply restating that they exist.",
+        "An explanatory chain consisting only of contingent things does not fully explain why any contingent things exist."
+      ],
+      "conclusion": "There is some necessary ground or explanation of contingent reality.",
+      "assumptions": [
+        "A sufficiently strong principle of explanation is true for contingent existence.",
+        "The explanatory regress cannot be left as an unexplained totality.",
+        "The conclusion does not alone establish that the necessary ground is the God of any particular religion."
+      ],
+      "objections": [
+        {
+          "objection": "The universe or totality of contingent things may simply be a brute fact.",
+          "reply": "A defender can argue that brute contingency is less satisfying than a necessary ground, but must explain why explanatory demand applies to the totality."
+        },
+        {
+          "objection": "An infinite regress of contingent causes may be possible.",
+          "reply": "The contingency defender can say that an infinite chain still leaves unexplained why the chain exists at all; critics dispute whether the whole needs a further cause."
+        },
+        {
+          "objection": "Even a necessary ground need not be personal or unique.",
+          "reply": "This objection limits what follows. The defender must offer separate arguments for further divine attributes."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Every book in a library has an author, but the library as a whole may not have a further author.",
+          "note": "The analogy questions whether explanations of members automatically explain a whole; cosmological defenders distinguish an aggregate from the existence of the entire contingent series."
+        }
+      ],
+      "related": [
+        "contingency",
+        "contingent-being",
+        "sufficient-condition",
+        "theism",
+        "aristotle",
+        "thomas-aquinas"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-dream-skepticism",
+      "name": "Dream and skeptical argument",
+      "aliases": [
+        "Dream argument",
+        "Cartesian dream argument"
+      ],
+      "symbolName": null,
+      "summary": "Because dreams can feel like waking experience, present experience alone may not prove that one is awake.",
+      "body": "Descartes observes that he has sometimes dreamed experiences much like waking ones. If there is no infallible mark distinguishing waking from dreaming, sensory experience may fail to establish that the external world is as it appears. The argument motivates suspension about particular perceptual beliefs, not necessarily the conclusion that we are dreaming. Descartes later tries to recover knowledge through further premises about God and clear perception, which are themselves disputed.",
+      "origin": "René Descartes, Meditations on First Philosophy (1641), Meditation I.",
+      "keyFigures": [
+        "rene-descartes"
+      ],
+      "premises": [
+        "Dreams can present experiences that seem vivid and coherent while they occur.",
+        "The current experience could be a dream indistinguishable from waking experience by the features considered so far.",
+        "If two incompatible scenarios fit all available evidence, that evidence alone does not establish which scenario obtains."
+      ],
+      "conclusion": "Current sensory experience alone may not provide certainty that one is awake or that the external world is as perceived.",
+      "assumptions": [
+        "The goal is certainty or knowledge that excludes skeptical alternatives.",
+        "A dream possibility is epistemically relevant even if it is not probable.",
+        "Evidence from memory and coherence may not decisively distinguish waking from dreaming."
+      ],
+      "objections": [
+        {
+          "objection": "Waking life has stable continuity and shared verification absent in ordinary dreams.",
+          "reply": "A skeptic can ask whether these are known directly or inferred from within experience; a fallibilist replies that they still provide strong, defeasible evidence."
+        },
+        {
+          "objection": "The possibility of error does not erase knowledge.",
+          "reply": "The argument targets infallibilist standards; externalists and contextualists can deny that knowledge requires ruling out every skeptical scenario."
+        },
+        {
+          "objection": "Dreaming is not genuinely indistinguishable once examined carefully.",
+          "reply": "Descartes uses the possibility to motivate doubt, not to claim all dreams are perfect replicas; critics can narrow the scenario's reach."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A dreamer seems to be sitting by a fire, then wakes and finds no fire.",
+          "note": "The remembered resemblance illustrates why the experience's felt vividness may not settle whether it is waking."
+        }
+      ],
+      "related": [
+        "skepticism",
+        "brain-in-a-vat",
+        "knowledge",
+        "rene-descartes"
+      ],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-experience-machine",
+      "name": "Experience machine argument",
+      "aliases": [
+        "Nozick's experience machine",
+        "Machine argument"
+      ],
+      "symbolName": null,
+      "summary": "If a life of simulated pleasure seems worse than a real life, pleasure alone may not make a life go well.",
+      "body": "Nozick asks whether people would choose a machine that guarantees the experiences they most want while concealing that they are simulated. Many judge that they would lose something important: doing things rather than merely seeming to do them, being a certain kind of person, or living in contact with reality. The argument challenges hedonism about well-being; it does not by itself prove that pleasure has no value or settle every theory of welfare.",
+      "origin": "Robert Nozick, Anarchy, State, and Utopia (1974), chapter 3.",
+      "keyFigures": [
+        "robert-nozick"
+      ],
+      "premises": [
+        "A machine can provide a life of experiences as pleasant and varied as the experiences a person would choose.",
+        "Many people would refuse permanent connection, even with assurance the experiences would be indistinguishable from real life.",
+        "Their refusal is best explained by valuing something beyond pleasant experience."
+      ],
+      "conclusion": "Pleasure or experience alone does not exhaust what makes a life go well.",
+      "assumptions": [
+        "Intuitions about the hypothetical are reliable enough to bear on theories of well-being.",
+        "The refusal is motivated by a good such as reality or agency, rather than fear, distrust, or status quo bias."
+      ],
+      "objections": [
+        {
+          "objection": "People may refuse because they distrust the machine, not because reality has independent value.",
+          "reply": "The thought experiment stipulates reliable operation and asks whether refusal persists under trust; critics can still reject the stipulation's psychological plausibility."
+        },
+        {
+          "objection": "The case shows only that people value contact with reality, not that contact makes their lives better.",
+          "reply": "A defender can distinguish wanting something from its contribution to welfare, but argues that ordinary welfare judgments treat genuine achievement and relationships as goods."
+        },
+        {
+          "objection": "The choice is too extreme to test everyday hedonism.",
+          "reply": "The case is designed to isolate whether experience is the only intrinsic good; it needs support from other examples to establish a general theory."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A person can have simulated friendships that feel perfect but chooses to remain with real friends despite ordinary conflict.",
+          "note": "This tests whether genuine relationships matter independently of the pleasant feelings they generate."
+        }
+      ],
+      "related": [
+        "experience-machine",
+        "hedonism",
+        "well-being",
+        "thought-experiment-method",
+        "robert-nozick"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-fine-tuning",
+      "name": "Fine-tuning argument",
+      "aliases": [
+        "Cosmic fine-tuning argument",
+        "Argument from fine-tuning"
+      ],
+      "symbolName": null,
+      "summary": "Life-permitting physical parameters are taken to support an explanation, sometimes a designer, over chance alone.",
+      "body": "The argument starts from the claim that some basic physical parameters fall within a narrow range compatible with complex life. It then compares hypotheses: design, chance, deeper physical necessity, or a multiverse with selection effects. The observation can favor design only if the relevant probability distributions and the designer's likely aims are specified. Existing observers necessarily find themselves in observer-compatible conditions, so selection effects matter. This is a probabilistic argument and its scientific and philosophical premises remain contested.",
+      "origin": "Contemporary philosophy of religion and cosmology; major formulations include Robin Collins's fine-tuning argument.",
+      "keyFigures": [],
+      "premises": [
+        "Some parameters in current physical models appear to lie in ranges that permit complex life.",
+        "A life-permitting range is not otherwise physically necessary, and its probability under a chance model is low.",
+        "The observed life-permitting conditions are more expected under a suitably specified design hypothesis than under relevant alternatives."
+      ],
+      "conclusion": "The fine-tuning data provide some evidence for design, if the probability comparison is well grounded.",
+      "assumptions": [
+        "The parameter range and probability measure are meaningful and scientifically defensible.",
+        "Observer selection is accounted for rather than mistaken for independent evidence.",
+        "The design hypothesis predicts life-permitting conditions better than deeper-law or multiverse accounts."
+      ],
+      "objections": [
+        {
+          "objection": "There is no well-established probability distribution over possible constants.",
+          "reply": "A defender can argue that some comparisons remain informative without exact probabilities, but the evidential strength is then less precise."
+        },
+        {
+          "objection": "Observers can only observe conditions compatible with observers, creating a selection effect.",
+          "reply": "A defender can compare observer-conditioned predictions across hypotheses; the critic argues this may remove much of the apparent surprise."
+        },
+        {
+          "objection": "A multiverse or unknown physical law could explain the observed values.",
+          "reply": "A defender can note that these alternatives also require support and may shift rather than eliminate explanatory questions."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A person draws a life-permitting universe from a hypothetical vast set of parameter combinations.",
+          "note": "The example frames why a narrow life-permitting range might look surprising, while the draw's probability model is itself disputed."
+        }
+      ],
+      "related": [
+        "selection-effect",
+        "theism"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-is-ought",
+      "name": "Is–ought argument",
+      "aliases": [
+        "Hume's is–ought problem",
+        "Hume's law"
+      ],
+      "symbolName": null,
+      "summary": "A normative conclusion does not follow from purely descriptive premises without some normative bridge premise.",
+      "body": "Hume observes that writers sometimes move from statements about what is to claims about what ought to be without explaining the transition. A careful reconstruction is a logical point: descriptive premises alone do not entail a normative conclusion unless a normative rule or bridge principle is supplied. This does not show that facts are irrelevant to ethics, nor that no normative truths can be known. It asks that the inferential work connecting facts to obligations be made explicit.",
+      "origin": "David Hume, A Treatise of Human Nature (1739–40), Book III, Part I, Section I.",
+      "keyFigures": [
+        "david-hume"
+      ],
+      "premises": [
+        "A valid deductive argument's conclusion must be entailed by its premises.",
+        "Purely descriptive premises can all be true while a normative conclusion is false.",
+        "Therefore, a normative conclusion is not deductively entailed by descriptive premises alone."
+      ],
+      "conclusion": "Any deduction from facts to an obligation requires at least one normative bridge premise.",
+      "assumptions": [
+        "The distinction between descriptive and normative statements is clear enough for the argument at hand.",
+        "The target inference claims entailment, rather than a defeasible or explanatory relation.",
+        "The conclusion concerns logical support and does not rule out deriving values from a broader theory with normative premises."
+      ],
+      "objections": [
+        {
+          "objection": "Some facts appear inherently normative, so the descriptive/normative split may be false.",
+          "reply": "A defender can ask whether the supposedly descriptive fact already contains normative content; that would make the bridge explicit rather than eliminate the issue."
+        },
+        {
+          "objection": "Moral conclusions can be supported inductively by facts.",
+          "reply": "The argument concerns entailment from purely descriptive premises; inductive support can still depend on background normative commitments."
+        },
+        {
+          "objection": "Hume's passage may concern motivation rather than a formal logical gap.",
+          "reply": "The standard is–ought reading is influential but debated; the reconstruction should not be treated as the only interpretation of Hume."
+        }
+      ],
+      "examples": [
+        {
+          "text": "All actions that maximize happiness are common; therefore, everyone ought to maximize happiness.",
+          "note": "The conclusion needs a normative principle connecting commonness or happiness with obligation."
+        }
+      ],
+      "related": [
+        "normative-ethics",
+        "naturalism",
+        "moral-realism",
+        "david-hume"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-marys-room",
+      "name": "Mary's room knowledge argument",
+      "aliases": [
+        "Knowledge argument",
+        "Mary the color scientist"
+      ],
+      "symbolName": null,
+      "summary": "If Mary learns every physical fact about color vision while seeing only black and white, seeing red may teach her something new.",
+      "body": "Frank Jackson asks us to imagine Mary, an excellent scientist who knows all physical facts about color vision but has lived in a monochrome environment. On first seeing red, she seems to learn what red looks like. If she already possessed all physical knowledge, the new knowledge appears to be nonphysical knowledge, challenging physicalism. The thought experiment's force depends on what kind of knowledge she gains and whether that knowledge is a new fact or a new ability or mode of acquaintance.",
+      "origin": "Frank Jackson, “Epiphenomenal Qualia” (1982) and “What Mary Didn't Know” (1986).",
+      "keyFigures": [],
+      "premises": [
+        "Before leaving her room, Mary knows all the physical facts about human color vision.",
+        "After seeing red, Mary learns something she did not know before.",
+        "If Mary gains knowledge, what she learns is a fact rather than only an ability or acquaintance."
+      ],
+      "conclusion": "There are facts about conscious experience that are not physical facts, so physicalism is incomplete.",
+      "assumptions": [
+        "A complete physical description is compatible with Mary's not having first-person color experience.",
+        "The epistemic gap indicates an ontological gap only if the new knowledge is genuinely propositional knowledge of a fact."
+      ],
+      "objections": [
+        {
+          "objection": "Mary gains an ability to recognize or imagine red, not new factual knowledge.",
+          "reply": "Jackson's defender can ask whether Mary could truly say nothing factual that she learns; the dispute turns on whether abilities exhaust the change."
+        },
+        {
+          "objection": "She gains acquaintance with a familiar physical fact under a new mode of presentation.",
+          "reply": "A defender can argue that knowing a fact by acquaintance is still knowledge, while the physicalist replies that this does not establish a new nonphysical fact."
+        },
+        {
+          "objection": "The setup's claim that Mary knows all physical facts may be incoherent if experience is needed to grasp them.",
+          "reply": "The thought experiment stipulates extensive theoretical knowledge to isolate whether description alone captures experience; the stipulation itself remains open to challenge."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Mary reads every scientific account of color vision but has never seen red; then she sees a red tomato.",
+          "note": "The alleged change motivates the argument, while whether it is new knowledge or a new capacity is the central dispute."
+        }
+      ],
+      "related": [
+        "knowledge-argument",
+        "qualia",
+        "physicalism",
+        "consciousness"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-ontological",
+      "name": "Ontological argument",
+      "aliases": [
+        "Anselm's argument",
+        "Argument from the concept of God"
+      ],
+      "symbolName": null,
+      "summary": "Anselm reasons from the concept of God as unsurpassably great toward God's necessary existence.",
+      "body": "Unlike arguments from observed causes or design, ontological arguments begin with a concept or possibility claim. Anselm's Proslogion argument says that God is that than which no greater can be conceived, and that existing in reality is greater than existing only in understanding. Later modal versions argue that if a necessarily existing God is possible, then God exists necessarily. These are distinct formulations; the premises here sketch Anselm's original strategy, whose move from a concept to existence is disputed.",
+      "origin": "Anselm of Canterbury, Proslogion (1077–78); later modal versions are not identical to Anselm's text.",
+      "keyFigures": [
+        "anselm-of-canterbury"
+      ],
+      "premises": [
+        "God is understood as that than which no greater can be conceived.",
+        "A being that exists in reality is greater than an otherwise matching being that exists only in the understanding.",
+        "If God existed only in the understanding, a greater being could be conceived: one existing in reality."
+      ],
+      "conclusion": "God exists in reality.",
+      "assumptions": [
+        "Existence can function as a greatness-making feature in the relevant comparison.",
+        "The concept is coherent and refers to a possible being.",
+        "A definition or concept can support an existential conclusion only with substantive premises beyond the definition itself."
+      ],
+      "objections": [
+        {
+          "objection": "Existence is not a property that makes an object greater, as Kant argues.",
+          "reply": "Anselm's defender may say the argument concerns unsurpassable greatness or necessary existence, not ordinary existence as a quality; critics question whether that avoids the objection."
+        },
+        {
+          "objection": "The reasoning would seem to prove a perfect island or another maximally great object.",
+          "reply": "A defender can reply that necessary existence may apply coherently only to a unique ultimate being; the burden is to show why the parody differs."
+        },
+        {
+          "objection": "The concept of a maximally great being may be incoherent.",
+          "reply": "A defender must establish coherence independently; the argument cannot treat the possibility premise as cost-free."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Someone defines a perfect island as the greatest island conceivable and claims it must exist.",
+          "note": "The parody pressures the inference from a description to reality; a defender distinguishes contingent islands from a necessarily existing being."
+        }
+      ],
+      "related": [
+        "ontological-argument",
+        "necessity",
+        "existence",
+        "theism",
+        "anselm-of-canterbury"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-open-question",
+      "name": "Open question argument",
+      "aliases": [
+        "Moore's open question argument",
+        "Naturalistic fallacy argument"
+      ],
+      "symbolName": null,
+      "summary": "If it remains meaningful to ask whether something good is good, goodness may not be identical to a natural property used to define it.",
+      "body": "Moore argues that for any proposed naturalistic definition of good, such as pleasant, it remains an intelligible question whether what is pleasant is good. If the terms named the same property, the question would be like asking whether a bachelor is unmarried: answerable by meaning alone. Moore takes this to show that goodness is simple and indefinable, not that no natural property can correlate with goodness. Later philosophers dispute whether the argument defeats identity claims, especially when identities are informative or a posteriori.",
+      "origin": "G. E. Moore, Principia Ethica (1903), §§10–14.",
+      "keyFigures": [
+        "g-e-moore"
+      ],
+      "premises": [
+        "If good were identical by definition with a natural property such as pleasure, asking whether pleasure is good would be closed by meaning.",
+        "The question whether pleasure is good remains intelligible and apparently unresolved by definition.",
+        "A meaningful open question indicates that the proposed definition does not capture the meaning of good."
+      ],
+      "conclusion": "Good cannot be defined as identical to any proposed natural property in the way considered.",
+      "assumptions": [
+        "Meaningful questions reveal facts about the meanings of their terms.",
+        "The target definition is meant as an analysis of meaning, not merely a claim about property identity.",
+        "A posteriori identities can be questioned as open without thereby being false, a challenge to Moore's inference."
+      ],
+      "objections": [
+        {
+          "objection": "An identity can be true yet informative, as with water and H2O, so a question can remain open despite identity.",
+          "reply": "Moore's defender can distinguish conceptual definitions from empirical identities; critics argue that this leaves many naturalist analyses untouched."
+        },
+        {
+          "objection": "The question may be open because the speaker lacks information, not because meanings differ.",
+          "reply": "A defender can say Moore's test concerns what is settled by understanding the words alone, but the test remains sensitive to context and competence."
+        },
+        {
+          "objection": "The argument shows at most that 'good' is not synonymous with a natural term.",
+          "reply": "Moore's own conclusion is modestly semantic in that respect; further argument is needed to establish metaphysical non-naturalism."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Someone asks whether every pleasant act is morally good even after understanding the word 'pleasant'.",
+          "note": "The question seems substantive rather than settled by the meanings of the words, which is the test Moore emphasizes."
+        }
+      ],
+      "related": [
+        "analyticsynthetic-distinction",
+        "naturalism",
+        "ethics",
+        "g-e-moore"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-pascal-s-wager",
+      "name": "Pascal’s wager",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Under uncertainty about God, Pascal argues that the practical stakes can rationally favor wagering for belief.",
+      "body": "Pascal frames belief as a practical choice under uncertainty. If God exists, the gain associated with belief may be infinite; if God does not, the loss may be finite. On some decision-theoretic assumptions, even a small positive probability of God can make the expected value of belief outweigh its costs. Pascal also discusses cultivating belief through practice. The wager is not a proof that God exists, and its outcome table, probability assumptions, and treatment of competing religions are disputed.",
+      "origin": "Blaise Pascal, Pensées, fragment commonly numbered 233; several related wagers appear in the passage.",
+      "keyFigures": [
+        "blaise-pascal"
+      ],
+      "premises": [
+        "A person must choose how to live despite uncertainty about God.",
+        "If God exists, the relevant religious outcome may have infinite or extremely high value.",
+        "If God does not exist, the cost of wagering for belief is finite.",
+        "A positive probability of the favorable outcome can dominate expected utility calculations."
+      ],
+      "conclusion": "Under the wager’s assumptions, a person has practical reason to wager for belief or to cultivate it.",
+      "assumptions": [
+        "The possible outcomes and utilities are represented adequately by the wager.",
+        "A nonzero probability can be assigned to the relevant conception of God.",
+        "Belief or belief-cultivation is sufficiently under voluntary control."
+      ],
+      "objections": [
+        {
+          "objection": "Different religions offer incompatible wagers, and the table may omit them.",
+          "reply": "A defender can try to compare a broader set of possibilities, but that increases the difficulty of assigning probabilities and utilities."
+        },
+        {
+          "objection": "Belief is not directly chosen, and acting as if one believes may not produce genuine belief.",
+          "reply": "Pascal’s practical proposal includes habits and participation that might shape belief indirectly; whether that is epistemically appropriate remains disputed."
+        },
+        {
+          "objection": "Infinite utility can make expected-value calculations unstable or yield implausible conclusions.",
+          "reply": "Defenders can use finite or nonstandard decision models, though these change the force and details of the wager."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A traveler uncertain whether a bridge is safe may choose the cautious route when the cost is small and the possible loss is severe.",
+          "note": "The analogy illustrates practical choice under asymmetric stakes; religious belief adds distinct questions about probability, agency, and competing outcomes."
+        }
+      ],
+      "related": [
+        "blaise-pascal"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-zombie",
+      "name": "Philosophical zombie argument",
+      "aliases": [
+        "Zombie argument",
+        "Conceivability argument against physicalism"
+      ],
+      "symbolName": null,
+      "summary": "If a physical duplicate without conscious experience is genuinely possible, physical facts may not fully determine consciousness.",
+      "body": "A philosophical zombie is stipulated to be physically and behaviorally like a conscious person but to lack phenomenal experience. The argument moves from the apparent conceivability of such a being to its metaphysical possibility, then from possibility to a challenge to physicalism. It is a modal argument, not an empirical claim that zombies exist. The crucial transition from conceivability to possibility is disputed, and some physicalists argue our concepts make the scenario seem coherent when it is not.",
+      "origin": "Modern conceivability arguments associated with David Chalmers; related debates include Joseph Levine's explanatory gap.",
+      "keyFigures": [],
+      "premises": [
+        "A physical duplicate of a conscious person without phenomenal experience is coherently conceivable.",
+        "If such a scenario is ideally conceivable, it is metaphysically possible.",
+        "If physicalism is true, a physical duplicate cannot differ in phenomenal consciousness."
+      ],
+      "conclusion": "Physicalism is false or incomplete about phenomenal consciousness.",
+      "assumptions": [
+        "Conceivability tracks metaphysical possibility in this case.",
+        "Phenomenal consciousness is not identical to or fixed by physical facts.",
+        "The description of a zombie is internally coherent rather than merely verbally describable."
+      ],
+      "objections": [
+        {
+          "objection": "Conceivability is fallible and does not establish possibility.",
+          "reply": "A defender can argue that the conceivability is ideal and persists after reflection; the physicalist replies that apparent conceivability can reflect incomplete concepts."
+        },
+        {
+          "objection": "A posteriori identities can be necessary despite seeming separable, as water and H2O.",
+          "reply": "The zombie defender argues that consciousness differs because the phenomenal concept appears to reveal experience directly; critics dispute that special status."
+        },
+        {
+          "objection": "The argument assumes a controversial view of phenomenal consciousness.",
+          "reply": "It is intended to expose that commitment, not to settle it without further argument."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Imagine a molecule-for-molecule duplicate of a person who behaves normally but has no felt experience.",
+          "note": "If this description is genuinely possible, it challenges the claim that physical duplication guarantees experience."
+        }
+      ],
+      "related": [
+        "philosophical-zombie",
+        "physicalism",
+        "qualia",
+        "consciousness-hard-problem"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-private-language",
+      "name": "Private language argument",
+      "aliases": [
+        "Wittgenstein's private language argument"
+      ],
+      "symbolName": null,
+      "summary": "A language whose signs are meaningful only through one person's inaccessible private impressions may lack standards for correct use.",
+      "body": "Wittgenstein's discussion in Philosophical Investigations §§243–315 is complex and not universally agreed to be one compact proof. A common reconstruction considers a person who privately names a sensation and records each recurrence. If the only test of correct application is that it seems right to the person, there is no independent distinction between seeming correct and being correct. The target is a language in principle inaccessible to any possible community, not the ordinary privacy of sensations or private note-taking.",
+      "origin": "Ludwig Wittgenstein, Philosophical Investigations (1953), §§243–315; the label is a later scholarly grouping.",
+      "keyFigures": [
+        "ludwig-wittgenstein"
+      ],
+      "premises": [
+        "A sign has meaning only if there is a distinction between using it correctly and merely seeming to use it correctly.",
+        "In the proposed private language, only the speaker's present impression can determine whether a sign is used correctly.",
+        "A memory impression cannot independently certify that the present use matches the original rule."
+      ],
+      "conclusion": "A language whose meanings are in principle private to one speaker cannot establish stable rules of meaning in the proposed way.",
+      "assumptions": [
+        "Meaningful rule-following requires criteria beyond an uncheckable impression of correctness.",
+        "A solitary speaker cannot establish such criteria through memory alone.",
+        "The argument concerns a language in principle private, not a language that others happen not to understand."
+      ],
+      "objections": [
+        {
+          "objection": "A speaker can privately define a sign by attending carefully to a sensation.",
+          "reply": "A defender can ask what distinguishes correct re-identification from the speaker's feeling of correctness; the critic may assume public criteria too quickly."
+        },
+        {
+          "objection": "A private diary can use meaningful terms without others checking every entry.",
+          "reply": "The argument need not deny private application; it challenges whether the criteria for the terms could be private in principle."
+        },
+        {
+          "objection": "Wittgenstein's remarks may be a therapeutic discussion rather than a single deductive argument.",
+          "reply": "A defender can present the reconstruction as one strand in a broader critique of meaning, while acknowledging that scholars dispute its structure and conclusion."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A person marks a private sensation with 'S' and later believes the same sensation has returned.",
+          "note": "Without an independent criterion, the person may only have the impression that the rule was followed."
+        }
+      ],
+      "related": [
+        "private-language-argument",
+        "rule-following-problem",
+        "meaning",
+        "skepticism",
+        "ludwig-wittgenstein"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-problem-of-evil",
+      "name": "Problem of evil argument",
+      "aliases": [
+        "Argument from evil",
+        "Evidential problem of evil"
+      ],
+      "symbolName": null,
+      "summary": "Suffering in the world is offered as evidence against an all-powerful, all-knowing, perfectly good God.",
+      "body": "The familiar evidential form starts from severe suffering that appears to serve no greater good or prevent no comparable evil. It infers that such suffering is less expected if a perfectly good and powerful God exists than if no such God exists. This is an inductive challenge, not the simple deductive claim that any evil logically rules out God. Different versions use animal suffering, apparently pointless suffering, or the amount and distribution of harms; they need not share one exact premise set.",
+      "origin": "Modern evidential formulation associated especially with William Rowe; earlier discussions include Hume's Dialogues Concerning Natural Religion (1779).",
+      "keyFigures": [
+        "david-hume"
+      ],
+      "premises": [
+        "There is severe suffering in the world, including suffering that appears preventable without sacrificing a greater good.",
+        "A perfectly good and powerful being would prevent suffering unless it were necessary for a sufficient good or to prevent a greater evil.",
+        "At least some apparently pointless suffering is not necessary for such a good, as far as the available evidence indicates."
+      ],
+      "conclusion": "The observed suffering lowers the probability that an omnipotent, omniscient, perfectly good God exists.",
+      "assumptions": [
+        "The key inference is probabilistic, not deductively valid from suffering alone.",
+        "Our inability to identify a justifying reason is evidence only if we have some ability to recognize such reasons."
+      ],
+      "objections": [
+        {
+          "objection": "Humans may be too limited to know the goods that justify suffering.",
+          "reply": "A defender can argue that finite perspective makes absence of a known reason weak evidence; the critic can ask whether this skepticism is applied consistently to other moral judgments."
+        },
+        {
+          "objection": "Free will or stable natural laws may require the possibility of serious harm.",
+          "reply": "A defender can cite these goods, while the argument can focus on suffering not plausibly caused by free choices or necessary regularities, such as animal pain before humans."
+        },
+        {
+          "objection": "A world with suffering may still be better overall than any feasible alternative.",
+          "reply": "That possibility blocks a deductive refutation; the evidential proponent replies that the scale and distribution still call for comparative support."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A fawn dies slowly after a forest fire with no apparent human witness or benefit.",
+          "note": "Rowe uses cases of this kind to illustrate suffering that appears gratuitous; whether it truly is gratuitous is contested."
+        }
+      ],
+      "related": [
+        "problem-of-evil",
+        "theism",
+        "theodicy",
+        "free-will",
+        "david-hume"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-induction",
+      "name": "Problem of induction argument",
+      "aliases": [
+        "Hume's problem of induction",
+        "Inductive skepticism"
+      ],
+      "symbolName": null,
+      "summary": "Past regularities do not logically guarantee that unobserved cases or the future will resemble them.",
+      "body": "Hume's challenge asks what justifies projecting observed patterns beyond the observations. Deductive reasoning cannot establish that nature will remain uniform without assuming the very regularity at issue. A non-deductive defense seems to rely on past success, which is itself an inductive inference. The result is a problem about rational justification, not a demonstration that induction never works. Philosophers offer pragmatic, reliabilist, Bayesian, and naturalistic responses.",
+      "origin": "David Hume, An Enquiry concerning Human Understanding (1748), section IV.",
+      "keyFigures": [
+        "david-hume"
+      ],
+      "premises": [
+        "Our beliefs about unobserved cases depend substantially on projecting patterns observed in past cases.",
+        "The future or unobserved need not logically resemble the past or observed.",
+        "A deductive justification would require a premise that nature is uniform.",
+        "An inductive justification of uniformity would already use the inference it is meant to justify."
+      ],
+      "conclusion": "Induction lacks a non-circular deductive justification from experience alone.",
+      "assumptions": [
+        "A justification must be deductive or independently non-circular to answer Hume's challenge.",
+        "Practical success or reliable cognitive methods may not count as the sought foundational justification."
+      ],
+      "objections": [
+        {
+          "objection": "The challenge demands an impossible kind of justification; induction can be rational without proof.",
+          "reply": "A defender of the problem can concede that practical rationality may not require proof while preserving the distinction between explanation of use and ultimate justification."
+        },
+        {
+          "objection": "Induction is justified by its track record.",
+          "reply": "Hume's reply is that using past success to infer future success is precisely an inductive move, though reliabilists may accept that circularity as benign."
+        },
+        {
+          "objection": "Bayesian updating can justify learning from evidence.",
+          "reply": "Bayesian methods formalize how evidence changes credence but do not alone show why the chosen priors or likelihoods are appropriate."
+        }
+      ],
+      "examples": [
+        {
+          "text": "The sun has risen every day observed, so someone expects it to rise tomorrow.",
+          "note": "The expectation is reasonable in ordinary practice, but the observed pattern does not entail the future outcome."
+        }
+      ],
+      "related": [
+        "induction-problem",
+        "inductive-reasoning",
+        "causal-inference",
+        "skepticism",
+        "david-hume"
+      ],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-other-minds",
+      "name": "Problem of other minds argument",
+      "aliases": [
+        "Argument from analogy to other minds",
+        "Other minds problem"
+      ],
+      "symbolName": null,
+      "summary": "We cannot directly experience another person's consciousness, so the problem asks how we are justified in believing they have it.",
+      "body": "The traditional problem begins from an asymmetry: one's own experience is directly present, while another person's experience is inferred from behavior and bodily similarity. An analogical argument says that others behave as we do in circumstances where we feel pain, so they probably feel pain too. This is not a proof, and modern responses include inference to the best explanation, common-cause accounts, and embodied interaction. The challenge concerns justification, not whether other people actually have minds.",
+      "origin": "A longstanding problem in modern philosophy; analogical formulations are associated with discussions by John Stuart Mill and others.",
+      "keyFigures": [
+        "john-stuart-mill"
+      ],
+      "premises": [
+        "I directly experience my own mental states but do not directly experience another person's.",
+        "Other people have bodies and behavior relevantly similar to mine.",
+        "In my case, certain bodily states and behaviors accompany mental states.",
+        "Relevant similarity gives some reason to infer similar mental states in others."
+      ],
+      "conclusion": "Belief in other minds is inferential and requires an account of how that inference is justified.",
+      "assumptions": [
+        "Behavior and bodily similarity provide evidence of experience rather than mere outward resemblance.",
+        "The argument from one's own case generalizes beyond one individual.",
+        "Direct access is not required for justified belief."
+      ],
+      "objections": [
+        {
+          "objection": "Analogy from one case is too weak to justify beliefs about many other minds.",
+          "reply": "A defender can supplement analogy with shared biology, behavior, and explanatory success; critics may challenge how those sources establish phenomenal experience."
+        },
+        {
+          "objection": "Other minds are the best explanation of complex, flexible behavior.",
+          "reply": "An inference to the best explanation can answer the problem without claiming certainty; the skeptic can ask whether experience is needed to explain behavior."
+        },
+        {
+          "objection": "The argument risks treating one's own case as the model for all minds.",
+          "reply": "A defender can limit the inference to sufficiently similar beings and use broader evidence for beings with different bodies or behavior."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A friend winces, protects an injured hand, and reports pain.",
+          "note": "The combination of behavior, shared physiology, and testimony supports belief in pain without direct access to the friend's experience."
+        }
+      ],
+      "related": [
+        "problem-of-other-minds",
+        "analogy",
+        "testimony",
+        "consciousness",
+        "john-stuart-mill"
+      ],
+      "tags": [
+        "mind"
+      ]
+    },
+    {
+      "id": "argument-singer-pond",
+      "name": "Singer's drowning child argument",
+      "aliases": [
+        "Shallow pond argument",
+        "Drowning child argument"
+      ],
+      "symbolName": null,
+      "summary": "If you can prevent a serious harm at modest cost, distance alone does not usually remove your moral reason to help.",
+      "body": "Singer's case asks whether a passerby should rescue a child drowning in a shallow pond, even if doing so ruins their clothes. Since the cost is small and the harm grave, the answer seems clear. Singer argues that the same principle applies to preventable suffering far away when aid is effective and does not require sacrificing something comparably important. The conclusion supports substantial aid, though the scope and demandingness of the principle remain disputed.",
+      "origin": "Peter Singer, “Famine, Affluence, and Morality” (1972).",
+      "keyFigures": [
+        "peter-singer"
+      ],
+      "premises": [
+        "If we can prevent something very bad without sacrificing anything of comparable moral importance, we ought to do so.",
+        "Donating a modest amount can effectively prevent serious suffering.",
+        "The fact that those in need are distant does not by itself make their claims less important."
+      ],
+      "conclusion": "We have a moral obligation to give effective aid when its cost is not comparably serious.",
+      "assumptions": [
+        "Comparable importance is an adequate standard for what sacrifices are permissible.",
+        "Distance and special relationships do not create a morally relevant difference in the cases under consideration."
+      ],
+      "objections": [
+        {
+          "objection": "The principle demands too much by requiring continued giving until further aid would be comparably costly.",
+          "reply": "Singer can accept that this is demanding and argue that comfort and luxury are not strong enough reasons to withhold life-saving aid."
+        },
+        {
+          "objection": "Duties to nearby people or institutions may differ from duties to strangers.",
+          "reply": "The response is that special duties can matter without erasing a general duty to prevent grave harm when the cost is modest."
+        },
+        {
+          "objection": "Donations may be ineffective or diverted.",
+          "reply": "The principle concerns effective prevention; uncertainty makes careful choice of aid important rather than eliminating the duty."
+        }
+      ],
+      "examples": [
+        {
+          "text": "You pass a shallow pond and can rescue a child at the cost of muddy clothes.",
+          "note": "The case makes the low cost and urgent harm salient before comparing it with distant aid."
+        }
+      ],
+      "related": [
+        "beneficence",
+        "consequentialism",
+        "altruism",
+        "effective-altruism",
+        "peter-singer"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-social-contract",
+      "name": "Social contract argument",
+      "aliases": [
+        "Contract argument",
+        "Contractarian justification"
+      ],
+      "symbolName": null,
+      "summary": "Political authority or moral rules are justified by principles people would agree to under specified conditions.",
+      "body": "Social contract arguments explain or justify rules by reference to agreement among people, often in a hypothetical state of nature or a fair choice situation. Hobbes emphasizes security under vulnerability; Rousseau asks how political association can preserve freedom; Rawls uses a hypothetical original position. These are not one doctrine. The reconstruction here captures a general justificatory pattern and makes clear that hypothetical consent is not the same as actual historical consent.",
+      "origin": "A family of arguments in Hobbes, Rousseau, and Rawls; the premises below state a general pattern, not any one author's full theory.",
+      "keyFigures": [
+        "thomas-hobbes",
+        "jean-jacques-rousseau",
+        "john-rawls"
+      ],
+      "premises": [
+        "People have interests that can conflict and require common rules for coordination or protection.",
+        "Rules that could be accepted by persons under fair or appropriately specified conditions have a claim to legitimacy.",
+        "A proposed political arrangement provides terms that those persons could rationally accept."
+      ],
+      "conclusion": "The arrangement has a contract-based justification or claim to legitimacy.",
+      "assumptions": [
+        "The agreement conditions are fair and do not covertly dictate the answer.",
+        "Hypothetical agreement can carry justificatory force without actual consent.",
+        "The theory identifies whose agreement matters and what counts as rational acceptance."
+      ],
+      "objections": [
+        {
+          "objection": "No actual contract was signed, so citizens did not consent.",
+          "reply": "A defender replies that hypothetical agreement is a test of justifiability, not a historical event; critics question whether that is enough for political obligation."
+        },
+        {
+          "objection": "People excluded from the imagined agreement may be dominated by its rules.",
+          "reply": "The defender must show that the conditions represent all affected persons fairly; exclusions can undermine the argument."
+        },
+        {
+          "objection": "Different assumptions about human nature yield very different contracts.",
+          "reply": "That plurality shows the conclusion depends on the setup; proponents should defend those assumptions rather than present contract as a unique derivation."
+        }
+      ],
+      "examples": [
+        {
+          "text": "People accept a common authority because without shared rules each faces insecurity from others.",
+          "note": "This resembles Hobbes's rationale; it supports a particular contract argument, not every social contract theory."
+        }
+      ],
+      "related": [
+        "state",
+        "consent",
+        "social-contract",
+        "jean-jacques-rousseau",
+        "john-rawls",
+        "thomas-hobbes"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    },
+    {
+      "id": "argument-teleological",
+      "name": "Teleological argument",
+      "aliases": [
+        "Design argument",
+        "Argument from design"
+      ],
+      "symbolName": null,
+      "summary": "Order or apparent purposiveness in nature is treated as evidence for an intelligent designer.",
+      "body": "Design arguments infer purpose or intelligence from features of the world that resemble products of intelligence. Paley's watch analogy is a familiar version; Hume's Dialogues examines its limits. Modern forms may appeal to biological complexity or cosmic conditions. The inference is usually analogical or abductive, not a deduction from order alone. A designer hypothesis must be specified well enough to show why the observed order is more expected under it than under alternatives.",
+      "origin": "William Paley, Natural Theology (1802); earlier discussion by David Hume, Dialogues Concerning Natural Religion (1779).",
+      "keyFigures": [
+        "david-hume"
+      ],
+      "premises": [
+        "Some features of nature display complex, coordinated order suited to particular functions.",
+        "In familiar cases, comparable functional order is produced by intelligence.",
+        "An intelligent cause makes the observed natural order more likely than relevant non-intelligent alternatives."
+      ],
+      "conclusion": "An intelligent designer is a plausible explanation of some natural order.",
+      "assumptions": [
+        "The analogy between natural structures and artifacts is sufficiently strong.",
+        "The designer hypothesis has independently motivated expectations about what would be designed.",
+        "An inference to a designer does not alone establish a perfect, unique, or religiously specific God."
+      ],
+      "objections": [
+        {
+          "objection": "Natural selection explains biological adaptation without foresight.",
+          "reply": "A defender can shift to features not explained by selection, such as initial conditions, but must not treat gaps in current knowledge as evidence by themselves."
+        },
+        {
+          "objection": "The world contains waste, suffering, and disorder unlike what a perfect designer might be expected to make.",
+          "reply": "A defender can question whether human standards identify the designer's aims; that reply weakens the inference unless those aims are specified."
+        },
+        {
+          "objection": "The analogy assumes a designer because artifacts and organisms look alike only superficially.",
+          "reply": "A defender can present the argument as comparative explanation rather than strict analogy, while the critic demands evidence that design predicts the data better."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A watch found on a beach has interlocking parts arranged to keep time.",
+          "note": "Paley uses this kind of case to motivate design inference; Hume challenges how far the comparison extends to the universe."
+        }
+      ],
+      "related": [
+        "teleology",
+        "naturalism",
+        "theism",
+        "david-hume"
+      ],
+      "tags": [
+        "religion"
+      ]
+    },
+    {
+      "id": "argument-third-man",
+      "name": "Third Man argument",
+      "aliases": [
+        "Third Man objection",
+        "Plato's Third Man"
+      ],
+      "symbolName": null,
+      "summary": "Plato's dialogue Parmenides presses whether a Form of largeness requires another Form to explain what all large things share.",
+      "body": "The Third Man is an internal challenge to a version of Plato's Forms theory, presented by Parmenides in Plato's dialogue. If many large things are large by sharing a separate Form of Largeness, and the Form itself is also large, then the original things and the Form appear to require a further Form explaining their common largeness. Repeating the explanation generates a regress. The dialogue explores multiple difficulties and does not simply report Plato's settled view; scholars dispute which formulation the objection targets.",
+      "origin": "Plato, Parmenides, around 130e–132a; the label “Third Man” is traditional scholarly shorthand.",
+      "keyFigures": [
+        "plato"
+      ],
+      "premises": [
+        "Many particular things are large because they participate in a Form of Largeness.",
+        "The Form of Largeness is itself large, or the same explanatory predicate applies to it.",
+        "Whenever several things are F, a distinct Form is needed to explain their common F-ness."
+      ],
+      "conclusion": "This version of the Forms theory generates an explanatory regress and requires revision or rejection.",
+      "assumptions": [
+        "The relevant Form is itself a member of the class it explains.",
+        "The one-over-many principle applies without restriction to Forms and particulars alike.",
+        "A regress of Forms is vicious or fails to explain participation."
+      ],
+      "objections": [
+        {
+          "objection": "The Form need not be large in the same sense as particular large things.",
+          "reply": "A Platonist can distinguish predication of the Form from participation by particulars; the critic asks whether that distinction is independently justified."
+        },
+        {
+          "objection": "The one-over-many principle can be restricted so it does not apply to the Form itself.",
+          "reply": "A defender of the objection says the restriction needs motivation and may weaken the explanatory account of shared properties."
+        },
+        {
+          "objection": "Plato may be examining, rather than endorsing, the challenged theory.",
+          "reply": "The argument remains useful as a diagnostic objection even if the dialogue does not present a final doctrine."
+        }
+      ],
+      "examples": [
+        {
+          "text": "Several objects and the Form itself are all called large, prompting a further common Form.",
+          "note": "The example displays how an explanatory principle can appear to apply again to its own explanation."
+        }
+      ],
+      "related": [
+        "infinite-regress",
+        "universals-problem",
+        "plato"
+      ],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "argument-transcendental",
+      "name": "Transcendental argument",
+      "aliases": [
+        "Kantian transcendental argument",
+        "Argument from conditions of possibility"
+      ],
+      "symbolName": null,
+      "summary": "A transcendental argument infers necessary conditions for an experience or practice that is already accepted as real.",
+      "body": "Rather than infer an unseen cause from an observed effect, a transcendental argument asks what must be true for some experience, knowledge, or practice to be possible. Kant's arguments about space, time, and categories are influential examples. A common form says: experience or judgment occurs; it requires condition C; therefore C must obtain. The difficult step is showing that C is genuinely necessary and that no alternative condition could do the work.",
+      "origin": "Immanuel Kant, Critique of Pure Reason (1781/1787); forms of transcendental reasoning predate Kant.",
+      "keyFigures": [
+        "immanuel-kant"
+      ],
+      "premises": [
+        "A specified experience or practice is occurring.",
+        "That experience or practice is possible only if condition C obtains.",
+        "No alternative condition could perform the necessary role attributed to C."
+      ],
+      "conclusion": "Condition C obtains as a necessary condition for the specified experience or practice.",
+      "assumptions": [
+        "The target experience or practice is accurately described.",
+        "The proposed condition is necessary rather than merely one familiar explanation.",
+        "The conclusion concerns conditions of possibility and may not establish a mind-independent metaphysical reality without additional premises."
+      ],
+      "objections": [
+        {
+          "objection": "The proposed condition may be one possible explanation rather than a necessary one.",
+          "reply": "A defender must show that alternatives fail; mapping the argument's conditions makes that burden visible."
+        },
+        {
+          "objection": "The conclusion may concern how we must think, not how reality is independently structured.",
+          "reply": "A Kantian can accept a distinction between conditions of experience and things as they are in themselves; the argument's reach must be stated accordingly."
+        },
+        {
+          "objection": "The argument can beg the question by building its conclusion into the description of experience.",
+          "reply": "A defender can argue that the condition is independently demonstrated through the practice's structure, but that demonstration needs scrutiny."
+        }
+      ],
+      "examples": [
+        {
+          "text": "If objective experience requires ordering events in time, one argues that temporal ordering is a condition of that experience.",
+          "note": "The example shows the inference pattern; whether time is a condition of experience or a feature of reality is a further issue."
+        }
+      ],
+      "related": [
+        "transcendental-idealism",
+        "a-priori-knowledge",
+        "knowledge",
+        "immanuel-kant"
+      ],
+      "tags": [
+        "epistemology"
+      ]
+    },
+    {
+      "id": "argument-utility-monster",
+      "name": "Utility monster argument",
+      "aliases": [
+        "Nozick's utility monster objection"
+      ],
+      "symbolName": null,
+      "summary": "A being that gains far more utility from each resource could absorb everything under simple total-utility maximization.",
+      "body": "Nozick imagines a utility monster that receives vastly more benefit from resources than everyone else. If morality requires maximizing the sum of utility, transferring resources to the monster may be required no matter how much others lose. The case challenges whether aggregate utility alone captures fairness and the separateness of persons. It is an objection to a simple maximizing principle, not a proof that every consequentialist theory endorses unequal allocation.",
+      "origin": "Robert Nozick, Anarchy, State, and Utopia (1974), chapter 3.",
+      "keyFigures": [
+        "robert-nozick"
+      ],
+      "premises": [
+        "A simple act-utilitarian principle requires choosing the outcome with the greatest total utility.",
+        "A possible recipient gains far more utility from each resource than anyone else loses by giving it up.",
+        "Repeated transfers to that recipient maximize aggregate utility."
+      ],
+      "conclusion": "Simple aggregate utility maximization can recommend distributions many find unjust, so it needs defense or revision.",
+      "assumptions": [
+        "Utility can be compared across persons and summed.",
+        "The imagined monster's unusually high marginal utility is coherent and relevant to moral theory.",
+        "Intuitive resistance to the result is evidence against the principle, rather than merely a preference for familiar distributions."
+      ],
+      "objections": [
+        {
+          "objection": "A utility monster may be impossible or empirically implausible.",
+          "reply": "A defender of the objection treats the case as a test of principle, while acknowledging that implausibility limits its practical force."
+        },
+        {
+          "objection": "Rule consequentialism or prioritarianism can avoid the result.",
+          "reply": "That concedes the case challenges simple aggregate act-utilitarianism rather than consequentialism as a whole."
+        },
+        {
+          "objection": "If the monster truly gains more, maximizing total utility may correctly favor it.",
+          "reply": "The objection asks whether maximizing totals is an adequate moral standard when it permits one person's interests to swamp everyone else's."
+        }
+      ],
+      "examples": [
+        {
+          "text": "One person gets ten units of benefit from each resource while each of many others loses one unit.",
+          "note": "A sufficiently large difference can make aggregate maximization direct nearly all resources to the one person."
+        }
+      ],
+      "related": [
+        "utility",
+        "utilitarianism",
+        "distributive-justice",
+        "consequentialism",
+        "robert-nozick"
+      ],
+      "tags": [
+        "ethics"
+      ]
+    },
+    {
+      "id": "argument-veil-of-ignorance",
+      "name": "Veil of ignorance argument",
+      "aliases": [
+        "Original position argument",
+        "Rawls's veil of ignorance"
+      ],
+      "symbolName": null,
+      "summary": "Principles chosen without knowing one's social position are argued to be fairer than rules tailored to known advantage.",
+      "body": "Rawls asks parties to choose principles for society behind a veil that hides their class, race, talents, religion, and conception of the good. Because no one can tailor the rules to their own known position, the choice models impartiality. Rawls argues that such parties would select equal basic liberties and permit inequalities only under conditions including fair opportunity and benefit to the least advantaged. The thought experiment is a device for testing principles, not a claim about a historical contract.",
+      "origin": "John Rawls, A Theory of Justice (1971), especially the original position and veil of ignorance.",
+      "keyFigures": [
+        "john-rawls"
+      ],
+      "premises": [
+        "Principles of justice should not depend on morally arbitrary advantages such as birth or social class.",
+        "Parties behind the veil do not know which social position or natural talents they will have.",
+        "Rational parties seek adequate protection for their interests under uncertainty.",
+        "The chosen principles should be acceptable as fair terms of cooperation."
+      ],
+      "conclusion": "The original position supports equal basic liberties and constraints on social and economic inequalities, including concern for the least advantaged.",
+      "assumptions": [
+        "The information excluded by the veil is morally arbitrary for selecting principles.",
+        "The model of rational choice and uncertainty captures fairness rather than imposing a contested risk attitude.",
+        "The original position is a justificatory model, not a prediction of actual agreement."
+      ],
+      "objections": [
+        {
+          "objection": "Risk-averse parties may choose a maximin rule even when expected outcomes favor another principle.",
+          "reply": "Rawls argues that features of the choice situation make maximin appropriate; critics dispute whether the assumptions warrant that strategy."
+        },
+        {
+          "objection": "The veil hides information needed to tailor useful institutions to real circumstances.",
+          "reply": "Rawls's parties retain general social and economic knowledge; the veil removes personal bargaining advantages, not all relevant facts."
+        },
+        {
+          "objection": "The setup already encodes liberal egalitarian values and so cannot neutrally derive them.",
+          "reply": "A defender can present it as a reflective-equilibrium test of principles, not a value-free deduction from nothing."
+        }
+      ],
+      "examples": [
+        {
+          "text": "A policymaker must choose rules without knowing whether they will be rich or poor, healthy or disabled.",
+          "note": "The information restriction tests whether the rules can be justified without knowing one's place under them."
+        }
+      ],
+      "related": [
+        "veil-of-ignorance",
+        "justice",
+        "distributive-justice",
+        "social-contract",
+        "john-rawls"
+      ],
+      "tags": [
+        "political-philosophy"
+      ]
+    }
+  ]
+}

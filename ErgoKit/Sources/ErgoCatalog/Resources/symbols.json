@@ -1,0 +1,2481 @@
+{
+  "symbols": [
+    {
+      "id": "accessibility-relation",
+      "name": "Accessibility relation",
+      "glyph": "R",
+      "alternateGlyphs": [],
+      "aliases": [
+        "R(w, v)"
+      ],
+      "group": "modal",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "w can access v",
+        "v is an allowed alternative from w"
+      ],
+      "summary": "Shows which alternative situation a modal model permits from another situation.",
+      "body": "In a Kripke model, R(w, v) says that v is one of the alternatives that the model makes reachable from the current world w. The letters w and v name worlds or situations, not ordinary objects. A modal claim is then evaluated at a chosen world: ◇P is true at w when some v with R(w, v) makes P true, while □P is true when every such v makes P true. The relation is the model's rule for which alternatives count; it is not necessarily physical travel or a causal connection.",
+      "examples": [
+        {
+          "text": "R(w, v) and P is true at v.",
+          "note": "Because v is an R-accessible world from w and P holds there, ◇P is true at w."
+        }
+      ],
+      "limitations": [
+        "The relation may be reflexive, transitive, symmetric, or none of these; those choices change which modal principles are valid."
+      ],
+      "lookalikes": [],
+      "related": [
+        "necessity-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "always-operator",
+      "name": "Always operator",
+      "glyph": "G",
+      "alternateGlyphs": [],
+      "aliases": [
+        "□φ in temporal notation"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "always from now on",
+        "at every current-or-later time"
+      ],
+      "summary": "Says that a formula remains true at every relevant time from the current time onward.",
+      "body": "G is read “always.” In the standard temporal convention used here, time is an infinite discrete sequence, Gφ includes the current time, and it requires φ at the current and every later time. The letter φ is a placeholder for any formula. To decide Gφ, inspect every time in the model's future; one time where φ fails is enough to make Gφ false. This is a temporal operator, not the modal necessity symbol □, even though both quantify over alternatives of a kind.",
+      "examples": [
+        {
+          "text": "G¬Error.",
+          "note": "This says that the current state and every later state contain no error."
+        }
+      ],
+      "limitations": [
+        "Some temporal logics use a strict future operator that excludes the current time; the convention must be stated."
+      ],
+      "lookalikes": [],
+      "related": [
+        "eventually-operator",
+        "next-operator",
+        "until-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "because-marker",
+      "name": "Because marker",
+      "glyph": "∵",
+      "alternateGlyphs": [],
+      "aliases": [
+        "because"
+      ],
+      "group": "relation",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "because",
+        "for the reason that"
+      ],
+      "summary": "Introduces reasons offered for a conclusion in an argument display.",
+      "body": "∵ is a presentation mark, not normally a connective inside a formal sentence. It tells the reader that the material following it is being offered as a reason for something else. The reasons may be premises, previously proved lines, or an informal explanation. It does not by itself say that the reasons entail the conclusion; that depends on the accompanying argument and rules.",
+      "examples": [
+        {
+          "text": "Q, ∵ P and P → Q.",
+          "note": "The display presents P and P → Q as reasons for Q; the proof step still needs the relevant inference rule."
+        }
+      ],
+      "limitations": [
+        "Different authors place the marker before or after the reasons; its layout convention is not a truth condition."
+      ],
+      "lookalikes": [],
+      "related": [
+        "therefore-marker",
+        "argument-concept"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "belief-operator",
+      "name": "Belief operator",
+      "glyph": "Bₐ",
+      "alternateGlyphs": [],
+      "aliases": [
+        "B_a φ"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "agent a believes φ",
+        "a holds φ as a belief"
+      ],
+      "summary": "Says that the specified person believes the following statement, which may be false.",
+      "body": "Bₐφ is read “a believes that φ.” The subscript a identifies the believer, and φ stands for a statement, such as “it is raining.” In a possible-worlds model, the statement must hold in all the alternatives compatible with what a believes. Those alternatives represent the person's beliefs rather than necessarily including the actual situation.\n\nConsequently, Bₐφ can hold while φ is actually false. This distinguishes belief from standard factive knowledge. The notation also leaves the strength and consistency of beliefs to the chosen model; writing Bₐφ alone does not measure confidence or show that the person has good evidence.",
+      "examples": [
+        {
+          "text": "Bₐ(Rain).",
+          "note": "Agent a believes that it is raining; the notation alone does not guarantee that it is raining."
+        }
+      ],
+      "limitations": [
+        "Some systems impose consistency or other introspection principles on belief, but those are extra model assumptions."
+      ],
+      "lookalikes": [],
+      "related": [
+        "knowledge-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "bounded-existential-quantifier",
+      "name": "Bounded existential quantifier",
+      "glyph": "∃x ∈ A",
+      "alternateGlyphs": [],
+      "aliases": [
+        "∃x(x ∈ A ∧ P(x))"
+      ],
+      "group": "quantifier",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "there is an x in A such that P(x)",
+        "some member of A is P"
+      ],
+      "summary": "Says that at least one member of a specified set has the stated property.",
+      "body": "In ∃x ∈ A P(x), x ranges only over the members of A. It is shorthand for ∃x(x ∈ A ∧ P(x)): there must be an object x that belongs to A and for which P(x) is true. A is the restricting set, and P is a condition that can be tested of each object. The expression is false when A has no members or when every member fails P; it does not require the whole first-order domain to be empty.",
+      "examples": [
+        {
+          "text": "∃x ∈ {2, 4, 7} Even(x).",
+          "note": "This is true because 2 and 4 belong to the displayed set and are even."
+        }
+      ],
+      "limitations": [
+        "The notation is an abbreviation for membership plus conjunction; some formal languages instead write the expansion explicitly."
+      ],
+      "lookalikes": [],
+      "related": [
+        "existential-quantifier"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "bounded-universal-quantifier",
+      "name": "Bounded universal quantifier",
+      "glyph": "∀x ∈ A",
+      "alternateGlyphs": [],
+      "aliases": [
+        "∀x(x ∈ A → P(x))"
+      ],
+      "group": "quantifier",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "every x in A is P",
+        "all members of A satisfy P"
+      ],
+      "summary": "Says that every member of a specified set has the stated property.",
+      "body": "In ∀x ∈ A P(x), x ranges only over members of A. It is shorthand for ∀x(x ∈ A → P(x)): any object in A must satisfy P. A is the restricting set, and P is the property being checked. If A is empty, the statement is true because there is no member that violates it. This empty-set result concerns the restriction A, not the overall first-order domain, which is normally required to be nonempty.",
+      "examples": [
+        {
+          "text": "∀x ∈ {2, 4, 7} Even(x).",
+          "note": "This is false because 7 is in the displayed set but is not even."
+        }
+      ],
+      "limitations": [
+        "Authors may omit the membership notation and rely on a previously declared restricted domain; the expansion makes the convention explicit."
+      ],
+      "lookalikes": [],
+      "related": [
+        "universal-quantifier"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "conjunction",
+      "name": "Conjunction",
+      "glyph": "∧",
+      "alternateGlyphs": [
+        "&",
+        "·",
+        "•"
+      ],
+      "aliases": [
+        "p & q",
+        "p • q",
+        "Kpq"
+      ],
+      "group": "connective",
+      "arity": 2,
+      "shortcodes": [
+        "&",
+        "/\\",
+        "and"
+      ],
+      "englishReadings": [
+        "and",
+        "both P and Q"
+      ],
+      "summary": "Says that two statements are both true.",
+      "body": "P ∧ Q combines two statements, P and Q, into one statement. It is true exactly when P is true and Q is true; if either statement is false, the conjunction is false. The operands are statements, not objects or sets. Parentheses show which conjunction belongs with which larger expression.",
+      "examples": [
+        {
+          "text": "Let P mean “the door is open” and Q mean “the alarm is connected.” P ∧ Q requires both facts.",
+          "note": "If the door is open but the alarm is disconnected, P is true and Q is false, so the conjunction is false."
+        }
+      ],
+      "limitations": [
+        "Natural-language “and” can sometimes join objects or actions rather than truth-evaluable statements; ∧ is for statements."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "disjunction",
+          "note": "Conjunction requires both parts; inclusive disjunction requires at least one."
+        }
+      ],
+      "related": [
+        "disjunction",
+        "negation"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "definite-description",
+      "name": "Definite description",
+      "glyph": "ι",
+      "alternateGlyphs": [],
+      "aliases": [
+        "iota operator"
+      ],
+      "group": "quantifier",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "the unique x such that φ",
+        "the φ-object"
+      ],
+      "summary": "Forms a term intended to denote the unique object with a stated property.",
+      "body": "ιx P(x) is read “the unique x such that P(x).” Here x is a variable and P(x) is a condition. The whole expression is a term intended to name one object, rather than a complete assertion. When exactly one object meets the condition, the description picks out that object so another predicate can say something about it.\n\nFor example, the description “the captain” can be used within the claim “the captain is tall.” If there is no captain or more than one, the intended unique referent is missing. Different formal theories handle those cases differently: some expand the whole assertion into existence and uniqueness conditions, while others allow a non-denoting description or specify a default. The symbol must therefore be read with its chosen description theory, rather than treated as an automatic guarantee of existence.",
+      "examples": [
+        {
+          "text": "Let Captain(x) mean “x is captain” and Tall(x) mean “x is tall.” Tall(ιx Captain(x)) says that the uniquely specified captain is tall.",
+          "note": "If Ada is the only captain, the description picks out Ada, and the remaining claim is Tall(Ada)."
+        }
+      ],
+      "limitations": [
+        "Russell-style analyses expand existence and uniqueness into ordinary quantifiers; free logics may allow a non-denoting description."
+      ],
+      "lookalikes": [],
+      "related": [
+        "bertrand-russell",
+        "hilbert-choice-operator",
+        "definite-description-concept"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "definition-marker",
+      "name": "Definition marker",
+      "glyph": "≔",
+      "alternateGlyphs": [
+        ":=",
+        "≝"
+      ],
+      "aliases": [
+        ":=",
+        "=def",
+        "≝"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [
+        ":="
+      ],
+      "englishReadings": [
+        "is defined to be",
+        "means by definition"
+      ],
+      "summary": "Declares that the expression on one side is defined to mean the expression on the other side.",
+      "body": "A ≔ B is a definition, not an ordinary claim that can be true in one situation and false in another. A is the new notation or defined expression, and B gives its meaning. Read the marker as “A is defined as B.” Definitions can introduce an abbreviation, a recursive clause, or a symbol whose use is fixed by the surrounding theory.",
+      "examples": [
+        {
+          "text": "Over the integers, Even(x) ≔ ∃y(x = y + y).",
+          "note": "The integer domain matters: the definition says that x is twice some integer. Over all real numbers, every number has a real half."
+        }
+      ],
+      "limitations": [
+        "Some authors use :=, ≡, or “iff” for related purposes; those marks are not interchangeable in every formal system."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "empty-set",
+      "name": "Empty set",
+      "glyph": "∅",
+      "alternateGlyphs": [],
+      "aliases": [
+        "{}"
+      ],
+      "group": "set",
+      "arity": 0,
+      "shortcodes": [
+        "{}"
+      ],
+      "englishReadings": [
+        "the empty set",
+        "the set containing nothing"
+      ],
+      "summary": "Names the set with no members.",
+      "body": "∅ names the set containing no elements. For every object x, the membership statement x ∈ ∅ is false. The empty set is a collection, whereas ⊥ is a logical statement fixed as false; the two symbols play different roles.\n\nThe empty set is a subset of every set. Subsethood asks whether each member of the smaller set is also in the larger one, and ∅ has no member that could violate that condition. Nevertheless, ∅ ∈ A is a separate question: it is true only when A contains the empty set itself as an element.",
+      "examples": [
+        {
+          "text": "{1, 2} ∩ {3} = ∅.",
+          "note": "The two displayed sets share no element, so their intersection is the empty set."
+        }
+      ],
+      "limitations": [
+        "In standard set theory there is exactly one empty set; an expression such as ∅ ∈ A still depends on whether A contains that set as an element."
+      ],
+      "lookalikes": [],
+      "related": [
+        "falsity-constant",
+        "set-membership",
+        "subset"
+      ],
+      "tags": [
+        "set-notation"
+      ]
+    },
+    {
+      "id": "end-of-proof-marker",
+      "name": "End-of-proof marker",
+      "glyph": "∎",
+      "alternateGlyphs": [
+        "□"
+      ],
+      "aliases": [
+        "QED",
+        "□"
+      ],
+      "group": "relation",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "proof complete",
+        "QED"
+      ],
+      "summary": "Marks the point where a written proof has reached its conclusion.",
+      "body": "∎ is a punctuation mark, often called the tombstone or QED symbol. It says that the proof just given is complete. It is not a proposition, a premise, or an inference rule, so it has no truth value by itself. The final line before it should be the statement proved under the proof's assumptions.",
+      "examples": [
+        {
+          "text": "Therefore n + 0 = n. ∎",
+          "note": "The marker tells the reader that the derivation of the displayed result is finished."
+        }
+      ],
+      "limitations": [
+        "A proof can be complete without using ∎, and some styles write QED instead."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "eventually-operator",
+      "name": "Eventually operator",
+      "glyph": "F",
+      "alternateGlyphs": [],
+      "aliases": [
+        "◇φ in temporal notation"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "eventually φ",
+        "at some time from now on, φ"
+      ],
+      "summary": "Says that a formula is true at some current or later time.",
+      "body": "F is read “eventually.” In the standard convention used here, time is an infinite discrete sequence and Fφ includes the current time: there must be a time now or later at which φ is true. The letter φ is a placeholder for a formula. Fφ is false when φ never occurs in the relevant future. This is temporal eventuality, not merely a claim that φ is possible in an unrelated modal world.",
+      "examples": [
+        {
+          "text": "F Delivered.",
+          "note": "The statement says that the item is delivered at the current time or at some later time."
+        }
+      ],
+      "limitations": [
+        "Some temporal systems reserve “eventually” for a strict future and exclude now; that choice must be stated."
+      ],
+      "lookalikes": [],
+      "related": [
+        "always-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "exclusive-disjunction",
+      "name": "Exclusive disjunction",
+      "glyph": "⊕",
+      "alternateGlyphs": [
+        "⊻"
+      ],
+      "aliases": [
+        "p XOR q",
+        "p ⊻ q"
+      ],
+      "group": "connective",
+      "arity": 2,
+      "shortcodes": [
+        "xor"
+      ],
+      "englishReadings": [
+        "either P or Q, but not both",
+        "exactly one of P and Q"
+      ],
+      "summary": "Says that exactly one of two statements is true.",
+      "body": "P ⊕ Q is true when one operand is true and the other is false. It is false when both are true and false when both are false. P and Q are statement placeholders, not objects. This differs from inclusive disjunction ∨, which allows both statements to be true.",
+      "examples": [
+        {
+          "text": "Let T mean “Ada ordered tea” and C mean “Ada ordered coffee.” T ⊕ C says she ordered exactly one of them.",
+          "note": "Ordering both makes both statements true, which fails ⊕. Ordering neither also fails it."
+        }
+      ],
+      "limitations": [
+        "In ordinary language “or” is often ambiguous; ⊕ fixes the exclusive reading."
+      ],
+      "lookalikes": [],
+      "related": [
+        "disjunction"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "existential-quantifier",
+      "name": "Existential quantifier",
+      "glyph": "∃",
+      "alternateGlyphs": [],
+      "aliases": [
+        "(Ex)P(x)"
+      ],
+      "group": "quantifier",
+      "arity": 1,
+      "shortcodes": [
+        "exists"
+      ],
+      "englishReadings": [
+        "there is at least one x such that φ",
+        "some object is φ"
+      ],
+      "summary": "Says that at least one object in the chosen domain meets the condition that follows.",
+      "body": "∃ is read “there exists” or “for at least one.” In ∃x P(x), the domain is the collection of objects under discussion, and P(x) is a condition about an object x. The statement is true if some domain object meets that condition. There may be one such object or many; ∃ does not mean exactly one.\n\nThe quantifier controls x inside its scope. A particular object that makes the condition true is often called a witness. To show an existential statement is true, one witness suffices; to show it is false, every candidate must fail. If the condition contains another free variable, its assigned value stays fixed while the possible values of x are considered.",
+      "examples": [
+        {
+          "text": "∃x(Prime(x) ∧ x > 10).",
+          "note": "This is true in the natural numbers because at least one prime, such as 11, is greater than 10."
+        }
+      ],
+      "limitations": [
+        "Standard first-order logic uses a nonempty domain. A vacuous quantifier, whose variable does not occur in the following formula, is permitted.",
+        "Use ∃! for exactly one. Negating ∃x P(x) says no object is P, rather than that some object fails to be P."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "unique-existential-quantifier",
+          "note": "Existence requires at least one witness; unique existence additionally excludes distinct witnesses."
+        }
+      ],
+      "related": [
+        "unique-existential-quantifier",
+        "universal-quantifier",
+        "gottlob-frege",
+        "negated-existential-quantifier",
+        "bounded-existential-quantifier",
+        "existential-quantification"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "failure-of-entailment",
+      "name": "Failure of entailment",
+      "glyph": "⊭",
+      "alternateGlyphs": [],
+      "aliases": [
+        "nonentailment"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [
+        "!|="
+      ],
+      "englishReadings": [
+        "Γ does not entail φ",
+        "the premises leave room for φ to be false"
+      ],
+      "summary": "Says that at least one allowed case makes all the premises true and the conclusion false.",
+      "body": "Γ ⊭ φ means that the premises Γ do not force the conclusion φ. There is a countermodel: an allowed interpretation, with any required variable assignment, in which all the premises are true but the conclusion is false. One such case is enough to refute a claim of semantic consequence.\n\nThis does not establish that the premises force the opposite conclusion. They may leave φ open, allowing it to be true in some cases and false in others. For example, knowing only that a door is open does not settle whether a lamp is lit. In a sound proof system a countermodel also rules out a derivation from those premises. The converse connection between missing proofs and countermodels requires completeness.",
+      "examples": [
+        {
+          "text": "P ⊭ Q.",
+          "note": "A counterexample is a valuation with P true and Q false, so P does not force Q."
+        }
+      ],
+      "limitations": [
+        "In an incomplete or unsound calculus, non-entailment and nonderivability need not coincide."
+      ],
+      "lookalikes": [],
+      "related": [
+        "formal-nonderivability",
+        "semantic-consequence"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "falsity-constant",
+      "name": "Falsity constant",
+      "glyph": "⊥",
+      "alternateGlyphs": [
+        "F",
+        "0"
+      ],
+      "aliases": [
+        "F",
+        "0",
+        "falsum"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "false",
+        "contradiction"
+      ],
+      "summary": "Names the proposition that is false under every evaluation.",
+      "body": "⊥ is a logical constant fixed as false; it takes no input. In classical logic it is false under every assignment of truth values. It differs from a sentence letter P, which can be true in one interpretation and false in another.\n\nIn a proof, deriving ⊥ records a contradiction. In a sound classical system this shows that the assumptions being used cannot all be true together. An inconsistent pair such as P and ¬P can lead to ⊥; merely failing to establish P cannot. The notation is also used in other logics, where the rules for reasoning from a contradiction may differ.",
+      "examples": [
+        {
+          "text": "P, ¬P ⊢ ⊥.",
+          "note": "Classically, a statement and its negation cannot both be true. The proof records that incompatibility as ⊥."
+        }
+      ],
+      "limitations": [
+        "In proof presentations ⊥ can mark an impossible proof state, while in semantics it denotes a false proposition; the two uses are connected but not identical."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "empty-set",
+          "note": "Falsum is a logical constant; the empty set is a mathematical object."
+        }
+      ],
+      "related": [
+        "empty-set"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "formal-derivability",
+      "name": "Formal derivability",
+      "glyph": "⊢",
+      "alternateGlyphs": [],
+      "aliases": [
+        "provability",
+        "turnstile"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [
+        "|-"
+      ],
+      "englishReadings": [
+        "φ can be proved from Γ",
+        "there is a formal derivation of φ from Γ"
+      ],
+      "summary": "Says that a conclusion has a formal proof from stated premises using specified rules.",
+      "body": "Γ ⊢ φ says that the conclusion φ can be proved from the premises Γ using a specified proof system. Premises are the statements being taken as given. A proof system supplies axioms and rules for moving from statements already available to further statements. A derivation is a finite sequence or tree of permitted steps ending in φ.\n\nThe finished proof may rely on the premises in Γ. Any extra temporary supposition must have been closed by an appropriate rule; it cannot remain an undeclared assumption. For example, conditional introduction can close a temporary supposition when proving an if–then statement. The turnstile records the existence of such a proof. To conclude that the proof preserves truth across models, the system must also be sound: its rules must never permit true premises and a false conclusion.",
+      "examples": [
+        {
+          "text": "P, P → Q ⊢ Q.",
+          "note": "A proof uses the two premises and the rule of conditional elimination to derive Q."
+        }
+      ],
+      "limitations": [
+        "Different calculi can have different derivability relations. Soundness is needed to infer semantic consequence from a proof; completeness is needed for the converse."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "semantic-consequence",
+          "note": "Provability is syntactic; entailment is semantic. Soundness and completeness connect them for suitable systems."
+        }
+      ],
+      "related": [
+        "semantic-consequence",
+        "formal-nonderivability",
+        "theoremhood-marker",
+        "proof",
+        "soundness-of-a-proof-system",
+        "completeness",
+        "sequent-arrow"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "formal-nonderivability",
+      "name": "Formal nonderivability",
+      "glyph": "⊬",
+      "alternateGlyphs": [],
+      "aliases": [
+        "nonprovability"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [
+        "!|-"
+      ],
+      "englishReadings": [
+        "φ is not derivable from Γ",
+        "the calculus has no proof of φ from Γ"
+      ],
+      "summary": "Says that no proof of the conclusion from the stated premises exists in the chosen proof system.",
+      "body": "Γ ⊬ φ says that no proof of φ from Γ exists using the chosen system's rules. It is stronger than saying that a search has not found a proof. Γ names the premises and φ names the target conclusion; neither the mark nor a failed search says that φ is false in the actual situation.\n\nOne way to rule out a proof is to find a countermodel: a case where every premise is true but φ is false. If the proof system is sound, it could not prove that conclusion from those premises, because sound rules preserve truth. Soundness alone is sufficient for this direction. Inferring non-entailment from nonderivability requires completeness as well. These qualifications matter when comparing different proof systems.",
+      "examples": [
+        {
+          "text": "P ⊬ Q.",
+          "note": "In ordinary propositional logic there is no proof of Q from the single premise P; a valuation with P true and Q false also supplies the semantic reason."
+        }
+      ],
+      "limitations": [
+        "Without soundness and completeness, nonderivability cannot automatically be identified with semantic non-entailment."
+      ],
+      "lookalikes": [],
+      "related": [
+        "failure-of-entailment",
+        "formal-derivability"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "formula-metavariable",
+      "name": "Formula metavariable",
+      "glyph": "φ",
+      "alternateGlyphs": [
+        "ψ",
+        "χ"
+      ],
+      "aliases": [
+        "A, B in schematic contexts"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "an arbitrary formula",
+        "whatever formula is substituted here"
+      ],
+      "summary": "Stands for an arbitrary formula when describing a rule or general pattern.",
+      "body": "φ is a metavariable: it ranges over formulas of the object language, rather than naming an object inside that language. For example, a rule written “from φ and φ → ψ infer ψ” applies no matter which formulas replace φ and ψ. The Greek letters are notation used by the logician to talk about expressions; they are not automatically predicate letters or individual variables in the formal theory being described.",
+      "examples": [
+        {
+          "text": "φ ∧ ⊤ ↔ φ.",
+          "note": "Read this as a schema: every formula substituted for φ has the displayed truth-equivalent form."
+        }
+      ],
+      "limitations": [
+        "Some authors use A, B, or α instead; whether a letter is a metavariable depends on the surrounding metalanguage."
+      ],
+      "lookalikes": [],
+      "related": [
+        "sentence-letter",
+        "premise-set-metavariable"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "function-application",
+      "name": "Function application",
+      "glyph": "f(·)",
+      "alternateGlyphs": [],
+      "aliases": [
+        "g(x, y)"
+      ],
+      "group": "relation",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "the value of f at t",
+        "apply f to t"
+      ],
+      "summary": "Builds a term by applying a function symbol to the required number of arguments.",
+      "body": "A term is an expression that names an object rather than a claim that can be true or false. In f(t), f is a one-input function symbol and t supplies its input. The result is another term naming the output object. A two-input function uses f(t, u), with the order of inputs significant.\n\nAn ordinary first-order interpretation gives a function exactly one output for every permitted input combination. This differs from a predicate application such as Tall(a), which makes a claim about its input. The language must declare how many inputs each function takes; a display using f(·) illustrates the one-input form.",
+      "examples": [
+        {
+          "text": "Successor(3) = 4.",
+          "note": "If Successor is interpreted as the successor function on natural numbers, applying it to 3 denotes 4."
+        }
+      ],
+      "limitations": [
+        "A symbol written f(·) may be used informally for functions of different arities; a formal language must declare the arity."
+      ],
+      "lookalikes": [],
+      "related": [
+        "predicate-application",
+        "term-concept"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "grouping-delimiters",
+      "name": "Grouping delimiters",
+      "glyph": "( )",
+      "alternateGlyphs": [],
+      "aliases": [
+        "[ ]",
+        "{ }"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "group these expressions",
+        "the scope is the parenthesized part"
+      ],
+      "summary": "Show which parts of a formula belong together.",
+      "body": "Parentheses make the scope and order of a complex expression explicit. They prevent a reader from confusing, for example, (P ∧ Q) → R with P ∧ (Q → R). Quantifier scope is also shown by grouping: ∀x(P(x) → Q(x)) binds x throughout the parenthesized formula. Delimiters do not add a new truth condition; they tell the syntax how to build the expression.",
+      "examples": [
+        {
+          "text": "(P ∧ Q) → R.",
+          "note": "The antecedent of the conditional is the whole conjunction P ∧ Q, not just Q."
+        }
+      ],
+      "limitations": [
+        "Many notations omit parentheses using precedence conventions, but the convention must be known to read the shortened expression safely."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "hilbert-choice-operator",
+      "name": "Hilbert choice operator",
+      "glyph": "ε",
+      "alternateGlyphs": [],
+      "aliases": [
+        "epsilon operator"
+      ],
+      "group": "quantifier",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "a chosen x satisfying φ, if available",
+        "some selected witness for φ"
+      ],
+      "summary": "Forms a term naming a selected object that meets a condition, whenever such an object exists.",
+      "body": "εx P(x) is a choice term. If at least one object satisfies P(x), it names a selected one of those objects. There need not be a unique P-object. The result is an object-denoting expression that can occur inside a larger claim; the term alone is not an assertion that any P-object exists.\n\nUnder a usual classical convention, the domain is nonempty and the term still selects some domain object when nothing satisfies P. In that case the selected object has no guarantee of being P. This is why ∃x P(x) → P(εx P(x)) needs its existence condition. Different choice terms and different interpretations need not select the same witness.",
+      "examples": [
+        {
+          "text": "∃x P(x) → P(εxP(x)).",
+          "note": "Under the usual choice convention, if a P-object exists, the chosen object is a P-object; the antecedent supplies the existence condition."
+        }
+      ],
+      "limitations": [
+        "Choice semantics varies when no witness exists or when the language is free; do not read ε as a hidden existential quantifier."
+      ],
+      "lookalikes": [],
+      "related": [
+        "definite-description"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "identity",
+      "name": "Identity",
+      "glyph": "=",
+      "alternateGlyphs": [],
+      "aliases": [
+        "identity predicate"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "is the same object as",
+        "equals as an object"
+      ],
+      "summary": "Says that two terms denote the very same object.",
+      "body": "s = t is true when the term s and the term t refer to one and the same object in the interpretation. It is stronger than similarity and is not an equivalence between whole statements. Identity permits substitution in ordinary extensional contexts: if s = t, a property of s can be transferred to t. Inside quotation, belief reports, or other intensional contexts, substitution may fail to preserve the surrounding meaning because the expression itself or an agent's way of representing it matters.",
+      "examples": [
+        {
+          "text": "Let Red(x) mean “x is red.” Then (a = b ∧ Red(a)) → Red(b).",
+          "note": "If the two names refer to one object, the color claim concerns that same object. Parentheses make the two assumptions explicit."
+        }
+      ],
+      "limitations": [
+        "The terms must be interpreted in the same structure, and substitution under quotation or belief requires special care."
+      ],
+      "lookalikes": [],
+      "related": [
+        "ruth-barcan-marcus",
+        "nonidentity",
+        "identity-concept"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "disjunction",
+      "name": "Inclusive disjunction",
+      "glyph": "∨",
+      "alternateGlyphs": [],
+      "aliases": [
+        "Apq"
+      ],
+      "group": "connective",
+      "arity": 2,
+      "shortcodes": [
+        "\\/",
+        "or"
+      ],
+      "englishReadings": [
+        "or, possibly both",
+        "at least one of P and Q"
+      ],
+      "summary": "Says that at least one of two statements is true, including the possibility that both are true.",
+      "body": "P ∨ Q is true when P is true, when Q is true, or when both are true. It is false only when both statements are false. P and Q are statement placeholders, not objects. This is inclusive disjunction; exclusive disjunction ⊕ is the separate connective that rejects the both-true case.",
+      "examples": [
+        {
+          "text": "Open ∨ Unlocked.",
+          "note": "The claim is true if the door is open, unlocked, or both."
+        }
+      ],
+      "limitations": [
+        "Ordinary-language “or” may be intended exclusively, but the formal connective ∨ is inclusive unless the logic states otherwise."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "exclusive-disjunction",
+          "note": "Inclusive disjunction permits both operands to be true; exclusive disjunction does not."
+        }
+      ],
+      "related": [
+        "exclusive-disjunction",
+        "conjunction"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "individual-constant",
+      "name": "Individual constant",
+      "glyph": "a",
+      "alternateGlyphs": [
+        "b",
+        "c"
+      ],
+      "aliases": [
+        "name",
+        "object constant"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "the object named by a",
+        "a particular individual"
+      ],
+      "summary": "Names one particular object in the domain.",
+      "body": "a is an individual constant: the interpretation assigns it one fixed object in the domain. Unlike a variable, it does not receive a new value from a quantifier or assignment each time it appears. A constant can be used as an argument to a predicate or function, and its meaning is fixed within the selected model.",
+      "examples": [
+        {
+          "text": "Red(a).",
+          "note": "The statement says that the particular object named by a has the property Red."
+        }
+      ],
+      "limitations": [
+        "Different models may interpret the same constant as different objects; the symbol is fixed within a model, not across all models."
+      ],
+      "lookalikes": [],
+      "related": [
+        "individual-variable"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "individual-variable",
+      "name": "Individual variable",
+      "glyph": "x",
+      "alternateGlyphs": [
+        "y",
+        "z"
+      ],
+      "aliases": [
+        "object variable"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "an arbitrary object x",
+        "a variable ranging over the domain"
+      ],
+      "summary": "Stands for an object whose value is supplied by an assignment or a quantifier.",
+      "body": "x is an individual variable ranging over the model's domain. A variable can be free, in which case an assignment gives it a value, or bound by a quantifier such as ∀x or ∃x, which controls the values considered in its scope. It is not a fixed name and it does not itself assert that an object exists.",
+      "examples": [
+        {
+          "text": "∀x(Blue(x) → Visible(x)).",
+          "note": "The quantifier tests every domain object as a possible value of x; x has no one fixed object as its meaning here."
+        }
+      ],
+      "limitations": [
+        "The same letter can be reused under a nested quantifier with a new binding; scope determines which occurrence is bound."
+      ],
+      "lookalikes": [],
+      "related": [
+        "individual-constant",
+        "free-variable",
+        "bound-variable"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "interpretation-brackets",
+      "name": "Interpretation brackets",
+      "glyph": "⟦ ⟧",
+      "alternateGlyphs": [],
+      "aliases": [
+        "semantic brackets"
+      ],
+      "group": "relation",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "the value of E under the interpretation",
+        "what E denotes here"
+      ],
+      "summary": "Show the value or meaning assigned to a written expression in a specified interpretation.",
+      "body": "⟦E⟧ is read “the interpretation of E.” E may be a term, formula, or other formal expression, and the brackets indicate that we are asking what it denotes or means under a chosen interpretation, model, or valuation. The result depends on the kind of expression: a term may denote an object, while a sentence may receive a truth value. The brackets are metalanguage notation, not an object-language connective.",
+      "examples": [
+        {
+          "text": "⟦a⟧ᴹ = d.",
+          "note": "In model M, the individual constant a is interpreted as the object d."
+        }
+      ],
+      "limitations": [
+        "Bracket notation is convention-dependent; authors may use quotation marks or a function such as I(E) for the same semantic role."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "knowledge-operator",
+      "name": "Knowledge operator",
+      "glyph": "Kₐ",
+      "alternateGlyphs": [],
+      "aliases": [
+        "K_a φ"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "agent a knows φ",
+        "a has factive knowledge that φ"
+      ],
+      "summary": "Says that the specified person knows the following statement is true.",
+      "body": "Kₐφ is read “a knows that φ.” The subscript a identifies the person or agent whose knowledge is modeled. The letter φ stands for a statement, such as “the door is open.” A possible-worlds model treats worlds as alternative situations: Kₐφ holds when φ is true in every situation compatible with the agent's information.\n\nStandard knowledge models include the actual situation among those alternatives. Consequently, Kₐφ implies φ: what is known must be true. This property is called factivity. Belief Bₐφ need not have it, because someone can believe a false statement. These formal models are idealizations; they may also assume that an agent recognizes logical consequences that a real person would overlook.",
+      "examples": [
+        {
+          "text": "Kₐ(door-open).",
+          "note": "Agent a knows that the door is open: the door is open at every world compatible with a's information."
+        }
+      ],
+      "limitations": [
+        "Which reasoning and introspection abilities the model gives an agent depends on its axioms. Those assumptions should not be mistaken for a literal account of human cognition."
+      ],
+      "lookalikes": [],
+      "related": [
+        "belief-operator",
+        "knowledge",
+        "belief"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "lambda-abstraction",
+      "name": "Lambda abstraction",
+      "glyph": "λ",
+      "alternateGlyphs": [],
+      "aliases": [
+        "lambda binder"
+      ],
+      "group": "relation",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "the function mapping x to E",
+        "a function whose input is x"
+      ],
+      "summary": "Builds a function by naming its input and giving the output expression.",
+      "body": "λx.E is a function whose input is called x and whose result is E after x is given a value. x is bound inside E, so the abstraction can be applied to a term: (λx.x + 1)(3) reduces to 3 + 1. The expression E may contain other free variables, which remain parameters of the resulting function unless they are bound elsewhere. Lambda notation is about functions and substitution, not about universal quantification.",
+      "examples": [
+        {
+          "text": "(λx.x + 1)(3) = 4.",
+          "note": "Applying the function to 3 replaces its bound input x with 3, yielding 4."
+        }
+      ],
+      "limitations": [
+        "Typed calculi restrict which inputs and outputs are allowed; untyped calculi and programming languages may use different evaluation conventions."
+      ],
+      "lookalikes": [],
+      "related": [
+        "substitution-notation"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "logical-equivalence-marker",
+      "name": "Logical equivalence marker",
+      "glyph": "⇔",
+      "alternateGlyphs": [],
+      "aliases": [
+        "φ ≡ ψ"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "is logically equivalent to",
+        "has the same truth conditions as"
+      ],
+      "summary": "Says that two formulas cannot differ in truth value under any interpretation allowed by the logic.",
+      "body": "In this entry, A ⇔ B says that A and B are logically equivalent: every allowed interpretation gives them the same truth value. For propositional formulas, this means their truth-table columns match on every row. For first-order formulas, the comparison covers the relevant models and assignments of values to free variables.\n\nThis is stronger than a material biconditional happening to be true in one situation. “It rains” and “the lamp is on” may both be true today without being logically equivalent. Logical equivalence also need not mean sameness of subject matter or ordinary-language meaning: two formulas can agree everywhere while expressing different descriptions. Some authors use ⇔ as the biconditional symbol instead; the convention here reserves this record for agreement across interpretations.",
+      "examples": [
+        {
+          "text": "¬(P ∧ Q) ⇔ (¬P ∨ ¬Q).",
+          "note": "The two formulas agree under every propositional valuation by De Morgan’s law."
+        }
+      ],
+      "limitations": [
+        "Some texts use ⇔ for a material biconditional in object language; the surrounding notation determines which reading is intended."
+      ],
+      "lookalikes": [],
+      "related": [
+        "material-biconditional",
+        "logical-equivalence"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "logical-validity-marker",
+      "name": "Logical validity marker",
+      "glyph": "⊨",
+      "alternateGlyphs": [],
+      "aliases": [
+        "validity"
+      ],
+      "group": "relation",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "φ is valid",
+        "φ is true under every allowed interpretation"
+      ],
+      "summary": "Says that a formula is true in every case allowed by the logic.",
+      "body": "⊨ φ, with nothing on the left, says that φ is logically valid. An interpretation supplies meanings or truth values to the symbols. Validity requires the formula to be true under every interpretation the logic allows, with all relevant variable assignments included. It is stronger than finding one model in which the formula is true.\n\nIn classical propositional logic, a truth table can check validity: every row must make the formula true. A first-order validity claim ranges over models and cannot generally be checked by a finite truth table. The mark describes truth across cases, rather than a sequence of proof steps. The notation ⊢ φ instead says that φ is a theorem of a specified proof system.",
+      "examples": [
+        {
+          "text": "⊨ P ∨ ¬P.",
+          "note": "Every classical valuation makes P or its negation true, so the formula is valid."
+        }
+      ],
+      "limitations": [
+        "Validity depends on the chosen logic and class of models; intuitionistic, modal, and classical validity need not coincide."
+      ],
+      "lookalikes": [],
+      "related": [
+        "truth-constant",
+        "theoremhood-marker",
+        "validity",
+        "semantic-consequence"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "material-biconditional",
+      "name": "Material biconditional",
+      "glyph": "↔",
+      "alternateGlyphs": [
+        "≡"
+      ],
+      "aliases": [
+        "p ≡ q",
+        "Epq"
+      ],
+      "group": "connective",
+      "arity": 2,
+      "shortcodes": [
+        "<->"
+      ],
+      "englishReadings": [
+        "if and only if",
+        "P exactly when Q"
+      ],
+      "summary": "Says that two statements have the same truth value in the current evaluation.",
+      "body": "P ↔ Q is true when P and Q are both true or both false, and false when exactly one is true. P and Q are statement placeholders. It can be defined as (P → Q) ∧ (Q → P). The connective concerns this evaluation; a separate metalogical claim that two formulas agree in every model is stronger and is written with notation such as ⇔ or semantic equivalence.",
+      "examples": [
+        {
+          "text": "Open ↔ Unlocked.",
+          "note": "The biconditional is true at a situation where both statements match in truth value, whether both are true or both false."
+        }
+      ],
+      "limitations": [
+        "↔ does not by itself say that either side causes the other or that either statement is actually true."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "material-conditional",
+          "note": "The biconditional requires both directions; the conditional requires only one."
+        }
+      ],
+      "related": [
+        "material-conditional",
+        "logical-equivalence-marker"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "material-conditional",
+      "name": "Material conditional",
+      "glyph": "→",
+      "alternateGlyphs": [
+        "⊃"
+      ],
+      "aliases": [
+        "p ⊃ q",
+        "Cpq"
+      ],
+      "group": "connective",
+      "arity": 2,
+      "shortcodes": [
+        "->"
+      ],
+      "englishReadings": [
+        "if P, then Q"
+      ],
+      "summary": "An if–then statement that is false only when its first part is true and its second part is false.",
+      "body": "P → Q is read “if P, then Q.” P and Q stand for complete statements. P is the condition, called the antecedent; Q is the consequent. The conditional is false exactly when P is true and Q is false. It is true in the other three combinations, including either case in which P is false.\n\nThink of the material conditional as excluding one possibility: P holds but Q does not. When P is false, that excluded case has not occurred, so the conditional counts as true. This convention does not establish a causal connection, assert that P actually happens, or allow the direction to be reversed. If P means “the card is approved” and Q means “the door opens,” Q → P is a different claim: it says that opening the door requires an approved card.",
+      "examples": [
+        {
+          "text": "Rain → WetRoad.",
+          "note": "The conditional is false only in a situation where it rains but the road is not wet; it is true in every other truth-value combination."
+        }
+      ],
+      "limitations": [
+        "Ordinary-language conditionals may carry causal, temporal, or relevance expectations that material implication does not encode."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "semantic-consequence",
+          "note": "A conditional is a formula; semantic consequence relates premises to conclusions over interpretations."
+        },
+        {
+          "targetID": "affirming-the-consequent",
+          "note": "Treating the conditional as reversible produces this formal fallacy."
+        }
+      ],
+      "related": [
+        "semantic-consequence",
+        "affirming-the-consequent",
+        "material-biconditional",
+        "sequent-arrow"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "model-satisfaction",
+      "name": "Model satisfaction",
+      "glyph": "⊨",
+      "alternateGlyphs": [],
+      "aliases": [
+        "satisfaction relation"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "φ is true in M under s",
+        "M and s satisfy φ"
+      ],
+      "summary": "Says that a formula is true in one specified model, with specified values for its free variables.",
+      "body": "M, s ⊨ φ says that the formula φ is true in the model M with the variable assignment s. M fixes the domain—the objects under discussion—and the meanings of names, functions, and predicates. The assignment s supplies a particular object for each free individual variable. A sentence with no free variables can usually be written simply as M ⊨ φ.\n\nThis checks one interpreted case, rather than every possible model. That is the difference from ⊨ φ, which states logical validity, and from Γ ⊨ φ, which compares premises with a conclusion across models. In propositional logic, a valuation instead assigns truth values to sentence letters; that use should not be confused with assigning domain objects to first-order variables.",
+      "examples": [
+        {
+          "text": "Let M contain Ada and Ben, with Tall true of Ada only. If s assigns x to Ada, then M, s ⊨ Tall(x).",
+          "note": "Assigning x to Ben instead makes Tall(x) false in this same model. The assignment changes the object being checked."
+        }
+      ],
+      "limitations": [
+        "Authors may write M ⊨ φ when φ is a sentence and no assignment is needed, or use a different letter for the assignment."
+      ],
+      "lookalikes": [],
+      "related": [
+        "semantic-consequence"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "nand",
+      "name": "NAND",
+      "glyph": "↑",
+      "alternateGlyphs": [
+        "|"
+      ],
+      "aliases": [
+        "p | q",
+        "Sheffer stroke"
+      ],
+      "group": "connective",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "not both P and Q",
+        "P NAND Q"
+      ],
+      "summary": "Says “not both”: it is false only when both input statements are true.",
+      "body": "P ↑ Q is the NAND connective, defined as ¬(P ∧ Q). It is true when P is false, when Q is false, or when both are false; it is false only when both are true. P and Q are statements, not objects. NAND is therefore different from NOR: NAND excludes the case where both are true, while NOR requires both to be false.",
+      "examples": [
+        {
+          "text": "Open ↑ Locked.",
+          "note": "The statement is false only if both “Open” and “Locked” are true; otherwise NAND is true."
+        }
+      ],
+      "limitations": [
+        "The arrowhead glyph is sometimes used with a different convention in electronics or informal writing; the truth-functional definition here controls."
+      ],
+      "lookalikes": [],
+      "related": [
+        "c-s-peirce",
+        "nor"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "necessity-operator",
+      "name": "Necessity operator",
+      "glyph": "□",
+      "alternateGlyphs": [],
+      "aliases": [
+        "Lφ"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [
+        "[]"
+      ],
+      "englishReadings": [
+        "necessarily φ",
+        "φ holds in every permitted alternative"
+      ],
+      "summary": "Says that a formula is true in every alternative situation permitted by the model.",
+      "body": "□φ is read “necessarily φ.” At a current world w, it is true when φ is true at every world v such that R(w, v), where R is the model's accessibility relation. “Accessible” means an alternative the model permits from w, not a place one can physically travel to. The letter φ is a formula placeholder. Necessity need not imply truth at the current world unless the relation is reflexive or another assumption connects the current world to the accessible set.",
+      "examples": [
+        {
+          "text": "□Open.",
+          "note": "At the current world, every R-accessible world has the door open."
+        }
+      ],
+      "limitations": [
+        "If no worlds are accessible from w, □φ is vacuously true there; reflexivity, seriality, and other frame conditions change such cases."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "possibility-operator",
+          "note": "Necessity concerns every accessible world; possibility requires at least one."
+        }
+      ],
+      "related": [
+        "possibility-operator",
+        "accessibility-relation"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "negated-existential-quantifier",
+      "name": "Negated existential quantifier",
+      "glyph": "∄",
+      "alternateGlyphs": [],
+      "aliases": [
+        "¬∃x P(x)"
+      ],
+      "group": "quantifier",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "there is no x such that φ",
+        "nothing is φ"
+      ],
+      "summary": "Says that no object in the domain has the stated property.",
+      "body": "∄xφ is an abbreviation for ¬∃xφ, so it says there is not even one object x for which φ is true. The domain is the collection of objects under discussion, and x is bound in φ. Equivalently, in classical first-order logic it is ∀x¬φ. The statement is true when every candidate fails φ and false as soon as one witness makes φ true.",
+      "examples": [
+        {
+          "text": "∄x(Unicorn(x)).",
+          "note": "This says that no object in the domain is a unicorn."
+        }
+      ],
+      "limitations": [
+        "In free logic or theories with non-denoting terms, related existence assumptions may require separate treatment; the abbreviation itself is still a negated existential."
+      ],
+      "lookalikes": [],
+      "related": [
+        "existential-quantifier"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "negation",
+      "name": "Negation",
+      "glyph": "¬",
+      "alternateGlyphs": [
+        "~",
+        "!"
+      ],
+      "aliases": [
+        "~p",
+        "!p",
+        "Np"
+      ],
+      "group": "connective",
+      "arity": 1,
+      "shortcodes": [
+        "!",
+        "~",
+        "not"
+      ],
+      "englishReadings": [
+        "not P",
+        "it is false that P"
+      ],
+      "summary": "Reverses the truth value of one statement.",
+      "body": "In classical two-valued logic, ¬P is true exactly when P is false, and false exactly when P is true. P is a statement placeholder. Negation does not mean that P is meaningless or unknown; it asserts the opposite truth condition in the chosen logic. Parentheses matter when P is compound, as in ¬(P ∧ Q).",
+      "examples": [
+        {
+          "text": "¬Open.",
+          "note": "The statement says that “Open” is false in the current evaluation."
+        }
+      ],
+      "limitations": [
+        "Classical negation is bivalent; intuitionistic, many-valued, and paraconsistent logics can give negation different behavior."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "conjunction",
+          "note": "Negating a conjunction differs from negating each conjunct and retaining conjunction."
+        },
+        {
+          "targetID": "contradiction",
+          "note": "Contradiction is the concept of incompatible truth commitments; ¬ is a formal connective."
+        }
+      ],
+      "related": [
+        "conjunction",
+        "contradiction"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "next-operator",
+      "name": "Next operator",
+      "glyph": "X",
+      "alternateGlyphs": [
+        "○"
+      ],
+      "aliases": [
+        "○φ"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "at the next time",
+        "in the immediately following state"
+      ],
+      "summary": "Says that a formula holds at the next time or state.",
+      "body": "Xφ is read “next φ.” Under the standard convention used here, time is a discrete sequence and Xφ is evaluated one step after the current point. φ is any temporal formula. X does not mean “eventually” and does not include the current state: it selects the immediate successor. On a model with a last state, the treatment of X there must be specified.",
+      "examples": [
+        {
+          "text": "X DoorOpen.",
+          "note": "The door is open at the immediately following time, not necessarily now."
+        }
+      ],
+      "limitations": [
+        "Some systems use finite traces, branching time, or a weak next operator with a special end-of-trace value."
+      ],
+      "lookalikes": [],
+      "related": [
+        "always-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "nonidentity",
+      "name": "Nonidentity",
+      "glyph": "≠",
+      "alternateGlyphs": [],
+      "aliases": [
+        "¬(a = b)"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [
+        "!="
+      ],
+      "englishReadings": [
+        "s is not identical to t",
+        "s and t are different objects"
+      ],
+      "summary": "Says that two terms do not denote the same object.",
+      "body": "s ≠ t is shorthand for ¬(s = t). It is true when s and t refer to different objects in the interpretation and false when they refer to the same object. It is not a claim that the objects merely look different or have different properties; it denies identity itself.",
+      "examples": [
+        {
+          "text": "a ≠ b.",
+          "note": "The statement is true exactly when the objects denoted by a and b are distinct."
+        }
+      ],
+      "limitations": [
+        "Whether two descriptions denote different objects can depend on the interpretation, even when the descriptions look different."
+      ],
+      "lookalikes": [],
+      "related": [
+        "identity"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "nor",
+      "name": "NOR",
+      "glyph": "↓",
+      "alternateGlyphs": [],
+      "aliases": [
+        "Peirce arrow",
+        "Quine dagger"
+      ],
+      "group": "connective",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "neither P nor Q",
+        "not P and not Q"
+      ],
+      "summary": "Says “neither”: it is true only when both input statements are false.",
+      "body": "P ↓ Q is the NOR connective, defined as ¬(P ∨ Q). It is true when P is false and Q is false; it is false whenever either input is true, including when both are true. P and Q are statements. NOR is different from NAND, which is false only when both inputs are true.",
+      "examples": [
+        {
+          "text": "Open ↓ Locked.",
+          "note": "The statement is true only if both “Open” and “Locked” are false."
+        }
+      ],
+      "limitations": [
+        "The glyph can have domain-specific uses outside logic; the definition here is the truth-functional NOR convention."
+      ],
+      "lookalikes": [],
+      "related": [
+        "c-s-peirce",
+        "nand"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "obligation-operator",
+      "name": "Obligation operator",
+      "glyph": "O",
+      "alternateGlyphs": [],
+      "aliases": [
+        "O(φ)"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "it is required that φ",
+        "φ is obligatory"
+      ],
+      "summary": "Says that the rules require the situation described by the following statement.",
+      "body": "Oφ is read “it is obligatory that φ.” The letter φ stands for the required action or state of affairs. In deontic semantics, Oφ is evaluated relative to a situation and a set of normatively acceptable alternatives; φ must hold in all alternatives the norms permit. The operator reports a requirement, not a prediction that people comply and not a claim that φ is already actual.",
+      "examples": [
+        {
+          "text": "O SubmitReport.",
+          "note": "The applicable rules require submitting the report, whether or not the report has actually been submitted."
+        }
+      ],
+      "limitations": [
+        "The meaning of obligation depends on the chosen deontic logic and on how contrary-to-duty or impossible obligations are modeled."
+      ],
+      "lookalikes": [],
+      "related": [
+        "permission-operator",
+        "prohibition-operator",
+        "obligation"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "permission-operator",
+      "name": "Permission operator",
+      "glyph": "P",
+      "alternateGlyphs": [],
+      "aliases": [
+        "P(φ)"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "φ is permitted",
+        "the rules do not forbid φ in the stated sense"
+      ],
+      "summary": "Says that the rules allow the situation described by the following statement.",
+      "body": "Pφ is read “φ is permitted.” φ is the action or state being assessed. Permission does not say that φ happens, that anyone chooses it, or that φ is obligatory. Under the common weak-permission convention, Pφ is defined as ¬O¬φ: φ is permitted when its opposite is not obligatory. This duality is a convention of a particular deontic system, not the meaning of every explicit or institutional permission.",
+      "examples": [
+        {
+          "text": "P LeaveEarly.",
+          "note": "The rules allow leaving early; the notation does not report whether anyone leaves early."
+        }
+      ],
+      "limitations": [
+        "Explicit permissions can be modeled independently of weak permission, especially when permissions are issued acts or exceptions."
+      ],
+      "lookalikes": [],
+      "related": [
+        "obligation-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "possibility-operator",
+      "name": "Possibility operator",
+      "glyph": "◇",
+      "alternateGlyphs": [],
+      "aliases": [
+        "Mφ"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [
+        "<>"
+      ],
+      "englishReadings": [
+        "possibly φ",
+        "φ holds in at least one permitted alternative"
+      ],
+      "summary": "Says that a formula is true in at least one alternative situation permitted by the model.",
+      "body": "◇φ is read “possibly φ.” At a current world w, it is true when some accessible world v satisfies φ. The relation R determines which alternatives count, and “accessible” is a model-theoretic notion rather than physical travel. Because it needs only one witness world, ◇φ is generally easier to satisfy than □φ. If no world is accessible from w, ◇φ is false.",
+      "examples": [
+        {
+          "text": "◇Open.",
+          "note": "There is at least one R-accessible world where the door is open."
+        }
+      ],
+      "limitations": [
+        "In a reflexive frame, current truth implies possibility; without reflexivity that implication need not hold."
+      ],
+      "lookalikes": [],
+      "related": [
+        "necessity-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "predicate-application",
+      "name": "Predicate application",
+      "glyph": "P(·)",
+      "alternateGlyphs": [],
+      "aliases": [
+        "Pa"
+      ],
+      "group": "relation",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "a has property P",
+        "P holds of t"
+      ],
+      "summary": "Forms a statement by applying a predicate to one or more terms.",
+      "body": "P(t) uses P as a predicate letter and t as a term. The predicate is interpreted as a property or relation, so the whole application is true or false in a model and assignment. For a two-place predicate, R(t, u) is a relation claim with ordered arguments. Predicate arity matters: the language must declare how many arguments P accepts. This differs from a function application, whose result is an object or term rather than a truth value.",
+      "examples": [
+        {
+          "text": "Tall(a).",
+          "note": "The statement says that the object named by a has the property represented by Tall."
+        }
+      ],
+      "limitations": [
+        "A predicate letter can be used as a metavariable in a metalanguage; its role is determined by whether it is being applied inside the formal language."
+      ],
+      "lookalikes": [],
+      "related": [
+        "predicate-letter",
+        "relation-application",
+        "function-application"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "predicate-letter",
+      "name": "Predicate letter",
+      "glyph": "P",
+      "alternateGlyphs": [
+        "Q",
+        "R"
+      ],
+      "aliases": [
+        "F, G, H"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "a property or relation symbol",
+        "a predicate placeholder"
+      ],
+      "summary": "Names a property or relation symbol whose application makes a statement.",
+      "body": "P is a predicate letter, often used as a placeholder for a one-place property such as Red or Sleeps. P alone is not normally a complete statement; P(t) applies it to a term t. A predicate may have higher arity, in which case it takes an ordered list of arguments. The interpretation decides which tuples make the predicate true.",
+      "examples": [
+        {
+          "text": "P(a).",
+          "note": "This is a statement saying that the object named by a is in the extension of predicate P."
+        }
+      ],
+      "limitations": [
+        "Uppercase P may be a schematic metavariable in a textbook instead of a fixed symbol in an object language."
+      ],
+      "lookalikes": [],
+      "related": [
+        "predicate-application"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "premise-set-metavariable",
+      "name": "Premise-set metavariable",
+      "glyph": "Γ",
+      "alternateGlyphs": [
+        "Δ"
+      ],
+      "aliases": [
+        "context metavariable"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "the premises in Γ",
+        "a set of assumptions"
+      ],
+      "summary": "Stands for a collection of premises in a proof or semantic argument.",
+      "body": "Γ is a metavariable for a set or list of formulas assumed together. In Γ ⊢ φ, the formulas in Γ may be used as undischarged premises in a formal proof. In Γ ⊨ φ, every model that makes every member of Γ true must also make φ true. Γ is not itself normally a formula and is not an individual variable; it is notation for talking about a group of formulas.",
+      "examples": [
+        {
+          "text": "{P, P → Q} ⊨ Q.",
+          "note": "The displayed set Γ has two premises, and every valuation making both true also makes Q true."
+        }
+      ],
+      "limitations": [
+        "Some calculi distinguish ordered premise lists from sets, especially when assumptions carry multiplicity or resources."
+      ],
+      "lookalikes": [],
+      "related": [
+        "formula-metavariable"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "prohibition-operator",
+      "name": "Prohibition operator",
+      "glyph": "F",
+      "alternateGlyphs": [],
+      "aliases": [
+        "F(φ)"
+      ],
+      "group": "modal",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "φ is forbidden",
+        "it is required not to do φ"
+      ],
+      "summary": "Says that the rules forbid the situation described by the following statement.",
+      "body": "Fφ is read “it is forbidden that φ.” The letter φ stands for the prohibited action or state. Under the common convention Fφ means O¬φ: the opposite of φ is obligatory. It reports a norm, not actual behavior; a forbidden action can still occur. This symbol is overloaded with temporal F for “eventually,” so the surrounding logic and the operand determine which reading applies.",
+      "examples": [
+        {
+          "text": "F EnterRestrictedArea.",
+          "note": "The applicable rules forbid entering the restricted area; the notation does not assert that nobody enters."
+        }
+      ],
+      "limitations": [
+        "Some deontic systems use a primitive prohibition operator rather than defining it as obligation of the negation; temporal F is a separate operator."
+      ],
+      "lookalikes": [],
+      "related": [
+        "obligation-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    },
+    {
+      "id": "proper-subset",
+      "name": "Proper subset",
+      "glyph": "⊊",
+      "alternateGlyphs": [
+        "⊂"
+      ],
+      "aliases": [
+        "strict subset"
+      ],
+      "group": "set",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "A is a proper subset of B",
+        "A is contained in B but is smaller as a set"
+      ],
+      "summary": "Says that every member of one set is in another set, and the two sets are not equal.",
+      "body": "A ⊊ B means A ⊆ B and A ≠ B. Thus every element of A is an element of B, but B has at least one element that A lacks. A and B are sets, and the relation compares their members rather than their appearance or size alone.",
+      "examples": [
+        {
+          "text": "{1, 2} ⊊ {1, 2, 3}.",
+          "note": "Both 1 and 2 are in the larger set, and 3 is in the larger set but not the smaller one."
+        }
+      ],
+      "limitations": [
+        "Some authors use ⊂ for proper subset and others allow it to mean non-strict subset; ⊊ avoids that convention conflict."
+      ],
+      "lookalikes": [],
+      "related": [
+        "subset"
+      ],
+      "tags": [
+        "set-notation"
+      ]
+    },
+    {
+      "id": "relation-application",
+      "name": "Relation application",
+      "glyph": "R(·,·)",
+      "alternateGlyphs": [],
+      "aliases": [
+        "Rab"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "R holds of t and u",
+        "t bears relation R to u"
+      ],
+      "summary": "Forms a statement about an ordered tuple of objects using a relation symbol.",
+      "body": "R(t, u) says that the ordered pair of objects denoted by t and u stands in relation R. The order matters: R(t, u) and R(u, t) can differ. R may have any declared arity, and the number of supplied terms must match it. The result is a truth-valued statement, unlike a function application, which returns an object.",
+      "examples": [
+        {
+          "text": "Loves(a, b).",
+          "note": "The statement says that the object named by a stands in the Loves relation to the object named by b, in that order."
+        }
+      ],
+      "limitations": [
+        "Some mathematical texts use relation symbols without parentheses; the arity and argument order still need to be fixed."
+      ],
+      "lookalikes": [],
+      "related": [
+        "predicate-application"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "semantic-consequence",
+      "name": "Semantic consequence",
+      "glyph": "⊨",
+      "alternateGlyphs": [],
+      "aliases": [
+        "entailment"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [
+        "|="
+      ],
+      "englishReadings": [
+        "Γ entails φ",
+        "every model of Γ is a model of φ"
+      ],
+      "summary": "Says that the premises cannot all be true while the conclusion is false.",
+      "body": "Γ ⊨ φ says that φ follows from the premises Γ in every case the logic allows. Γ names the collection of premises: the statements being taken as given. φ is the proposed conclusion. A model assigns meanings to the symbols and, in first-order logic, supplies a domain of objects. The consequence claim holds when every model and assignment making all the premises true also makes the conclusion true.\n\nThe question is whether a counterexample is possible, rather than whether someone has written a proof. Γ ⊢ φ asks the separate question of whether the system's rules permit a proof. Soundness means those rules do not lead from true premises to a false conclusion. Completeness means every semantic consequence can be obtained by some proof. In a sound and complete system the two relations agree, but their definitions describe different things.",
+      "examples": [
+        {
+          "text": "P, P → Q ⊨ Q.",
+          "note": "No valuation can make both premises true while making Q false, so Q is semantically forced."
+        }
+      ],
+      "limitations": [
+        "Changing the class of models or the underlying logic changes what counts as consequence."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "formal-derivability",
+          "note": "Semantic consequence concerns models; derivability concerns proofs in a calculus."
+        }
+      ],
+      "related": [
+        "formal-derivability",
+        "material-conditional",
+        "failure-of-entailment",
+        "model-satisfaction",
+        "logical-validity-marker",
+        "semantic-consequence-concept"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "sentence-letter",
+      "name": "Sentence letter",
+      "glyph": "p",
+      "alternateGlyphs": [
+        "q",
+        "r"
+      ],
+      "aliases": [
+        "A, B, C"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "a propositional variable",
+        "a whole statement placeholder"
+      ],
+      "summary": "Stands for a complete statement in propositional logic.",
+      "body": "p is an atomic sentence letter: it represents a statement that is treated as a single unit, such as “The light is on.” A valuation assigns p either true or false, and connectives combine it with other sentence letters. Unlike an individual variable, p does not range over objects; unlike a formula metavariable, it is a symbol inside the object language.",
+      "examples": [
+        {
+          "text": "p → q.",
+          "note": "Read p and q as two complete statements; the conditional is false only when p is true and q is false."
+        }
+      ],
+      "limitations": [
+        "Different texts use lowercase letters for sentence letters and uppercase letters for formulas, but the naming convention is not universal."
+      ],
+      "lookalikes": [],
+      "related": [
+        "formula-metavariable"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "sequent-arrow",
+      "name": "Sequent arrow",
+      "glyph": "⇒",
+      "alternateGlyphs": [],
+      "aliases": [
+        "Γ ⟹ Δ"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "from these assumptions, conclude these formulas",
+        "sequent with left side and right side"
+      ],
+      "summary": "Separates assumptions from a conclusion in a sequent or rule display.",
+      "body": "Γ ⇒ Δ is a structural notation whose exact meaning depends on the proof system. Γ and Δ may be sets, lists, or multisets of formulas; the arrow marks the direction from left-hand assumptions to right-hand conclusions. In a single-conclusion presentation it may display Γ as premises and Δ as one target. It is not automatically the material conditional → and does not by itself specify a truth table.",
+      "examples": [
+        {
+          "text": "P, P → Q ⇒ Q.",
+          "note": "In a single-conclusion sequent calculus, the left side lists assumptions and the right side lists the conclusion Q."
+        }
+      ],
+      "limitations": [
+        "Some systems use ⇒ for meta-level implication or function typing; always read its sequent convention first."
+      ],
+      "lookalikes": [],
+      "related": [
+        "formal-derivability",
+        "material-conditional"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "set-intersection",
+      "name": "Set intersection",
+      "glyph": "∩",
+      "alternateGlyphs": [],
+      "aliases": [
+        "intersection"
+      ],
+      "group": "set",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "the elements shared by A and B",
+        "A intersect B"
+      ],
+      "summary": "Forms the set containing exactly the elements common to both input sets.",
+      "body": "A ∩ B contains an object x exactly when x is in A and in B: x ∈ A ∩ B iff x ∈ A ∧ x ∈ B. The operands are sets, and the result is a set. Intersection is therefore set-level “and,” not the propositional conjunction of two sentences.",
+      "examples": [
+        {
+          "text": "{1, 2, 3} ∩ {2, 3, 4} = {2, 3}.",
+          "note": "Only 2 and 3 occur in both displayed sets, so they are the members of the intersection."
+        }
+      ],
+      "limitations": [
+        "The operation is binary here; generalized intersections over a family of sets use a different binding convention."
+      ],
+      "lookalikes": [],
+      "related": [
+        "set-union"
+      ],
+      "tags": [
+        "set-notation"
+      ]
+    },
+    {
+      "id": "set-membership",
+      "name": "Set membership",
+      "glyph": "∈",
+      "alternateGlyphs": [],
+      "aliases": [
+        "element of"
+      ],
+      "group": "set",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "x is an element of A",
+        "x belongs to A"
+      ],
+      "summary": "Says that an object is one of the members of a set.",
+      "body": "x ∈ A says that the object named on the left is a member of the set named on the right. To check it for a displayed finite set, ask whether that object is one of the listed elements. The claim is not about resemblance or about how many members the set has.\n\nMembership and subsethood ask different questions. In 2 ∈ {1, 2}, the number 2 is one member. In {2} ⊆ {1, 2}, every member of the set {2} is checked for inclusion. A set can itself be an element of another set, so the distinction is not simply between “numbers” and “sets”; it concerns the relationship being asserted.",
+      "examples": [
+        {
+          "text": "2 ∈ {1, 2, 3}.",
+          "note": "The number 2 appears as an element of the displayed set, so the membership claim is true."
+        }
+      ],
+      "limitations": [
+        "In set theory a set can itself be an element of another set; membership and subsethood remain different relations."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "subset",
+          "note": "Membership relates an object to a set; inclusion relates sets through their members."
+        }
+      ],
+      "related": [
+        "subset",
+        "set-nonmembership",
+        "empty-set"
+      ],
+      "tags": [
+        "set-notation"
+      ]
+    },
+    {
+      "id": "set-nonmembership",
+      "name": "Set nonmembership",
+      "glyph": "∉",
+      "alternateGlyphs": [],
+      "aliases": [
+        "not an element of"
+      ],
+      "group": "set",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "x is not an element of A",
+        "x does not belong to A"
+      ],
+      "summary": "Says that an object is not a member of a set.",
+      "body": "x ∉ A is shorthand for ¬(x ∈ A). It is true when the object denoted by x is absent from the members of A. Like membership, it compares an object with a set; it does not say that x is not a subset of A or that x is unlike the elements of A.",
+      "examples": [
+        {
+          "text": "4 ∉ {1, 2, 3}.",
+          "note": "4 is not among the displayed members, so the nonmembership claim is true."
+        }
+      ],
+      "limitations": [
+        "If the set is described intensionally, deciding nonmembership may require evaluating its defining condition."
+      ],
+      "lookalikes": [],
+      "related": [
+        "set-membership"
+      ],
+      "tags": [
+        "set-notation"
+      ]
+    },
+    {
+      "id": "set-union",
+      "name": "Set union",
+      "glyph": "∪",
+      "alternateGlyphs": [],
+      "aliases": [
+        "union"
+      ],
+      "group": "set",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "all elements in A or B",
+        "A union B"
+      ],
+      "summary": "Forms the set containing every element from either input set.",
+      "body": "A ∪ B contains x exactly when x is in A or in B, including the case where x is in both: x ∈ A ∪ B iff x ∈ A ∨ x ∈ B. The operands and result are sets. Repeated elements are not duplicated because sets record membership, not multiplicity.",
+      "examples": [
+        {
+          "text": "{1, 2} ∪ {2, 3} = {1, 2, 3}.",
+          "note": "The union collects all distinct elements appearing in either displayed set."
+        }
+      ],
+      "limitations": [
+        "Union of multisets or lists has different treatment of duplicates; ∪ is the ordinary set operation here."
+      ],
+      "lookalikes": [],
+      "related": [
+        "set-intersection"
+      ],
+      "tags": [
+        "set-notation"
+      ]
+    },
+    {
+      "id": "subset",
+      "name": "Subset",
+      "glyph": "⊆",
+      "alternateGlyphs": [],
+      "aliases": [
+        "subset or equal"
+      ],
+      "group": "set",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "every element of A is in B",
+        "A is contained in B"
+      ],
+      "summary": "Says that every member of one set is also a member of another set.",
+      "body": "A ⊆ B is true exactly when every object in A is also in B. A and B are sets; equality is allowed, so A ⊆ A is always true. This is different from membership A ∈ B, which says that the set A itself is one element of B, and from proper subset A ⊊ B, which additionally requires A ≠ B.",
+      "examples": [
+        {
+          "text": "{1, 2} ⊆ {1, 2, 3}.",
+          "note": "Each member of the left set, 1 and 2, is also a member of the right set."
+        }
+      ],
+      "limitations": [
+        "Some authors use ⊂ for ⊆ and others for proper subset; ⊆ is the non-strict convention used here."
+      ],
+      "lookalikes": [],
+      "related": [
+        "set-membership",
+        "proper-subset",
+        "empty-set"
+      ],
+      "tags": [
+        "set-notation"
+      ]
+    },
+    {
+      "id": "substitution-notation",
+      "name": "Substitution notation",
+      "glyph": "[t/x]",
+      "alternateGlyphs": [],
+      "aliases": [
+        "φ[x := t]"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "replace free x by t in φ",
+        "φ with t substituted for x"
+      ],
+      "summary": "Replaces free occurrences of a variable with a term, without accidentally binding variables in the replacement.",
+      "body": "In φ[t/x], replace each free occurrence of x in the formula φ by the term t. An occurrence is free if no quantifier in that formula controls it. Occurrences already bound by a quantifier for x are left alone.\n\nThe replacement must also avoid variable capture: a variable that was free in t must not become controlled by an existing quantifier in φ. Otherwise the substitution changes what the inserted expression refers to. Rename bound variables first when necessary. The point is to preserve the intended reference of the replacement, rather than blindly replacing every matching letter.",
+      "examples": [
+        {
+          "text": "To substitute y for free x in ∀y R(x, y), first rename the bound y to z. The result is ∀z R(y, z), not ∀y R(y, y).",
+          "note": "The inserted y remains free. The naïve replacement would put it under ∀y and change the claim to a statement about each object being related to itself."
+        }
+      ],
+      "limitations": [
+        "Notation may place the replacement pair before the formula or use a different bracket order; the free-occurrence and no-capture conditions are the essential convention."
+      ],
+      "lookalikes": [],
+      "related": [
+        "lambda-abstraction",
+        "free-variable"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "theoremhood-marker",
+      "name": "Theoremhood marker",
+      "glyph": "⊢",
+      "alternateGlyphs": [],
+      "aliases": [
+        "theorem marker"
+      ],
+      "group": "relation",
+      "arity": 1,
+      "shortcodes": [],
+      "englishReadings": [
+        "φ is provable outright",
+        "φ has a proof from no assumptions"
+      ],
+      "summary": "Says that a statement can be proved using the system’s rules and axioms, without extra premises.",
+      "body": "⊢ φ says that φ is a theorem of the chosen proof system. A proof may use that system's axioms and rules, but the finished result does not depend on additional premises. Temporary suppositions inside a proof are allowed if the rules properly close them; they must not remain assumptions on which the final statement depends.\n\nThis concerns what the rules can prove, rather than truth in one particular model. Soundness guarantees that theorems are valid across the system's intended models. Completeness guarantees the converse: every validity has a proof. A statement can therefore be called a theorem only relative to the rules being used. Classical and intuitionistic systems, for example, disagree about some theorems.",
+      "examples": [
+        {
+          "text": "⊢ (P → P).",
+          "note": "A conditional proof temporarily assumes P, obtains P, and closes the supposition. The finished theorem does not require P as an extra premise."
+        }
+      ],
+      "limitations": [
+        "Theorems depend on the chosen proof system and logic; an intuitionistic calculus, for example, does not prove every classical theorem."
+      ],
+      "lookalikes": [],
+      "related": [
+        "formal-derivability",
+        "logical-validity-marker"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "therefore-marker",
+      "name": "Therefore marker",
+      "glyph": "∴",
+      "alternateGlyphs": [],
+      "aliases": [
+        "therefore"
+      ],
+      "group": "relation",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "therefore",
+        "so the conclusion is"
+      ],
+      "summary": "Marks the statement presented as the conclusion of an argument.",
+      "body": "∴ is a layout mark used before or after a conclusion. It does not itself prove the conclusion and has no truth value. The reasons must be supplied elsewhere, and whether they support the conclusion depends on the argument or formal derivation around the marker.",
+      "examples": [
+        {
+          "text": "P, P → Q; ∴ Q.",
+          "note": "The display labels Q as the conclusion drawn from the two listed premises."
+        }
+      ],
+      "limitations": [
+        "Some authors use a turnstile or sequent arrow for formal consequence instead; ∴ is usually informal punctuation."
+      ],
+      "lookalikes": [],
+      "related": [
+        "because-marker"
+      ],
+      "tags": [
+        "proof-notation"
+      ]
+    },
+    {
+      "id": "truth-constant",
+      "name": "Truth constant",
+      "glyph": "⊤",
+      "alternateGlyphs": [
+        "T",
+        "1"
+      ],
+      "aliases": [
+        "T",
+        "1",
+        "verum"
+      ],
+      "group": "constant",
+      "arity": 0,
+      "shortcodes": [],
+      "englishReadings": [
+        "true",
+        "a proposition that always holds"
+      ],
+      "summary": "Names the proposition that is true under every evaluation.",
+      "body": "⊤ is a logical constant fixed as true; it takes no input. Its value does not change when truth values are assigned to other statements. A sentence letter P, by contrast, can be true or false under different interpretations.\n\nThe constant can be included in larger formulas. Requiring an additional condition that is always true does not narrow the cases in which the other condition holds. This explains why conjunction with ⊤ leaves a statement's truth value unchanged. The symbol is not a factual claim that needs observation, nor a label for every sentence that happens to be true.",
+      "examples": [
+        {
+          "text": "P ∧ ⊤ ↔ P.",
+          "note": "Conjoining any statement with a proposition that is always true leaves its truth value unchanged."
+        }
+      ],
+      "limitations": [
+        "Some systems use a nullary predicate or a designated truth value instead of ⊤; the constant must be part of the chosen language."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "logical-validity-marker",
+          "note": "⊤ is an object-language truth constant; ⊨ asserts semantic validity in the metalanguage."
+        }
+      ],
+      "related": [
+        "logical-validity-marker"
+      ],
+      "tags": [
+        "propositional-logic"
+      ]
+    },
+    {
+      "id": "type-annotation",
+      "name": "Type annotation",
+      "glyph": ":",
+      "alternateGlyphs": [],
+      "aliases": [
+        "type judgment"
+      ],
+      "group": "relation",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "has type T",
+        "is of sort T"
+      ],
+      "summary": "States the type or sort assigned to an expression.",
+      "body": "In t : T, the colon says that expression t has type T. t may be a term, variable, function, or other typed expression, and T names the allowed kind or domain of values. A type annotation is a declaration or constraint, not a truth-functional connective. It helps prevent ill-formed applications, such as giving a set where a number is required.",
+      "examples": [
+        {
+          "text": "x : Person.",
+          "note": "The annotation declares or records that x is being used as a Person-valued variable."
+        }
+      ],
+      "limitations": [
+        "Many-sorted logic, type theory, programming languages, and informal mathematics use colon notation differently; the surrounding type system fixes its force."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "unique-existential-quantifier",
+      "name": "Unique existential quantifier",
+      "glyph": "∃!",
+      "alternateGlyphs": [],
+      "aliases": [
+        "∃₁x P(x)"
+      ],
+      "group": "quantifier",
+      "arity": 1,
+      "shortcodes": [
+        "exists!"
+      ],
+      "englishReadings": [
+        "there is exactly one x such that φ",
+        "one and only one object is φ"
+      ],
+      "summary": "Says that exactly one object has the stated property.",
+      "body": "∃!xφ means that at least one object satisfies φ and no two distinct objects satisfy it. A standard expansion is ∃x(φ ∧ ∀y(φ[y/x] → y = x)): there is a witness x, and every other φ-object is identical with x. x is bound in φ and y is a fresh variable used to compare possible witnesses. The quantifier asserts both existence and uniqueness.",
+      "examples": [
+        {
+          "text": "∃!x(x + 1 = 3).",
+          "note": "Over the natural numbers, exactly one object, 2, satisfies the equation."
+        }
+      ],
+      "limitations": [
+        "Some theories treat definite descriptions or empty domains differently, but ordinary first-order semantics uses a nonempty domain and the expansion above."
+      ],
+      "lookalikes": [],
+      "related": [
+        "existential-quantifier"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "universal-quantifier",
+      "name": "Universal quantifier",
+      "glyph": "∀",
+      "alternateGlyphs": [],
+      "aliases": [
+        "(x)P(x)"
+      ],
+      "group": "quantifier",
+      "arity": 1,
+      "shortcodes": [
+        "forall"
+      ],
+      "englishReadings": [
+        "for every x",
+        "all objects in the domain are φ"
+      ],
+      "summary": "Says that every object in the chosen domain meets the condition that follows.",
+      "body": "∀ is read “for every” or “for all.” In ∀x P(x), the domain is the collection of objects under discussion, x stands in turn for each object, and P(x) is the condition being checked. The statement is true when every domain object passes that check. One counterexample makes it false. Over the domain {2, 4}, ∀x Even(x) is true; adding 3 to the domain makes it false.\n\nThe quantifier controls occurrences of x inside its scope, usually the formula that follows within parentheses. Other free variables keep their assigned values. Standard first-order logic uses a nonempty domain, so ∀x P(x) then implies ∃x P(x).\n\nA restricted statement is different. “Every cat is a mammal” is written ∀x(Cat(x) → Mammal(x)). This can be true when there are no cats, because no cat provides a counterexample. The overall domain can still contain many other objects. This distinction explains why a universal statement need not establish that a particular restricted class has members.",
+      "examples": [
+        {
+          "text": "∀x(Cat(x) → Mammal(x)).",
+          "note": "Every object that is a cat is a mammal; this can be true even in a domain containing no cats."
+        }
+      ],
+      "limitations": [
+        "The domain and scope must be clear. Quantification is allowed even when the bound variable does not occur in the following formula.",
+        "Logics permitting an empty overall domain change the inference from an unrestricted universal to an existential."
+      ],
+      "lookalikes": [
+        {
+          "targetID": "existential-quantifier",
+          "note": "Universal quantification requires the property throughout the domain; existential quantification requires a witness."
+        }
+      ],
+      "related": [
+        "existential-quantifier",
+        "gottlob-frege",
+        "bounded-universal-quantifier",
+        "universal-quantification",
+        "bound-variable"
+      ],
+      "tags": [
+        "predicate-logic"
+      ]
+    },
+    {
+      "id": "until-operator",
+      "name": "Until operator",
+      "glyph": "U",
+      "alternateGlyphs": [],
+      "aliases": [
+        "until"
+      ],
+      "group": "modal",
+      "arity": 2,
+      "shortcodes": [],
+      "englishReadings": [
+        "φ holds until ψ",
+        "ψ eventually occurs and φ holds before then"
+      ],
+      "summary": "Says that one formula continues until another becomes true, with the second eventually occurring in the standard strong reading.",
+      "body": "φ U ψ is read “φ until ψ.” In the standard infinite discrete linear-time convention, there is some current or future time at which ψ is true, and φ is true at every earlier time from now up to but not including that time. ψ may also be true now, in which case no earlier φ requirement remains. This is strong until: it guarantees eventual ψ. φ and ψ are temporal formula placeholders.",
+      "examples": [
+        {
+          "text": "Safe U Open.",
+          "note": "The system remains Safe at each time before the first relevant time when Open becomes true, and Open eventually becomes true."
+        }
+      ],
+      "limitations": [
+        "With weak until, the second condition may never occur; if it never occurs, the first condition must continue forever. Strict-future and branching-time variants also need their own stated conventions."
+      ],
+      "lookalikes": [],
+      "related": [
+        "always-operator"
+      ],
+      "tags": [
+        "modal-logic"
+      ]
+    }
+  ]
+}

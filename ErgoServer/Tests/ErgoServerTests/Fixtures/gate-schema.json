@@ -1,0 +1,1 @@
+{"type":"object","properties":{"kind":{"type":"string","enum":["argument","statements","neither"]},"reason":{"type":"string"}},"required":["kind","reason"],"additionalProperties":false}

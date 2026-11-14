@@ -1,0 +1,59 @@
+# Ergo's translation server.
+#
+#   docker compose up -d --build
+#   docker compose logs -f ergo-server
+#   docker compose down        # keeps the data volume; add --volumes to wipe it
+#
+# Run one instance only: the sync socket's broadcaster is in memory.
+# Nothing is published to the host: the proxy reaches port 8080 over its Docker network, as Dokploy's Traefik does.
+
+services:
+  # Makes the vault key in the data volume the first time, then exits. It never overwrites an existing key.
+  vault-key:
+    image: ergo-server:latest
+    build:
+      context: ..
+      dockerfile: ErgoServer/Dockerfile
+    entrypoint: ["sh", "-c"]
+    command:
+      - |
+        if [ ! -f /data/vault.key ]; then
+          head -c 32 /dev/urandom | base64 > /data/vault.key
+          chown ergo:ergo /data/vault.key
+          chmod 600 /data/vault.key
+        fi
+    user: root
+    volumes:
+      - ergo-data:/data
+    restart: "no"
+
+  ergo-server:
+    image: ergo-server:latest
+    depends_on:
+      vault-key:
+        condition: service_completed_successfully
+    expose:
+      - "8080"
+    volumes:
+      - ergo-data:/data
+    # Every variable in the .env beside this file reaches the server, which is where Dokploy writes its list.
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      # Only what differs from the server's own default.
+      # Only for a proxy on this machine or Docker network, and never when the port is reachable without it
+      ERGO_TRUST_PROXY: ${ERGO_TRUST_PROXY:-1}
+    # The entrypoint starts as root and drops itself with setpriv, which needs these to do it (setpcap to shrink
+    # the bounding set, setuid and setgid to switch users, chown for the run directories). Nothing else is kept.
+    cap_drop:
+      - ALL
+    cap_add:
+      - SETPCAP
+      - SETUID
+      - SETGID
+      - CHOWN
+    restart: unless-stopped
+
+volumes:
+  ergo-data:

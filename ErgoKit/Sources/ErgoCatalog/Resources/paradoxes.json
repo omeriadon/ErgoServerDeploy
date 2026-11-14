@@ -1,0 +1,1746 @@
+{
+  "paradoxes": [
+    {
+      "id": "paradox-abilene-paradox",
+      "name": "Abilene paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A group may collectively choose an outcome that no individual member wants because each mistakenly assumes others favor it.",
+      "body": "Family members agree to drive to Abilene despite each privately preferring to stay home. Each goes along to avoid disappointing the others, while assuming the others genuinely want the trip. The group’s action conflicts with individual preferences because communication fails. It is a coordination and decision-making failure, not a logical contradiction or a claim that consensus is always false.",
+      "origin": "Jerry B. Harvey introduced the label through an account of a family trip in 1974.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A committee approves a plan every member privately doubts because each believes the rest support it.",
+          "note": "Silence is mistaken for agreement, producing collective action no one wanted."
+        }
+      ],
+      "commonMisreadings": [
+        "It is distinct from groupthink, which can involve pressure toward conformity even when some members favor the outcome."
+      ],
+      "criticisms": [
+        "The account is an illustrative model; real groups may have mixed preferences or strategic reasons for acquiescence."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-alabama-paradox",
+      "name": "Alabama paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A state can lose a legislative seat when the total number of seats is increased under the Hamilton apportionment method.",
+      "body": "Hamilton’s largest-remainder method first assigns each state its lower quota and then distributes remaining seats by fractional remainders. Increasing the house size can alter quotas and remainder rankings so that a state loses a seat despite there being more seats overall. The paradox exposes a conflict among desirable apportionment properties. It is a feature of this allocation rule, not a mathematical error in calculating quotas.",
+      "origin": "The paradox was identified during nineteenth-century debates over U.S. congressional apportionment and named after Alabama’s projected seat loss.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A state receives eight seats in a 299-seat legislature but seven after the legislature grows to 300 seats under the same apportionment rule.",
+          "note": "Changing the total changes every state’s quota and the ordering of remainders."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not mean the state’s population has fallen."
+      ],
+      "criticisms": [
+        "Other apportionment methods avoid this particular paradox but may violate different fairness criteria."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-allais-paradox",
+      "name": "Allais paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "People often choose lotteries in a way that violates the independence axiom of expected-utility theory.",
+      "body": "In a classic pair of choices, many prefer a sure moderate prize over a lottery with a slightly larger expected payoff, then prefer a risky lottery over a comparable option after the common sure outcome is removed from both. These preferences conflict with independence, which says a shared outcome should not reverse the ranking. The pattern may reflect certainty effects, framing, or limits of the model; it does not establish that every such choice is irrational.",
+      "origin": "Maurice Allais presented the challenge to expected-utility theory in 1953.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A person prefers a guaranteed prize in one choice, then favors the riskier option in a second choice that differs by removing a common outcome.",
+          "note": "The paired choices reveal a reversal that independence forbids."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a logical contradiction in the person’s reported choices alone; the conflict is with a normative axiom."
+      ],
+      "criticisms": [
+        "Whether the axiom should govern real decisions remains debated, and experimental results vary with presentation."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-arrow-impossibility-paradox",
+      "name": "Arrow’s impossibility theorem",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "No ranked-choice voting system can satisfy several plausible fairness conditions for every possible set of preferences when there are at least three options.",
+      "body": "Arrow’s theorem shows that, under unrestricted individual rankings, no social welfare function can simultaneously satisfy Pareto efficiency, independence of irrelevant alternatives, non-dictatorship, and a complete transitive social ranking. The “paradox” is a conflict among desired properties, not a claim that voting is impossible. Every rule must give up or modify at least one condition, restrict preferences, or use a different conception of fairness.",
+      "origin": "Kenneth Arrow proved the theorem in Social Choice and Individual Values, first published in 1951.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A committee seeks a complete ranking that respects unanimous preferences, ignores irrelevant alternatives, and gives no voter dictatorial power.",
+          "note": "For three or more options, the stated conditions cannot all hold for every preference profile."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not say every election result is invalid or that democracy cannot function."
+      ],
+      "criticisms": [
+        "The theorem concerns a precise class of aggregation rules; other voting goals and restricted domains remain possible."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-banach-tarski-paradox",
+      "name": "Banach–Tarski paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A mathematical theorem says a solid ball can be partitioned into finitely many pieces and reassembled into two balls identical to the first.",
+      "body": "In three-dimensional Euclidean space, the axiom of choice permits a finite partition of a ball into highly nonmeasurable sets. Rigid rotations and translations can reassemble those pieces into two copies of the original ball. The result conflicts with the intuition that rearrangement preserves volume, but ordinary volume is undefined for the pieces; no physical cutting or duplication process is described.",
+      "origin": "Stefan Banach and Alfred Tarski proved the result in 1924, building on work by Giuseppe Vitali and Felix Hausdorff.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A theorem partitions an idealized ball into finitely many sets that can be moved to form two congruent copies.",
+          "note": "The pieces are not ordinary measurable chunks, so volume conservation does not apply to them."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not describe a practical way to duplicate matter."
+      ],
+      "criticisms": [
+        "Its force depends on set-theoretic assumptions, especially choice, and on accepting nonmeasurable sets."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-berry-paradox",
+      "name": "Berry paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The phrase “the smallest positive integer not definable in fewer than twenty words” seems to define the very number it says cannot be so defined.",
+      "body": "A short phrase appears to pick out a positive integer that, by the phrase itself, cannot be described in fewer than a specified number of words. The apparent contradiction relies on treating ordinary-language descriptions as a precise, unrestricted definition system, while the phrase’s word count and reference depend on context and encoding. Formal versions expose limits on definability and arithmetic truth. The paradox is not resolved by simply counting words in the English phrase.",
+      "origin": "The puzzle was reported by Bertrand Russell and attributed to G. G. Berry, a librarian at the Bodleian Library.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "“The least number not nameable in under twelve words” seems itself to name a number in fewer than twelve words.",
+          "note": "Natural-language naming is not a fully formal notion of definability."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not show that arithmetic contains an unnameable number by this informal word-count argument alone."
+      ],
+      "criticisms": [
+        "A precise language, coding scheme, and definition of length are needed before the argument can be formalized."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-bertrand-box-paradox",
+      "name": "Bertrand’s box paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "After drawing a gold coin from a randomly selected two-coin box, the probability that the other coin is gold is two thirds, not one half.",
+      "body": "There are three equally likely gold-coin outcomes: either of the two gold coins in the gold-gold box, or the gold coin in the gold-silver box. Observing a gold coin therefore leaves two of the three outcomes in the gold-gold box, making the other coin gold with probability two thirds. Treating the two boxes as equally likely after the observation overlooks that one box offers two ways to observe gold. The answer depends on specifying how the observed coin is selected.",
+      "origin": "Joseph Bertrand discussed this and related selection puzzles in nineteenth-century probability texts.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A box is chosen uniformly from a gold-gold and a gold-silver box; one coin is drawn and found gold.",
+          "note": "Conditioning on a gold observation weights the gold-gold box more heavily because it has two gold coins."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a contradiction that the prior box odds were one half and the posterior odds change."
+      ],
+      "criticisms": [
+        "A different protocol, such as choosing a particular coin position first, may produce a different conditional probability."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-bertrand-chord-paradox",
+      "name": "Bertrand’s chord paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Different reasonable procedures for choosing a random chord in a circle give different probabilities that the chord is longer than an inscribed equilateral triangle’s side.",
+      "body": "A circle is given and a chord is selected “at random.” Choosing two random endpoints gives one answer; choosing a random radius and a random point on it as the chord midpoint gives another; choosing a random distance from the center gives a third. Each procedure can be symmetric in a plausible way, but they define different probability distributions. The lesson is that “uniform random chord” is incomplete until the sampling procedure or invariance principle is specified.",
+      "origin": "Joseph Bertrand presented the puzzle in Calcul des probabilités (1889).",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A geometric probability problem asks whether a randomly chosen chord exceeds a fixed length, but the answer changes with how the chord is sampled.",
+          "note": "The ambiguity lies in the randomization rule, not in Euclidean geometry."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not show probability theory yields contradictory answers for one fully specified experiment."
+      ],
+      "criticisms": [
+        "Choosing a preferred notion of natural symmetry does not automatically settle which physical sampling process is intended."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-birthday-paradox",
+      "name": "Birthday paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "In a group of only 23 people, the chance that some pair shares a birthday exceeds one half under the usual simplified model.",
+      "body": "The question is whether two people in a group share a birthday, not whether someone matches a chosen person. There are 253 possible pairs among 23 people, so many opportunities for a match accumulate quickly. Assuming 365 equally likely birthdays and ignoring leap days, the probability of no match is 365×364×…×343 divided by 365^23, about 0.493. The result is surprising by intuition, not logically paradoxical.",
+      "origin": "The calculation is a standard result of elementary probability; the label “paradox” reflects the mismatch with everyday intuition.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A class of 23 students has a better-than-even chance of containing a shared birthday.",
+          "note": "The many pairs matter; this is not a 50% chance for each individual to match a fixed birthday."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not predict that every small group will contain a match."
+      ],
+      "criticisms": [
+        "Real birthdays are not perfectly uniform, and the result depends on the group size and match criterion."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-braess-paradox",
+      "name": "Braess’s paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Adding a road to a congested network can make every traveler’s route slower when travelers choose routes selfishly.",
+      "body": "In a network where travel time rises with traffic, a new shortcut may attract drivers who each choose the route that looks best individually. Their choices can shift traffic into a pattern with a worse equilibrium for everyone. Removing the shortcut can improve the equilibrium. The result concerns equilibrium behavior under a model, not a claim that road construction always worsens traffic.",
+      "origin": "Dietrich Braess published the network paradox in 1968.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A newly opened connector lets commuters choose a route that seems faster, but their combined choices increase everyone’s travel time.",
+          "note": "The individually attractive route changes the traffic equilibrium."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not show that building roads is generally harmful."
+      ],
+      "criticisms": [
+        "Outcome depends on the network, travel-time functions, and whether travelers reach the modeled equilibrium."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-burali-forti-paradox",
+      "name": "Burali-Forti paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The collection of all ordinals cannot itself be an ordinal, because its order type would have to be larger than every ordinal.",
+      "body": "Ordinals are well-ordered types arranged in a hierarchy. If all ordinals formed one set, they would have an order type that is itself an ordinal; that ordinal would have to occur in the collection and be greater than every member, including itself. The contradiction indicates that the ordinals form a proper class rather than a set in standard foundations.",
+      "origin": "Cesare Burali-Forti published the paradox in 1897, before Russell’s paradox.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "Treating all ordinal numbers as one set would yield an ordinal greater than every ordinal, including itself.",
+          "note": "The contradiction arises from assuming the totality is a set."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a proof that ordinal arithmetic is inconsistent."
+      ],
+      "criticisms": [
+        "Axiomatic set theories restrict set formation and permit proper classes to express the unbounded totality."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-cantor-paradox",
+      "name": "Cantor’s paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Assuming a set of all sets leads to a contradiction because its power set must be larger than itself.",
+      "body": "Cantor’s theorem says that for any set S, the power set of S has strictly greater cardinality than S. If there were a set containing every set, its power set would be a collection of sets and thus would have to be included within that universal set, producing an impossible size comparison. Standard set theories avoid treating all sets as one set; the unrestricted totality is a proper class or otherwise disallowed.",
+      "origin": "Georg Cantor discovered the cardinality theorem in the nineteenth century; Bertrand Russell later related the issue to foundational paradoxes.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A supposed set containing every set would have to be at least as large as its own power set, which Cantor’s theorem forbids.",
+          "note": "The problem is assuming that the totality of all sets is itself a set."
+        }
+      ],
+      "commonMisreadings": [
+        "It is distinct from Russell’s self-membership construction even though both challenge unrestricted set formation."
+      ],
+      "criticisms": [
+        "Different foundations represent the totality of sets differently, but do not treat it as an ordinary set."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-catch-22-paradox",
+      "name": "Catch-22 paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A rule makes an exception depend on a condition that the person can meet only by showing they do not need the exception.",
+      "body": "In Joseph Heller’s novel, a bomber pilot may be grounded for insanity, but requesting to be grounded is treated as evidence of rational concern for safety. The rule blocks escape by making the application itself disqualifying. The phrase now describes self-sealing institutional rules, but fictional usage should be distinguished from a formal logical paradox.",
+      "origin": "Joseph Heller coined the expression in his 1961 novel Catch-22.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A person can receive an exemption only by applying, but applying is treated as proof that they do not qualify.",
+          "note": "The eligibility rule defeats its own route of appeal."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not necessarily a contradiction in formal logic; it may be an unfair or circular policy."
+      ],
+      "criticisms": [
+        "Real procedures can be analyzed by specifying criteria and whether requests provide relevant evidence."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-coastline-paradox",
+      "name": "Coastline paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Measured coastline length grows as the measuring ruler becomes smaller, so a coastline may lack one scale-independent length.",
+      "body": "A coarse map misses small bays and bends; using a shorter measuring segment traces more of them and produces a longer estimate. For ideal fractal-like coastlines, measured length can increase without approaching a finite limit as scale shrinks. Real coastlines have physical and observational limits, and their measured length depends on resolution. The puzzle concerns scale-dependent measurement, not a coastline literally having every possible length.",
+      "origin": "Lewis Fry Richardson documented scale-dependent boundary measurements; Benoît Mandelbrot later connected the effect with fractal geometry.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "Measuring a coastline with one-kilometer segments gives a shorter result than tracing it with one-meter segments.",
+          "note": "The finer ruler captures bends omitted at coarser resolution."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not mean a mapmaker can choose any length arbitrarily."
+      ],
+      "criticisms": [
+        "A measurement protocol and scale are required; physical coastlines do not remain fractal at unlimited resolution."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "paradox-condorcet-paradox",
+      "name": "Condorcet’s voting paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A majority can prefer A to B, B to C, and C to A even when every voter’s preferences are individually consistent.",
+      "body": "With three options and suitable rankings, pairwise majority comparisons can cycle. Each voter may have a transitive ranking, yet the collective relation is not transitive because different coalitions form each majority. There is no single majority winner under pairwise comparison. The result illustrates that aggregating preferences can produce collective cycles; it does not mean voters are individually confused.",
+      "origin": "Marquis de Condorcet analyzed majority cycles in the eighteenth century.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "Three groups rank three candidates differently, producing a majority for A over B, B over C, and C over A.",
+          "note": "The winning coalition changes across pairwise votes."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a violation of transitivity by any one voter."
+      ],
+      "criticisms": [
+        "Agenda order and the voting rule can determine which option prevails; alternative social-choice procedures have tradeoffs."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-crocodile-dilemma",
+      "name": "Crocodile dilemma",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A crocodile’s promise to return a child if the parent predicts correctly creates a puzzle when the parent predicts refusal.",
+      "body": "A crocodile takes a child and promises to return the child if the parent correctly predicts what it will do. The parent predicts that the crocodile will not return the child. If it refuses, the prediction was correct and the promise requires return; if it returns the child, the prediction was false and the stated condition appears unmet. The dilemma exposes ambiguity about the scope and enforcement of the promise rather than a physical impossibility.",
+      "origin": "Ancient sources associate the puzzle with the sophistic tradition; it is also called the crocodile argument.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A parent says “You will not return my child,” and the captor’s conditional promise appears to require opposite actions under either choice.",
+          "note": "The promise and prediction form a self-referential conditional trap."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not simply a choice between two bad outcomes; each outcome changes whether the promise applies."
+      ],
+      "criticisms": [
+        "Different readings of “if you predict correctly” and of the promise’s authority alter the apparent contradiction."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-curry-paradox",
+      "name": "Curry’s paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A self-referential conditional can appear to prove any arbitrary conclusion using seemingly harmless rules of implication.",
+      "body": "Let a sentence C say “if C is true, then an arbitrary proposition P is true.” In systems with unrestricted self-reference, contraction, and conditional detachment, reasoning from C can derive P without assuming P independently. Unlike the liar, the construction need not explicitly assert its own falsity. Responses restrict truth rules, implication, or self-reference, or adopt nonclassical logics; the result diagnoses a combination of principles, not a proof that every proposition is true.",
+      "origin": "Haskell B. Curry drew attention to the paradox in the mid-twentieth century; related formulations are called paradoxes of implication.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A self-referential sentence that conditionally asserts an arbitrary claim seems to yield that claim by detachment.",
+          "note": "The derivation depends on formal rules that may be too strong together."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not merely a strange sentence like the liar, because no negation is needed."
+      ],
+      "criticisms": [
+        "Different formal systems block the derivation at different principles, and no single repair is compulsory."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-dirty-faces-puzzle",
+      "name": "Dirty faces puzzle",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A group of people who can see others’ marked faces may each learn whether their own face is marked through a sequence of public announcements.",
+      "body": "Several children have mud on their foreheads and can see everyone else but themselves. A teacher says at least one face is dirty and repeatedly asks who knows their own status. If nobody volunteers after each round, each child updates what the others could infer; eventually the timing of announcements can reveal that all faces are dirty. The puzzle demonstrates common knowledge and iterated reasoning, not a contradiction.",
+      "origin": "The puzzle is widely used to illustrate common knowledge in epistemic logic and game theory.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "Three children see two muddy faces; after the teacher announces that at least one is muddy, silence over successive rounds lets each infer their own status.",
+          "note": "Public announcement makes the premise common knowledge, enabling higher-order deductions."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not solved by simply looking at the other children, whom each already sees."
+      ],
+      "criticisms": [
+        "The inference depends on shared rationality, truthful announcements, and everyone hearing each round."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-dalembert-drag",
+      "name": "D’Alembert’s paradox",
+      "aliases": [
+        "D’Alembert paradox",
+        "Hydrodynamic paradox"
+      ],
+      "symbolName": null,
+      "summary": "Ideal fluid equations predict zero drag on a body moving steadily through a fluid, unlike ordinary experience of resistance.",
+      "body": "For an inviscid, incompressible fluid in steady potential flow, the pressure distribution around a body yields zero net drag. Real bodies moving through air or water plainly experience resistance. The result exposes the limits of an idealization that omits viscosity and the boundary layers and wake separation that viscosity helps produce. It is a discrepancy between a model’s assumptions and observed flow, not a contradiction within the equations.",
+      "origin": "Jean le Rond d’Alembert identified the zero-resistance result in the eighteenth century; it became a central problem in the development of fluid mechanics.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "An ideal calculation predicts no drag on a cylinder in steady incompressible flow, while a real cylinder experiences substantial force.",
+          "note": "The ideal model omits viscous effects important to real flow."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not say real fluids exert no drag; the zero result follows from restrictive ideal-fluid assumptions."
+      ],
+      "criticisms": [
+        "Viscosity explains why the ideal prediction fails for ordinary flows, though a full quantitative account can require difficult boundary-layer and turbulence analysis."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-ellsberg-paradox",
+      "name": "Ellsberg paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "People prefer bets with known probabilities over bets with unknown probabilities, challenging subjective expected-utility models.",
+      "body": "An urn contains red and black balls in an unknown proportion, while a second urn has a known equal split. Many choose to bet on a color from the known urn, then also choose a complementary bet that reveals aversion to ambiguity. Such preferences resist representation by a single coherent subjective probability under standard expected-utility assumptions. Ambiguity aversion may be a rational concern about model uncertainty, but it challenges the theory’s axioms.",
+      "origin": "Daniel Ellsberg described the puzzle in 1961.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A decision maker favors a known 50–50 urn over an urn whose red-black proportions are undisclosed.",
+          "note": "The uncertainty concerns the probability model itself, not merely the outcome."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not show that unknown odds are always worse for every decision maker."
+      ],
+      "criticisms": [
+        "Alternative models of ambiguity can represent these choices by relaxing standard assumptions."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-friendship-paradox",
+      "name": "Friendship paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "On average, a person’s friends have more friends than that person does.",
+      "body": "In a social network, highly connected people are more likely to appear in someone’s friend list than people with few connections. Averaging over friends therefore over-samples high-degree nodes, so the average friend degree can exceed the average degree of the population. This is a structural sampling effect rather than a claim that every person has less popular friends.",
+      "origin": "Scott L. Feld introduced the result in 1991.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A person with two friends may find that those friends have, on average, more than two friends each.",
+          "note": "Popular nodes are counted repeatedly because many people are connected to them."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not mean each individual’s friends all have more friends than the individual."
+      ],
+      "criticisms": [
+        "Real networks may be directed, incomplete, or clustered, so the exact comparison depends on the network and sampling method."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-gabriel-horn-paradox",
+      "name": "Gabriel’s horn paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A familiar infinite solid has finite volume but infinite surface area.",
+      "body": "Rotate the curve y=1/x for x≥1 around the x-axis. The resulting horn has finite volume because the integral of πy² converges, but infinite surface area because the corresponding surface integral diverges. It seems possible to fill the horn with a finite amount of paint while needing an infinite amount to coat its interior boundary. The contrast is mathematically consistent, though physical paint thickness and material assumptions invalidate literal application at arbitrarily small scales.",
+      "origin": "Evangelista Torricelli described the solid in the seventeenth century; the name “Gabriel’s horn” is later.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A mathematical horn can contain a finite volume of paint while its idealized surface area is infinite.",
+          "note": "Volume and area depend on different integrals and need not converge together."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a practical engineering object with infinite measurable material."
+      ],
+      "criticisms": [
+        "At sufficiently small scales, the continuum model and assumptions about paint cease to describe physical matter."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-gibbs-paradox",
+      "name": "Gibbs paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Classical gas calculations predict an entropy change when identical gases mix, although removing a partition between indistinguishable gases should change nothing observable.",
+      "body": "If gas particles are counted as individually distinguishable, statistical mechanics assigns a mixing entropy even when the same gas is placed on both sides of a partition. The predicted change conflicts with the absence of a physical difference before and after mixing. Treating identical particles as indistinguishable, or revising the state counting, removes the spurious contribution. The issue connects thermodynamic entropy with microscopic description.",
+      "origin": "Josiah Willard Gibbs discussed the mixing problem in his 1875 work on heterogeneous substances.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "Two chambers contain the same ideal gas; removing the wall should not yield the same entropy increase predicted for mixing different gases.",
+          "note": "The calculation overcounts distinctions that cannot be physically observed."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a claim that entropy itself is contradictory."
+      ],
+      "criticisms": [
+        "The resolution depends on the statistical-mechanical treatment of identical particles and the framework’s assumptions."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "grandfather-paradox",
+      "name": "Grandfather paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A time-travel puzzle: changing an event that caused the traveler to exist could make the traveler's own trip impossible.",
+      "body": "The grandfather paradox asks whether a traveler could go back and prevent their own parent from being born. If the traveler succeeds, they never exist to make the trip; if they do not exist, the past remains unchanged. The contradiction appears when backward travel, a single fixed history, and the ability to alter that history are all assumed together.\n\nProposals include histories that enforce consistency, branching timelines, or restrictions on time travel, but the puzzle alone does not establish which model is true. It is a test of the assumptions used in a story or theory, not evidence that time travel is physically possible. The essential feature is self-undermining causation, not merely an encounter with an ancestor.",
+      "origin": "The name is associated with popular discussions of time travel; variants appear in science fiction and philosophical treatments of causal consistency.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A traveler tries to stop their grandparent meeting the other grandparent, which would prevent the traveler's parent and then the traveler from being born.",
+          "note": "The intended intervention removes the condition for the intervention."
+        },
+        {
+          "text": "A traveler destroys the only record that motivated their journey, then asks whether the mission would still have been undertaken.",
+          "note": "A causal loop can undermine the reason for the trip even without family ancestry."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not simply a story involving a traveler meeting an ancestor; the paradox requires an action that would prevent the traveler's own journey.",
+        "It does not prove time travel impossible; proposed models can alter one of the assumptions."
+      ],
+      "criticisms": [
+        "The puzzle depends on a simplified model of backward causation and does not by itself establish that such travel is physically possible."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "paradox-grelling-nelson-paradox",
+      "name": "Grelling–Nelson paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The adjective “heterological” seems to be heterological exactly when it is not.",
+      "body": "An adjective is called autological if it applies to itself, as “English” does in English, and heterological if it does not, as “long” may not. Ask whether “heterological” is heterological: if it is, it does not apply to itself; if it is not, then it does apply to itself. The puzzle turns on a semantic classification that may be ill-defined or self-applying. It is related to, but structurally distinct from, the liar and set-theoretic paradoxes.",
+      "origin": "Kurt Grelling and Leonard Nelson published the puzzle in 1908.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "The word “polysyllabic” is autological, while “short” is often treated as heterological; applying the latter category to its own name creates trouble.",
+          "note": "The classification’s own membership is the disputed case."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a contradiction about all adjectives, only a problem for the proposed self-applicable classification."
+      ],
+      "criticisms": [
+        "Ordinary adjectives can be context-sensitive, and a restricted formal language can prevent the problematic predicate from applying to itself."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "heap-paradox",
+      "name": "Heap paradox",
+      "aliases": [
+        "Sorites paradox",
+        "Paradox of the heap"
+      ],
+      "symbolName": null,
+      "summary": "A sorites puzzle asks how many tiny, individually harmless removals can turn a heap into something that is not a heap.",
+      "body": "Start with a million grains that clearly form a heap. Removing one grain seems not to change that status; repeating the same reasoning appears to conclude that no number of removals can turn the heap into a non-heap, even when none remain. The tension comes from combining a vague word with a premise that no single grain makes a decisive difference.\n\nResponses include drawing a sharp boundary, treating borderline cases as genuinely vague, or revising the logic used for vague predicates. None is a universally accepted solution. The puzzle is about how language and reasoning handle gradual change; it is not a dispute about the physical arrangement of grains.",
+      "origin": "Ancient Greek sorites arguments are associated with Eubulides of Miletus; “sorites” comes from the Greek word for heap.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "If a person with a full head of hair remains “not bald” after losing one hair, repeating the step seems to imply that no amount of hair loss makes them bald.",
+          "note": "Each small change seems harmless while the endpoint is clear."
+        },
+        {
+          "text": "If adding one grain cannot turn a non-heap into a heap, repeated additions appear unable to create a heap from a single grain.",
+          "note": "The same vagueness appears in the reverse direction."
+        }
+      ],
+      "commonMisreadings": [
+        "The paradox is about vague predicates and inference, not uncertainty about the exact weight or shape of a real pile.",
+        "A proposed threshold may be useful for a practical task without settling what the word means in every context."
+      ],
+      "criticisms": [
+        "Some accounts deny that every adjacent pair of cases must share the same truth value; others challenge classical logic or the assumption of a sharp boundary."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-hilbert-hotel-paradox",
+      "name": "Hilbert’s hotel paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A fully occupied infinite hotel can accommodate additional guests by moving current guests to different numbered rooms.",
+      "body": "Suppose rooms are numbered by the positive integers and all are occupied. To admit one guest, move the guest in room n to room n+1; to admit countably many new guests, move each current guest from n to 2n and use odd-numbered rooms. The operations exploit a bijection between an infinite set and a proper subset. This is counterintuitive relative to finite hotels but consistent with cardinal arithmetic.",
+      "origin": "David Hilbert used the hotel illustration in a 1924 lecture on the infinite; the analogy was popularized by George Gamow.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "An occupied room for every positive integer still leaves enough room assignments for infinitely many new guests after rearrangement.",
+          "note": "The hotel is an analogy for countable infinity, not a literal building."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not imply a finite hotel can create space by renumbering."
+      ],
+      "criticisms": [
+        "The result depends on an actually infinite set of rooms and may not transfer to every notion of infinity."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-inspection-paradox",
+      "name": "Inspection paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "An observer who arrives at a random time tends to encounter longer-than-average intervals.",
+      "body": "If buses arrive at unequal intervals, a passenger arriving at a random time is more likely to land inside a long gap than a short one. The observed waiting interval is length-biased because long intervals occupy more clock time. This explains why the average wait can exceed half the average gap. It is a sampling effect, not a failure of the schedule’s arithmetic.",
+      "origin": "The name is used in probability and renewal theory; related length-bias results appear in classical sampling theory.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A passenger who arrives randomly may wait longer than half the average time between buses if service gaps vary substantially.",
+          "note": "Long gaps offer more moments at which a random observer can arrive."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not apply unchanged to perfectly regular arrivals or to a passenger who knows the timetable and times arrival strategically."
+      ],
+      "criticisms": [
+        "The result depends on the arrival process and on whether the observer samples time or events."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-jevons-paradox",
+      "name": "Jevons paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Making a resource more efficient can increase total use when lower costs stimulate enough additional demand.",
+      "body": "A more efficient steam engine uses less coal per unit of work, which can make steam power cheaper and expand its use. If total demand grows faster than per-unit savings, aggregate coal consumption rises. Efficiency alone therefore does not guarantee lower resource use. The rebound depends on prices, demand elasticity, scale, and policy; it is not inevitable for every efficiency improvement.",
+      "origin": "William Stanley Jevons discussed the effect in The Coal Question (1865).",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "Fuel efficiency lowers the cost of travel, encouraging enough additional trips that total fuel use can rise.",
+          "note": "Per-unit savings can be outweighed by increased activity."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not claim that efficiency always increases total consumption."
+      ],
+      "criticisms": [
+        "The magnitude of rebound is an empirical question and varies across technologies and markets."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "liar-paradox",
+      "name": "Liar paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A self-referential sentence such as “This sentence is false” appears to be true exactly when it is false.",
+      "body": "If the sentence “This sentence is false” is true, then what it says holds and it is false. If it is false, then it is not the case that it is false, which seems to make it true. Under ordinary assumptions about truth, negation, and self-reference, either assignment leads to its opposite.\n\nSolutions revise at least one assumption: some deny that the sentence has a truth value, some use inconsistent or nonclassical logics, and others restrict self-reference or truth predicates. These are competing theories, not a single settled fix. The puzzle is not solved by saying the sentence is a lie, since calling it false restarts the same reasoning.",
+      "origin": "Ancient forms are associated with Eubulides; modern versions are central to formal semantics and theories of truth.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "“Everything I say is false” is spoken by someone who presents it as a factual claim; if it is true, it undermines itself, and if false, it may be true of at least one statement.",
+          "note": "Related formulations vary in how direct the self-reference is."
+        },
+        {
+          "text": "A sign reads “The sentence on the other side of this sign is true,” while the other side reads “The sentence on the other side of this sign is false.”",
+          "note": "A pair of mutually referring statements can produce a similar truth-value loop."
+        }
+      ],
+      "commonMisreadings": [
+        "The puzzle is not merely that someone tells a lie; the self-reference creates the truth-value conflict.",
+        "Calling the sentence false does not resolve the problem under the same assumptions."
+      ],
+      "criticisms": [
+        "Different liar formulations have different logical structures, so a solution to one may not resolve every semantic paradox."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-loschmidt-paradox",
+      "name": "Loschmidt’s reversibility paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Reversible microscopic laws seem unable to explain why macroscopic systems reliably move toward higher entropy.",
+      "body": "If particle dynamics are time-reversal invariant, reversing every particle’s velocity after a gas spreads would make it reconverge. Yet the second law says entropy tends to increase. Loschmidt’s challenge shows that microscopic reversibility alone does not entail a one-way macroscopic law without assumptions about initial conditions, coarse-graining, typicality, or statistical description. It is a problem about explanation and boundary conditions, not a direct contradiction between mechanics and thermodynamics.",
+      "origin": "Josef Loschmidt raised the reversibility objection in 1876 in response to Boltzmann’s kinetic account of entropy.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A gas that spontaneously spreads could, under exactly reversed velocities, return to its compact initial state.",
+          "note": "The reverse trajectory is allowed by the microscopic equations but extraordinarily special."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not show that the second law is false for ordinary macroscopic preparations."
+      ],
+      "criticisms": [
+        "Statistical mechanics explains typical behavior conditional on a low-entropy past; the status of that condition remains philosophically significant."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "epistemic-lottery-paradox",
+      "name": "Lottery paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Each ticket in a large fair lottery is very likely to lose, yet one ticket must win, challenging how probability supports belief.",
+      "body": "Suppose a fair lottery has a million tickets. For any particular ticket, it is reasonable to expect that it will lose, because its chance of winning is tiny. Applying that judgment to every ticket seems to imply that all tickets lose, contradicting the certainty that exactly one wins. The tension arises when high-probability beliefs are treated as safe to assert individually and then combined.\n\nResponses question whether rational belief is closed under conjunction, whether there is a sharp probability threshold for belief, or whether one should distinguish belief from acceptance for practical purposes. The puzzle does not show that probability theory is inconsistent; it exposes a challenge in connecting probabilistic confidence to categorical belief. Different proposals remain debated.",
+      "origin": "The contemporary formulation is commonly associated with Henry Kyburg's work on rational belief and probability.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A person says of every ticket in a million-ticket draw, “That ticket will lose,” while also accepting that the draw has one winner.",
+          "note": "Each individual claim is highly probable, but their conjunction is impossible."
+        },
+        {
+          "text": "A forecaster assigns each candidate less than a 1% chance to win a 200-candidate election, yet concludes that every candidate will lose.",
+          "note": "The collective conclusion conflicts with the assumption that one candidate wins."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a contradiction in the lottery's outcome; exactly one ticket can win.",
+        "The issue is how individually high-confidence claims combine, not whether each ticket has a small chance."
+      ],
+      "criticisms": [
+        "The paradox depends on a theory linking rational belief to probability and on assumptions about conjunction; those assumptions are disputed."
+      ],
+      "lookalikes": [],
+      "related": [
+        "credence",
+        "belief",
+        "epistemic-closure",
+        "preface-paradox"
+      ],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "meno-s-paradox",
+      "name": "Meno's paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Meno asks how inquiry can find knowledge if one cannot search for what one already knows or recognize what one does not know.",
+      "body": "In Plato's dialogue, Meno argues that inquiry seems blocked in both directions: if you know the answer, searching is unnecessary; if you do not know it, you may not know what to look for or recognize it when found. The puzzle challenges a strict division between complete knowledge and total ignorance.\n\nPlato's dialogue offers recollection as a response, while other approaches appeal to partial knowledge, hypotheses, recognition, or learning through evidence. These are philosophical proposals rather than settled accounts of learning. Ordinary inquiry often begins with incomplete descriptions and improves them, which shows that the dilemma's all-or-nothing assumptions need scrutiny.",
+      "origin": "Appears in Plato's Meno, where Socrates responds through the recollection theory and a questioning demonstration.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A student searching for a particular plant cannot identify it if they have never encountered it, but if they already know exactly what it looks like, the search seems unnecessary.",
+          "note": "The puzzle asks how a search target can be unknown yet recognizable."
+        },
+        {
+          "text": "A researcher tests possible causes of a disease without knowing the answer in advance, using observations to narrow the hypothesis space.",
+          "note": "Partial knowledge can guide inquiry without already containing the solution."
+        }
+      ],
+      "commonMisreadings": [
+        "The paradox is not that people never learn; it questions how search and recognition are possible under a strict knowledge/ignorance dichotomy.",
+        "Plato's recollection account is one proposed answer, not an uncontested modern explanation."
+      ],
+      "criticisms": [
+        "The dilemma may assume that inquiry requires either complete prior knowledge or no relevant knowledge at all."
+      ],
+      "lookalikes": [],
+      "related": [
+        "socratic-questioning",
+        "epistemology",
+        "plato",
+        "socrates"
+      ],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-monty-hall-problem",
+      "name": "Monty Hall problem",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "After a contestant chooses one of three doors and a host reveals a losing door, switching wins with probability two thirds if the host follows the usual informed protocol.",
+      "body": "The prize is placed uniformly, the contestant picks a door, and a host who knows the location opens an unchosen losing door and offers a switch. The initial choice was correct only one third of the time. When it was wrong, the host’s constrained reveal leaves the prize behind the other unopened door, so switching wins. The result depends on the host always revealing a losing door and always offering the switch; unconstrained or informed-against-the-rules hosts change the probabilities.",
+      "origin": "Popularized through Marilyn vos Savant’s 1990 column; the underlying conditional-probability problem predates the column.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "With three doors, a player who switches after the host’s informed reveal wins whenever the first choice was wrong.",
+          "note": "The host’s behavior carries information because it is constrained by knowing where the prize is."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a general rule that switching is always better after any reveal."
+      ],
+      "criticisms": [
+        "If the host selects doors differently or offers a switch selectively, the standard two-thirds calculation no longer follows."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "moore-s-paradox",
+      "name": "Moore's paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A speaker's assertion can be logically consistent in content yet pragmatically strange when it says a fact is true and that the speaker does not believe it.",
+      "body": "Consider “It is raining, but I do not believe it is raining.” The two clauses can both be true: rain may be falling while the speaker is mistaken about it. Yet asserting the sentence sincerely is strange because assertion normally presents the first claim as something the speaker accepts. The tension is pragmatic, between what is said and what saying it conveys about the speaker's belief.\n\nAccounts explain the oddity through norms of assertion, self-knowledge, or the role of belief in speech. The sentence is not a formal contradiction like “p and not-p”; it can be true when uttered by someone who lacks the belief. The paradox concerns why such a true conjunction resists sincere assertion.",
+      "origin": "Named after G. E. Moore, who discussed the peculiarity of asserting a proposition conjoined with a denial of believing it.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "“The meeting has started, but I don't think it has started,” said by someone who is correct about the meeting time but unaware of their own correct statement.",
+          "note": "The content can be true while the assertion is pragmatically self-undermining."
+        },
+        {
+          "text": "“The lights are off, though I do not believe the lights are off,” said by a person reporting an observation they do not recognize as evidence.",
+          "note": "The apparent oddness comes from asserting a claim while disavowing belief in it."
+        }
+      ],
+      "commonMisreadings": [
+        "The statement is not necessarily logically contradictory; its clauses can both be true.",
+        "The paradox is about first-person assertion and belief, not about any sentence that mentions someone's belief."
+      ],
+      "criticisms": [
+        "Different theories explain the pragmatic infelicity differently; there is no single agreed analysis of all Moore-paradoxical cases."
+      ],
+      "lookalikes": [],
+      "related": [
+        "assertion",
+        "belief",
+        "g-e-moore"
+      ],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-moral-luck-paradox",
+      "name": "Moral luck",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "People often judge agents for outcomes and circumstances beyond their control, despite endorsing a principle that moral assessment should depend only on control.",
+      "body": "A careful driver may cause a death because a child unexpectedly runs into the road, while an equally careless driver may cause no harm because the road happens to be empty. Our judgments often differ even though the drivers’ choices and control were similar. The tension is between the control principle and ordinary assessments shaped by resultant, circumstantial, constitutive, or causal luck. Philosophers disagree whether to revise the principle or our judgments.",
+      "origin": "Bernard Williams and Thomas Nagel developed influential modern discussions in the 1970s.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "Two equally reckless drivers behave alike, but only one happens to injure a pedestrian; observers often judge that driver more harshly.",
+          "note": "The outcome changes while the agent’s control and choice remain similar."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not the claim that luck excuses every action or erases responsibility."
+      ],
+      "criticisms": [
+        "Some theories distinguish blameworthiness from harm, liability, or the duties created by an outcome."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-olbers-paradox",
+      "name": "Olbers’ paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "In an infinite, eternal, static universe uniformly filled with stars, every line of sight would end at a star, making the night sky bright.",
+      "body": "If the universe were spatially infinite, static, eternal, and uniformly populated by stars, the number of distant sources along each sightline would make the sky intensely bright. The dark night sky shows that at least some assumptions fail. Modern cosmology points to the universe’s finite age, expansion, stellar evolution, and finite observable horizon; interstellar dust alone cannot solve the issue because it would heat up.",
+      "origin": "Heinrich Wilhelm Olbers popularized the question in 1823, though earlier astronomers considered it.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A simple infinite static star field predicts a bright sky rather than the darkness observed at night.",
+          "note": "Light from distant stars has not had unlimited time to reach us, and expansion affects its energy."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not simply explained by saying distant stars are too faint; the increasing number of sources matters."
+      ],
+      "criticisms": [
+        "The classical argument idealizes the cosmos; modern resolution relies on cosmological structure and history."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "omnipotence-paradox",
+      "name": "Omnipotence paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The puzzle asks whether an all-powerful being can create a task, such as a stone, that it cannot accomplish.",
+      "body": "If an omnipotent being can create a stone too heavy for itself to lift, there appears to be something it cannot do. If it cannot create such a stone, that also appears to limit its power. The puzzle tests what “all-powerful” means and whether the proposed task is coherent.\n\nOne common response defines omnipotence as the ability to do anything logically possible, arguing that creating an object an omnipotent being cannot lift may be a contradictory specification. Other accounts revise the definition or accept limits on power. These are philosophical solutions, not empirical discoveries, and their adequacy depends on the concept of omnipotence being defended.",
+      "origin": "The problem appears in medieval and modern philosophy of religion, with discussions by Aquinas and many later philosophers.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A child asks whether a being with unlimited strength can make a box it cannot open.",
+          "note": "The challenge is whether unlimited ability can include creating its own limitation."
+        },
+        {
+          "text": "A ruler claims total authority but asks whether they can make a law that permanently removes their own authority.",
+          "note": "The case tests whether self-limiting power is coherent."
+        }
+      ],
+      "commonMisreadings": [
+        "The puzzle does not by itself disprove a deity or any particular religious doctrine.",
+        "A solution depends on how omnipotence and logically impossible tasks are defined."
+      ],
+      "criticisms": [
+        "Critics argue that the stone description may be incoherent rather than a genuine task; others say limiting omnipotence changes the original concept."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "paradox-of-analysis",
+      "name": "Paradox of analysis",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A correct analysis of a concept seems to state what it already means, yet if it adds knowledge it appears to say something different.",
+      "body": "A conceptual analysis aims to explain a concept in terms that are equivalent to it. If the analysis means exactly the same thing, it can seem trivial; if it means something different, it may not be correct. The puzzle concerns how an analysis can be both accurate and informative to someone who already understands the target concept.\n\nProposals distinguish meaning from cognitive significance, or treat analysis as a claim about concepts that can be informative even when extensionally equivalent. There is no single resolution that covers every kind of analysis. The puzzle is not that definitions are impossible; it is a challenge about what makes a successful definition explanatory rather than merely synonymous.",
+      "origin": "The problem is associated with twentieth-century analytic philosophy, especially discussions by C. H. Langford and later philosophers.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "An analyst proposes that a bachelor is an unmarried adult man: the definition seems correct, yet a competent English speaker may already know it.",
+          "note": "The analysis appears both equivalent to and uninformative about the concept."
+        },
+        {
+          "text": "A philosopher analyzes knowledge as justified true belief, but the definition is informative only if it captures exactly the cases meant by “knowledge.”",
+          "note": "Usefulness and correctness pull in opposite directions."
+        }
+      ],
+      "commonMisreadings": [
+        "The paradox does not show that ordinary definitions cannot teach new vocabulary or clarify usage.",
+        "The issue concerns informative conceptual analysis, not every explanation or dictionary entry."
+      ],
+      "criticisms": [
+        "Some reject the assumption that analysis must be a synonym; others question whether all concepts have precise analyses."
+      ],
+      "lookalikes": [],
+      "related": [
+        "conceptual-analysis",
+        "sense-and-reference",
+        "g-e-moore"
+      ],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-of-fiction",
+      "name": "Paradox of fiction",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Fictional characters are not real, yet stories about them can produce real emotions in audiences.",
+      "body": "The paradox of fiction combines three claims that seem difficult to hold together: people feel genuine emotions toward fictional characters, they know those characters do not exist, and genuine emotion normally requires believing its object exists. A reader can grieve for a fictional loss while knowing no actual person has died.\n\nResponses deny or revise one of the claims: emotions may be “quasi-emotions,” imagination may elicit feeling without belief, or the belief requirement may be too strong. These accounts remain debated. The puzzle is not that audiences confuse fiction with fact; many respond emotionally while fully aware that the story is invented.",
+      "origin": "A contemporary philosophical problem discussed by Colin Radford and others in the twentieth century.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A viewer feels fear during a suspenseful scene while knowing the threatened character and danger are fictional.",
+          "note": "The emotional response is real even though its represented object is not."
+        },
+        {
+          "text": "A reader grieves at the death of a character they know was created for the novel.",
+          "note": "The response seems directed at someone the reader believes does not exist."
+        }
+      ],
+      "commonMisreadings": [
+        "The paradox does not require audiences to mistake fiction for reality.",
+        "It concerns how emotion relates to belief and imagined objects, not whether the feeling itself is genuine."
+      ],
+      "criticisms": [
+        "Some philosophers reject the premise that emotion requires belief in the existence of its object; others distinguish felt emotion from action tendencies."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-of-hedonism",
+      "name": "Paradox of hedonism",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Directly making pleasure the sole target can undermine the activities and relationships from which pleasure often arises.",
+      "body": "The paradox of hedonism is the observation that people may be less happy when they pursue happiness as their only conscious goal. Monitoring every experience for pleasure can interfere with absorbed activity, relationships, or meaningful commitments that produce satisfaction indirectly. The paradox does not claim that pleasure is bad or that deliberate efforts to improve well-being never work.\n\nA common response is to pursue worthwhile activities and relationships rather than continually checking whether they feel pleasurable. The idea is a practical and philosophical tension, not a formal contradiction or a universal psychological law. What works depends on the person and what “pleasure” or “happiness” means in the argument.",
+      "origin": "A classic formulation appears in Henry Sidgwick's The Methods of Ethics, with related discussions in later philosophy and psychology.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "Someone repeatedly checks whether a social gathering is fun and becomes too self-conscious to engage with friends.",
+          "note": "Monitoring pleasure displaces attention from the activity that might produce it."
+        },
+        {
+          "text": "A runner abandons training whenever it is not immediately enjoyable, despite valuing the health and satisfaction that emerge over time.",
+          "note": "Short-term pleasure seeking can undermine a broader source of well-being."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not say that pursuing happiness is always futile; it warns that direct monitoring can be counterproductive.",
+        "The claim is not that every meaningful activity must be unpleasant or instrumental."
+      ],
+      "criticisms": [
+        "The paradox depends on a distinction between direct and indirect pursuit and is not a universal empirical law."
+      ],
+      "lookalikes": [],
+      "related": [
+        "john-stuart-mill"
+      ],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-of-tolerance",
+      "name": "Paradox of tolerance",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Unlimited tolerance may allow movements that reject tolerance to gain power and suppress the conditions that protect open disagreement.",
+      "body": "The paradox of tolerance asks whether a tolerant society must tolerate movements that would use coercion to eliminate tolerance itself. If every view is allowed unrestricted power, an intolerant movement might suppress others and end pluralism. The tension is between openness and preserving the conditions that make openness possible.\n\nKarl Popper argued that a society may need to resist movements that reject rational discussion and seek coercive domination, while also warning against suppressing views merely because they are unpopular. The principle does not prescribe one settled legal threshold; societies debate when speech, organization, or action becomes a threat. It is not a proof that tolerance requires tolerating no dissent.",
+      "origin": "Associated with Karl Popper's The Open Society and Its Enemies (1945), especially the discussion of the limits of tolerance.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A democratic association allows a faction to campaign for abolishing elections and then considers whether the faction may use force to prevent future elections.",
+          "note": "The question is when tolerance enables the destruction of its own protections."
+        },
+        {
+          "text": "A university tolerates controversial arguments but bars a group from using threats to prevent others from speaking.",
+          "note": "The boundary distinguishes dissent from coercive suppression."
+        }
+      ],
+      "commonMisreadings": [
+        "The paradox is not a blanket argument for banning offensive or unpopular opinions.",
+        "Popper's discussion distinguishes criticism and argument from movements that answer reason with coercive force."
+      ],
+      "criticisms": [
+        "Critics dispute how to identify intolerant threats and warn that authorities can misuse the principle to suppress dissent."
+      ],
+      "lookalikes": [],
+      "related": [
+        "karl-popper"
+      ],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-of-tragedy",
+      "name": "Paradox of tragedy",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "People seek out tragic fiction that causes sadness, fear, or distress, even though they ordinarily avoid those feelings.",
+      "body": "Audiences voluntarily watch stories that elicit negative emotions and may value the experience. The puzzle is why an unpleasant response can contribute to an enjoyable or worthwhile encounter. Explanations appeal to mixed emotions, aesthetic appreciation, emotional regulation, empathy, or the pleasure of engaging safely with difficult material. These accounts need not apply to every viewer or every tragic work.",
+      "origin": "The topic has been discussed since ancient poetics; contemporary formulations appear in aesthetics as the paradox of tragedy.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A viewer chooses a heartbreaking film and later describes the experience as rewarding.",
+          "note": "The story can be painful in one respect and valuable or pleasurable in another."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not imply people enjoy real suffering or that all tragic art is enjoyable."
+      ],
+      "criticisms": [
+        "The proposed explanations may account for different audience responses and do not establish a single universal motive."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-parrondo-paradox",
+      "name": "Parrondo’s paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Two games that each lose on average can produce a winning result when alternated or randomly combined.",
+      "body": "In the standard examples, one game has an unfavorable steady drift, while another game’s outcome depends on the player’s capital modulo a number. Switching between them changes how often the player enters favorable states, and the combined process can have positive expected drift. There is no violation of probability: the mixture changes the state distribution and transition dynamics.",
+      "origin": "Juan M. R. Parrondo introduced the effect in the 1990s in discussions of flashing Brownian ratchets.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A player alternates between two carefully designed losing games and obtains a positive long-run gain under the combined strategy.",
+          "note": "The games alter the distribution of states on which later outcomes depend."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not imply that mixing any two losing strategies creates a winning one."
+      ],
+      "criticisms": [
+        "The result is sensitive to game parameters and to the rule for switching or randomizing."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "preface-paradox",
+      "name": "Preface paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "An author may have good reason to believe each claim in a book while also believing, based on fallibility, that at least one claim is mistaken.",
+      "body": "An author checks each statement and reasonably accepts it, yet knows that books of this size usually contain at least one error. The author therefore believes every individual claim and also believes the conjunction—“everything here is correct”—is false. If rational belief must be closed under conjunction, those attitudes appear inconsistent.\n\nPossible responses distinguish degrees of confidence, reject strict closure for belief, or treat the author's fallibility judgment as a probabilistic expectation rather than categorical belief. The puzzle concerns rational belief across many claims, not hypocrisy or carelessness. No response is universally accepted, and the tension becomes stronger as the number of individually credible statements grows.",
+      "origin": "Named for the preface in which an author acknowledges likely errors; the contemporary formulation is associated with David Makinson.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A scientist believes each result in a long report is correct after checking it, while adding a preface that some error almost certainly remains somewhere.",
+          "note": "Confidence in each claim coexists with doubt about the full set."
+        },
+        {
+          "text": "A historian trusts every individual citation in a book but expects that at least one source or transcription must contain a mistake.",
+          "note": "The conjunction is less credible than any single component."
+        }
+      ],
+      "commonMisreadings": [
+        "The author need not knowingly include a false claim; the point is that finite fallibility can make the whole set doubtful.",
+        "The puzzle is not resolved merely by lowering confidence in every claim unless one explains how the resulting beliefs combine."
+      ],
+      "criticisms": [
+        "The paradox relies on assumptions about categorical belief, rational closure, and the author's confidence that some error exists."
+      ],
+      "lookalikes": [],
+      "related": [
+        "fallibilism",
+        "belief",
+        "epistemic-lottery-paradox"
+      ],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "raven-paradox",
+      "name": "Raven paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "If “all ravens are black” is equivalent to “all nonblack things are not ravens,” then a nonblack non-raven seems to confirm the raven claim.",
+      "body": "The claim that every raven is black is logically equivalent to saying that every nonblack object is not a raven. A green apple fits the second description, so a simple rule that positive instances confirm universal claims seems to make it evidence that all ravens are black. Yet the apple appears irrelevant to ravens.\n\nResponses refine what counts as confirmation, account for background knowledge and sampling, or accept that the apple provides an extremely small amount of evidence. The paradox concerns confirmation theory, not the truth of the claim about ravens. It shows that logical equivalence alone may not capture how evidential relevance should be assessed.",
+      "origin": "Introduced by Carl Hempel in the mid-twentieth century as a problem for theories of confirmation.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A white shoe is a nonblack non-raven and therefore appears to support the claim that all ravens are black under the equivalence.",
+          "note": "The example makes the apparent irrelevance vivid."
+        },
+        {
+          "text": "A scientist surveys a large sample of household objects, finds no nonblack ravens, and asks whether the many nonblack non-ravens count as evidence.",
+          "note": "Sampling and background frequency affect the force of the instances."
+        }
+      ],
+      "commonMisreadings": [
+        "The paradox does not claim that a green apple proves all ravens are black.",
+        "The issue is whether a logically compatible instance provides confirmation and how much, not whether the apple is a raven."
+      ],
+      "criticisms": [
+        "Different theories of confirmation yield different answers; positive-instance confirmation is only one simplified rule."
+      ],
+      "lookalikes": [],
+      "related": [
+        "confirmation",
+        "induction-problem"
+      ],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-repugnant-conclusion",
+      "name": "Repugnant conclusion",
+      "aliases": [
+        "Parfit’s repugnant conclusion"
+      ],
+      "symbolName": null,
+      "summary": "A total-welfare principle can rank a vast population with lives barely worth living above a smaller population whose members live very well.",
+      "body": "Imagine population A, whose members enjoy very high well-being. A sequence of changes can lead to a much larger population Z in which every life is just worth living, while each step appears to improve or preserve total value. Total utilitarianism then ranks Z above A, a verdict many find deeply counterintuitive. The challenge is to formulate population ethics that avoids this conclusion without producing other unacceptable rankings. Philosophers disagree whether to revise aggregation, reject some comparison assumptions, or accept the result.",
+      "origin": "Derek Parfit formulated the conclusion in Reasons and Persons (1984); it became a central problem in population ethics.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A society of many billions with excellent lives is compared with an enormously larger society whose lives are positive but barely worth living.",
+          "note": "Maximizing total welfare can favor the second society despite its much lower quality of life for each person."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not the claim that people with barely worthwhile lives should be created; it is a troubling implication of certain population-ranking principles."
+      ],
+      "criticisms": [
+        "The conclusion depends on assumptions about how to aggregate welfare across different populations, and competing theories face their own counterintuitive results."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "ethics-and-value"
+      ]
+    },
+    {
+      "id": "paradox-richard-paradox",
+      "name": "Richard’s paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A description-based construction appears to produce a real number whose decimal expansion must both be included and excluded from a list of definable numbers.",
+      "body": "List all real numbers describable in a chosen language and construct a new decimal that differs from the nth listed number at its nth digit. The diagonal construction makes it unlike every listed number, yet its defining instruction seems to place it in the list of describable numbers. The tension arises because “describable” is being used both inside the language and from a metalinguistic standpoint. Formal hierarchy and language restrictions clarify the levels involved.",
+      "origin": "Jules Richard presented the paradox in 1905; it influenced discussions of semantic paradoxes and definability.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A diagonal decimal differs at one digit from every number in a purported list of all numbers describable in French.",
+          "note": "The list’s description system is confused with the language used to describe the diagonal result."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not Cantor’s theorem that reals are uncountable, though it uses a related diagonal idea."
+      ],
+      "criticisms": [
+        "Separating object language from metalanguage blocks the naive circular construction."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-ross-littlewood-paradox",
+      "name": "Ross–Littlewood paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A procedure inserts many balls into a vase and removes one each round, yet after infinitely many rounds the vase may be empty or full depending on the schedule.",
+      "body": "At round n, add a batch of balls and remove one designated ball. A common schedule adds ten new balls and removes the lowest-numbered ball each time: after any finite number of rounds balls remain, but every numbered ball is eventually removed, so the limiting set is empty. Changing which ball is removed can leave infinitely many balls. The apparent paradox comes from asking for a limit of changing contents without specifying what “the vase at infinity” means.",
+      "origin": "John E. Littlewood presented related puzzles; the formulation is discussed in modern treatments of infinity and supertasks.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "At each minute, ten numbered balls are added and the lowest-numbered present ball is removed; after infinitely many minutes, no numbered ball remains.",
+          "note": "Every finite stage contains balls, while every individual ball has a finite removal time."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not describe a physically executable infinite process."
+      ],
+      "criticisms": [
+        "Different insertion-removal schedules have different limits, and a set of surviving labels does not specify a physical terminal state."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "russell-s-paradox",
+      "name": "Russell's paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "The collection of all sets that do not contain themselves leads to contradiction when asked whether it contains itself.",
+      "body": "Define R as the set of all sets that are not members of themselves. If R is a member of itself, then by its definition it must not be; if it is not a member, then it qualifies for membership and must be. The contradiction shows that unrestricted set formation is unsafe.\n\nModern set theories avoid the contradiction by restricting which collections count as sets or by using alternative foundations. The paradox was a major challenge to early logic and mathematics, but it does not mean ordinary set theory is inconsistent. The exact resolution depends on the axioms used to build sets.",
+      "origin": "Discovered by Bertrand Russell around 1901 and communicated to Gottlob Frege, whose logicist system it challenged.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A librarian catalogs all catalogs that do not list themselves and asks whether this catalog lists itself.",
+          "note": "The self-membership condition reproduces the contradiction in an informal analogy."
+        },
+        {
+          "text": "A village barber shaves exactly those villagers who do not shave themselves; asking whether the barber shaves himself creates the related barber paradox.",
+          "note": "This analogy mirrors the self-application structure but is not itself a set-theoretic proof."
+        }
+      ],
+      "commonMisreadings": [
+        "The paradox is not a contradiction in every use of sets; it targets unrestricted comprehension.",
+        "The barber story is an analogy and depends on how the barber's rule is interpreted."
+      ],
+      "criticisms": [
+        "Different foundational systems handle the problematic collection differently; some treat it as a proper class rather than a set."
+      ],
+      "lookalikes": [],
+      "related": [
+        "bertrand-russell"
+      ],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-simpson-paradox",
+      "name": "Simpson’s paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A trend that appears in each of several groups can reverse when the groups are combined.",
+      "body": "Suppose treatment A has a higher success rate than treatment B among both mild and severe cases, but A is used disproportionately for severe cases. When all patients are combined, A can appear less successful because the groups have different baseline risks. Aggregation changes the comparison’s weighting. The reversal is not a mathematical inconsistency; deciding whether to stratify or aggregate requires a causal question and relevant background structure.",
+      "origin": "Edward H. Simpson described the statistical phenomenon in 1951; related reversals had been noted earlier.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A treatment performs better in both severity groups yet has a lower overall success rate because it is given to many more high-risk patients.",
+          "note": "Group composition changes the aggregate comparison."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not proof that subgroup analysis is always the right analysis."
+      ],
+      "criticisms": [
+        "The appropriate adjustment depends on causal structure; indiscriminate stratification can also mislead."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-skolem-paradox",
+      "name": "Skolem’s paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A countable model of set theory can contain an element it regards as an uncountable set.",
+      "body": "If a first-order theory has an infinite model, the downward Löwenheim–Skolem theorem can yield a countable model. Such a model may satisfy “the reals are uncountable,” because no bijection belonging to the model maps its natural numbers onto its reals. From outside, the model’s collection of reals is countable; internally, the needed external bijection is not among its sets. The apparent conflict distinguishes internal and external cardinality.",
+      "origin": "Thoralf Skolem discussed the result in 1922 while examining axiomatic set theory.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A countable model contains a set it judges uncountable because the model lacks the outside enumeration.",
+          "note": "“Countable” and “uncountable” are evaluated relative to different domains of functions."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not a contradiction in the model’s theorem: internal uncountability is a precise relation."
+      ],
+      "criticisms": [
+        "The puzzle depends on confusing the model’s membership with the external universe used to inspect it."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "paradox-st-petersburg-paradox",
+      "name": "St. Petersburg paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A coin-toss game has an infinite expected monetary payoff, yet people typically pay only a modest amount to play.",
+      "body": "A fair coin is tossed until heads appears; the payoff doubles with every preceding tail. The probability-weighted payoff is the same fixed amount at every stage, so the mathematical expected value diverges. A player’s willingness to pay remains finite, exposing a mismatch between expected money and actual choice. Bernoulli’s logarithmic utility proposal is an influential response, while finite resources, utility assumptions, and practical stopping rules also matter.",
+      "origin": "Daniel Bernoulli analyzed the puzzle in 1738; the name refers to an earlier presentation by his cousin Nicolas Bernoulli.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A player receives $2^n after n−1 tails and a head, but declines to pay an enormous sum for the game.",
+          "note": "Expected value of money need not equal the value a person assigns to money."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not imply that a real casino owes an infinite sum; the ideal game assumes unbounded resources and duration."
+      ],
+      "criticisms": [
+        "Utility theory explains finite willingness to pay only with additional assumptions about preferences and wealth."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "surprise-examination-paradox",
+      "name": "Surprise examination paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Backward reasoning seems to rule out every possible exam day, yet a test can still occur unexpectedly under an announcement of surprise.",
+      "body": "A teacher announces that an exam will occur next week and be a surprise. A student reasons that it cannot be Friday, because if no exam has occurred earlier, Friday would be predictable; then reasons backward that Thursday is also ruled out, and so on. The conclusion is that no exam can occur, but an exam on an earlier day may still surprise the student.\n\nThe reasoning depends on what “surprise” means, what the student can know, and whether the announcement remains common knowledge after the elimination argument. Proposed resolutions challenge the backward induction, the knowledge assumptions, or the announcement's precise meaning. There is no single interpretation-free solution; the paradox illustrates limits in reasoning about knowledge and future announcements.",
+      "origin": "A modern puzzle discussed by Michael Scriven and later in epistemic logic and philosophy of language.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "After the announcement, a student expects a Friday exam to be predictable if no earlier exam happens, then uses that conclusion to eliminate Thursday and every prior day.",
+          "note": "Backward elimination appears to remove all dates."
+        },
+        {
+          "text": "A teacher gives the exam on Wednesday, when the student had concluded that Wednesday was impossible, and the student is surprised.",
+          "note": "The announced condition can remain surprising despite the proof-like reasoning."
+        }
+      ],
+      "commonMisreadings": [
+        "The paradox is not simply a teacher breaking a promise; the tension is between backward elimination and actual surprise.",
+        "Whether the reasoning succeeds depends on assumptions about knowledge, announcement, and the meaning of surprise."
+      ],
+      "criticisms": [
+        "The backward argument may fail because knowing the elimination proof does not establish that the student knows which day will occur."
+      ],
+      "lookalikes": [],
+      "related": [
+        "epistemology",
+        "epistemic-closure"
+      ],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-thompson-lamp-paradox",
+      "name": "Thompson’s lamp paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A lamp is switched on and off infinitely many times before a fixed deadline, leaving its final state apparently undetermined.",
+      "body": "Start with a lamp off; switch it on after one minute, off after half a minute, on after a quarter minute, and continue, so the switches accumulate at two minutes. At every finite stage the lamp has a definite state, but the alternating sequence has no final value forced by the earlier states. The puzzle challenges whether a supertask’s limit state is determined; different physical or mathematical models can stipulate different outcomes.",
+      "origin": "James F. Thomson introduced the lamp in 1954 while discussing the possibility of supertasks.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A lamp alternates on and off at ever shorter intervals that converge to a two-minute deadline.",
+          "note": "The switching sequence has no stable state approaching the deadline."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not show that ordinary lamps can physically switch infinitely often."
+      ],
+      "criticisms": [
+        "The state at the limit requires a rule beyond the finite switching instructions; some accounts reject the physical possibility of the process."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "paradox-two-envelope-paradox",
+      "name": "Two-envelope paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A calculation seems to show that one should always switch between two envelopes containing unequal amounts, regardless of which one was chosen first.",
+      "body": "One envelope contains x and the other 2x, and a person holds one. If the visible amount is A, a tempting calculation assigns equal chances to the other envelope containing 2A or A/2, giving expected value 1.25A. Repeating the argument after switching seems to favor switching back as well. The calculation lacks a justified prior distribution over possible amounts; a proper model of how the pair was generated removes the apparent universal advantage.",
+      "origin": "The modern puzzle is discussed in decision theory and probability; related formulations appear in work by Littlewood and later authors.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A person opens an envelope, sees $100, then is told the other envelope has either $200 or $50 with equal probability.",
+          "note": "The equal conditional probabilities do not follow merely from knowing the amounts differ by a factor of two."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not establish a profitable strategy that works whichever envelope is held."
+      ],
+      "criticisms": [
+        "Different priors and selection procedures can yield different expectations; the setup must specify them."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-waiting-time-paradox",
+      "name": "Waiting-time paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "For a process with variable intervals, a randomly arriving observer’s residual wait is generally not half the mean interval.",
+      "body": "A random arrival samples intervals in proportion to their length, then lands at a random point within the sampled interval. Long gaps are overrepresented, and within each gap the remaining time varies from almost zero to nearly the full gap. In renewal models, the mean residual wait can be much larger than half the mean interarrival time. The formula depends on stationarity and finite moments; it is not a universal claim about every queue.",
+      "origin": "The phenomenon is treated in renewal theory and queueing theory, often alongside the inspection paradox.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A commuter who arrives without consulting the timetable often waits longer than expected from the average gap alone.",
+          "note": "The random arrival is more likely to occur during a long service gap."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not the same as saying an individual bus becomes less likely to arrive because one has waited."
+      ],
+      "criticisms": [
+        "The residual-life result assumes a specified arrival process and can fail under nonstationary schedules."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "knowledge-and-meaning"
+      ]
+    },
+    {
+      "id": "paradox-yablo-paradox",
+      "name": "Yablo’s paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "An infinite sequence of sentences, each claiming that all later sentences are false, appears paradoxical without direct self-reference.",
+      "body": "Each sentence says that every sentence later in the sequence is false. If some sentence is true, then all later ones are false; but any later sentence’s claim about still later sentences creates pressure for a true one. If none is true, then each sentence’s claim that all later ones are false appears true. The construction challenges whether self-reference is essential to semantic paradox, though the sequence as a whole has indirect global dependence.",
+      "origin": "Stephen Yablo introduced the sequence in a 1993 paper on paradox without self-reference.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "S1 says all later sentences are false, S2 says the same of those after it, and the pattern continues forever.",
+          "note": "No sentence directly mentions itself, but the infinite sequence is globally entangled."
+        }
+      ],
+      "commonMisreadings": [
+        "It does not settle whether indirect dependence counts as a form of self-reference."
+      ],
+      "criticisms": [
+        "Formal analyses differ on the role of infinitary semantics and on which truth principles should be retained."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "logic-and-language"
+      ]
+    },
+    {
+      "id": "zeno-s-paradoxes",
+      "name": "Zeno's paradoxes",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "Zeno's arguments use apparently plausible claims about motion or plurality to derive an infinite regress or contradiction.",
+      "body": "Zeno's paradoxes challenge how motion and plurality can be understood. In the dichotomy argument, a traveler must reach halfway, then half the remaining distance, and so on, apparently requiring infinitely many stages before arriving. The Achilles argument applies this structure to a faster runner pursuing a slower one.\n\nModern mathematics models infinite convergent series, allowing infinitely many diminishing intervals to sum to a finite distance; this addresses the standard mathematical form but does not settle every philosophical question about motion, space, or time. Zeno's arguments have multiple versions and interpretations. They should not be reduced to the claim that motion is visibly impossible.",
+      "origin": "Attributed to Zeno of Elea in ancient Greece; several arguments are reported by Aristotle and later commentators.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "To cross a room, a person must first travel half the distance, then half of what remains, producing endlessly many smaller segments.",
+          "note": "The paradox asks how an infinite division can be completed in finite time."
+        },
+        {
+          "text": "Achilles reaches each point where the tortoise previously stood, while the tortoise moves ahead; the sequence of catch-up points is infinite.",
+          "note": "The apparent failure to overtake comes from treating each stage as a barrier."
+        }
+      ],
+      "commonMisreadings": [
+        "The argument is not a simple denial of observed motion; it challenges assumptions about infinite divisibility and completing infinitely many stages.",
+        "Convergence of a series resolves a mathematical representation, but philosophical interpretations of the paradox continue."
+      ],
+      "criticisms": [
+        "Critics argue that the argument equivocates between a completed infinite division and an endless process, or misrepresents time and distance."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    },
+    {
+      "id": "paradox-zermelo-recurrence-paradox",
+      "name": "Zermelo recurrence paradox",
+      "aliases": [],
+      "symbolName": null,
+      "summary": "A finite isolated mechanical system may eventually return arbitrarily close to an earlier state, apparently conflicting with irreversible entropy increase.",
+      "body": "Poincaré recurrence implies that a bounded conservative system with suitable finite phase-space measure will return arbitrarily near its initial state after enough time. Zermelo argued that such recurrence sits uneasily with Boltzmann’s account of entropy increase. The timescales for macroscopic systems are immense, and recurrence does not prevent entropy from increasing for overwhelmingly typical intervals. The issue asks how statistical irreversibility relates to reversible dynamics and recurrence.",
+      "origin": "Ernst Zermelo used Poincaré’s recurrence theorem to challenge Boltzmann’s kinetic theory in 1896.",
+      "keyFigures": [],
+      "examples": [
+        {
+          "text": "A gas may eventually return close to a low-entropy arrangement even though it ordinarily spreads and remains dispersed for vast periods.",
+          "note": "Recurrence is compatible with overwhelmingly long intervals spent near equilibrium."
+        }
+      ],
+      "commonMisreadings": [
+        "It is not an observation that a room’s air will practically gather in one corner."
+      ],
+      "criticisms": [
+        "The theorem’s assumptions and the distinction between exact and approximate recurrence matter."
+      ],
+      "lookalikes": [],
+      "related": [],
+      "tags": [
+        "metaphysics"
+      ]
+    }
+  ]
+}

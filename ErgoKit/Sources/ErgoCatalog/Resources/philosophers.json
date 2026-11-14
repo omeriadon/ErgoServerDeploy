@@ -1,0 +1,2003 @@
+{
+  "philosophers": [
+    {
+      "id": "shankara",
+      "name": "Adi Shankara",
+      "image": "shankara.jxl",
+      "birthYear": 700,
+      "deathYear": 750,
+      "summary": "Adi Shankara gave Advaita Vedanta a rigorous non-dual account in which Brahman is ultimate reality and ignorance makes the self appear separate.",
+      "related": [
+        "advaita-vedanta",
+        "atman",
+        "brahman",
+        "nondualism"
+      ],
+      "body": "Adi Shankara's Advaita Vedanta distinguishes the changing field of experience from Brahman, the non-dual reality that cannot be treated as one more object within it. Ignorance is not simply lack of information: it is the superimposition of body, mind, and agency onto the witnessing self. The famous rope-and-snake analogy therefore concerns a mistake in how reality is structured for a knower, not merely a false sentence.\n\nLiberation follows from disciplined inquiry into the Upanishadic teaching, because knowledge removes the error rather than producing a new metaphysical state. Shankara still explains ordinary religious practice as useful within conventional reality, even though ritual action cannot by itself yield non-dual knowledge. The dates traditionally assigned to Shankara are disputed, so 700–750 should be read as approximate rather than secure biography."
+    },
+    {
+      "id": "agnes-heller",
+      "name": "Agnes Heller",
+      "image": "agnes-heller.jxl",
+      "birthYear": 1929,
+      "deathYear": 2019,
+      "summary": "Agnes Heller developed a pluralist moral philosophy of everyday life, historical experience, and judgment among competing human needs.",
+      "related": [
+        "marxism",
+        "ethics"
+      ],
+      "body": "Agnes Heller began from Marxist analyses of alienation and needs but resisted the claim that history supplies one necessary route to emancipation. Her philosophy of everyday life treats ordinary habits, work, family relations, and social expectations as sites where people reproduce a world and may also contest it. Needs are historically shaped, yet they cannot be reduced to a single economic calculus.\n\nHeller's later ethics emphasizes plurality: modern people must choose among conflicting values without pretending that a final theory can make judgment disappear. This is not moral relativism. A person remains answerable for how a choice affects freedom, dignity, and the possibilities of others, but the answer must be worked out in a concrete historical situation. Her political thought therefore joins a critique of domination to a defense of democratic conversation and individual responsibility."
+    },
+    {
+      "id": "al-farabi",
+      "name": "Al-Farabi",
+      "image": "al-farabi.jxl",
+      "birthYear": 872,
+      "deathYear": 950,
+      "summary": "Al-Farabi joined Aristotelian science and Platonic political philosophy to explain how knowledge and civic education shape a virtuous community.",
+      "related": [
+        "aristotelianism",
+        "platonism",
+        "neoplatonism"
+      ],
+      "body": "Al-Farabi's political philosophy asks what kind of city can direct human beings toward happiness rather than merely coordinate their appetites. The virtuous city depends on a ruler whose practical and intellectual qualities let him translate knowledge of the highest principles into images, laws, and practices accessible to citizens. Religion in this account is not simply private belief; it is a symbolic and civic form of philosophical truth.\n\nHis classification of the sciences and writings on language and music show that this political project rests on an account of how forms of knowledge are organized and communicated. He adapts Plato while using Aristotelian logic, psychology, and metaphysics, and his treatment of the active intellect became influential in later Islamic and Latin debates. Medieval sources do not make every biographical detail secure, so the conventional dates 872–950 are approximate."
+    },
+    {
+      "id": "al-ghazali",
+      "name": "Al-Ghazali",
+      "image": "al-ghazali.jxl",
+      "birthYear": 1058,
+      "deathYear": 1111,
+      "summary": "Al-Ghazali tested philosophical certainty through theology, skepticism, and Sufi practice, while sharply criticizing selected Avicennian doctrines.",
+      "related": [
+        "causation",
+        "occasionalism",
+        "sufism",
+        "islamic-occasionalism"
+      ],
+      "body": "Al-Ghazali's philosophical importance lies partly in the sequence of his challenge. In The Incoherence of the Philosophers he argues that several metaphysical conclusions associated with Avicenna, including the world's eternity and a narrowly intellectual account of divine knowledge, do not follow from the philosophers' premises. His criticism is not a rejection of every use of logic: he continued to employ logical analysis in theology and jurisprudence.\n\nIn The Deliverer from Error, doubt becomes an examination of the conditions of certainty. Sense perception and reason can each expose the limits of the other, and reliable knowledge ultimately requires a transformation of the knower rather than a merely formal proof. His account of causation is often called occasionalist, because created things do not necessitate effects independently of God's continuing action. Yet his analysis of habits, expectations, and divine custom is subtler than the claim that events are random. Sufi practice supplies an experiential discipline for the intellectual and moral crisis."
+    },
+    {
+      "id": "alain-badiou",
+      "name": "Alain Badiou",
+      "image": "alain-badiou.jxl",
+      "birthYear": 1937,
+      "deathYear": null,
+      "summary": "Alain Badiou models ontology with set theory and describes an event as a rupture whose consequences require sustained fidelity.",
+      "related": [
+        "ontology",
+        "event"
+      ],
+      "body": "Alain Badiou treats a situation as a structured multiplicity whose parts are counted and recognized by an ordering regime. Set theory, in his reading, shows how being can be described without reducing it to a substantial One. An event is different: it appears at the edge of what the situation can count, and its status cannot be secured by the situation's existing knowledge alone.\n\nA subject is formed through fidelity to the consequences of an event, not discovered as a stable psychological substance beforehand. Badiou applies this structure to politics, science, art, and love, where a new possibility must be organized through decisions and procedures. The theory preserves a strong idea of universality, but critics question whether its revolutionary examples and formal ontology leave enough room for compromise, institutional continuity, or ordinary forms of political agency."
+    },
+    {
+      "id": "albert-camus",
+      "name": "Albert Camus",
+      "image": "albert-camus.jxl",
+      "birthYear": 1913,
+      "deathYear": 1960,
+      "summary": "Albert Camus described the absurd as the clash between the human demand for meaning and a silent world, then made revolt a shared ethical practice.",
+      "related": [
+        "absurdism",
+        "solidarity",
+        "violence"
+      ],
+      "body": "For Camus, the absurd is not a property belonging to the universe alone or to a despairing personality alone. It arises in the confrontation between a human demand for intelligibility and a world that supplies no final answer. The response he calls revolt refuses both suicide and philosophical escape: one continues without inventing a guaranteed meaning.\n\nThis refusal has political consequences. In The Rebel, Camus argues that rebellion begins by saying that a limit has been violated, but can betray itself when it turns a provisional refusal into permission for unlimited violence. Solidarity therefore matters because people share vulnerability and can resist oppression without claiming the right to sacrifice every present person for a future abstraction. His conflict with revolutionary Marxism concerned this limit on historical justification, not indifference to poverty or colonial injustice."
+    },
+    {
+      "id": "alfred-north-whitehead",
+      "name": "Alfred North Whitehead",
+      "image": "alfred-north-whitehead.jxl",
+      "birthYear": 1861,
+      "deathYear": 1947,
+      "summary": "Alfred North Whitehead developed a process philosophy in which reality is composed of events of becoming rather than inert substances enduring unchanged beneath experience.",
+      "body": "Whitehead's process philosophy treats an actual occasion as a concrete event of becoming. An occasion inherits data from a past world, prehends those relations, and integrates them into a novel unity before becoming part of the data for later occasions. This vocabulary replaces the picture of independent substances carrying fixed properties with a relational account of how continuity and novelty coexist.\n\nHis notion of concrescence explains how many influences can become one experience, while his principle of creativity names the general possibility that the new can emerge from the given. Whitehead's God is not an omnipotent external designer who unilaterally determines every event; the consequent nature of God receives the world's occasions, while the primordial nature orders possibilities. Critics dispute whether this metaphysics can secure ordinary identity or explain evil, but its influence on metaphysics, ecology, theology, and theories of experience comes from taking relation and becoming as basic rather than derivative.",
+      "related": [
+        "process-philosophy",
+        "becoming",
+        "process-theology",
+        "panexperientialism",
+        "logicism"
+      ]
+    },
+    {
+      "id": "amartya-sen",
+      "name": "Amartya Sen",
+      "image": "amartya-sen.jxl",
+      "birthYear": 1933,
+      "deathYear": null,
+      "summary": "Amartya Sen evaluates justice through people’s substantive capabilities and public reasoning rather than through resources, utility, or one ideal social pattern.",
+      "related": [
+        "social-justice",
+        "democracy",
+        "capabilities-approach"
+      ],
+      "body": "Amartya Sen's capability approach asks what people are actually able to do and to be. Income and formal rights matter, but the same resource can yield very different opportunities depending on health, disability, gender, social norms, or public services. A famine can therefore occur without an absolute shortage of food when people lose the purchasing power or legal entitlements that would let them command it.\n\nSen's critique of welfare economics targets both utility measures that can normalize deprivation and resource theories that ignore conversion into real freedoms. He does not offer one complete ranking of every society. Instead, comparative public reasoning should identify remediable injustice, test competing judgments, and remain open to democratic disagreement. This emphasis on plural information distinguishes his approach from theories that seek a single metric or a fully specified institutional blueprint."
+    },
+    {
+      "id": "angela-davis",
+      "name": "Angela Davis",
+      "image": "angela-davis.jxl",
+      "birthYear": 1944,
+      "deathYear": null,
+      "summary": "Angela Davis links Black radical, feminist, Marxist, and abolitionist analysis to an account of prisons as historical institutions rather than neutral responses to crime.",
+      "related": [
+        "abolitionism",
+        "anti-racism",
+        "feminism",
+        "marxism"
+      ],
+      "body": "Angela Davis's abolitionist argument begins by refusing the idea that prisons are a natural endpoint for social harm. In Are Prisons Obsolete?, she traces punishment through slavery, racial capitalism, segregation, and the expansion of carceral institutions, asking which social problems incarceration conceals rather than resolves. The question is not only whether a particular prison is humane; it is what forms of housing, health care, education, and conflict transformation would make imprisonment less necessary.\n\nHer feminism also challenges a single-axis account of oppression. Gender, race, class, and sexuality shape one another in institutions and in political movements, so liberation cannot be reduced to access for a privileged subset of women or to formal racial inclusion. Davis joins theoretical critique to organizing because freedom is a material relation, not merely a change in legal language or personal attitude."
+    },
+    {
+      "id": "anselm-of-canterbury",
+      "name": "Anselm of Canterbury",
+      "image": "anselm-of-canterbury.jxl",
+      "birthYear": 1033,
+      "deathYear": 1109,
+      "summary": "Anselm of Canterbury pursued faith seeking understanding through arguments about divine necessity, atonement, and the relation between thought and being.",
+      "related": [
+        "ontological-argument",
+        "natural-theology",
+        "necessary-being",
+        "argument-ontological"
+      ],
+      "body": "Anselm's Proslogion asks whether the concept of a being than which none greater can be conceived has consequences for existence. The argument does not simply define God into existence; it turns on the distinction between possessing a thing in the understanding and its existing in reality, and on Anselm's claim that a greatest conceivable being cannot lack actuality. Subsequent objections, especially those associated with Gaunilo and Kant, dispute whether existence functions as a perfection in this way.\n\nIn Cur Deus Homo, Anselm gives a different kind of analysis: divine justice and human obligation make satisfaction necessary, while the incarnation allows a repair that finite humanity cannot supply. The account helped shift discussion of atonement toward rational analysis of debt, honor, and restoration. His method illustrates his governing conviction that rational reflection can clarify commitments already received in faith."
+    },
+    {
+      "id": "antonio-gramsci",
+      "name": "Antonio Gramsci",
+      "image": "antonio-gramsci.jxl",
+      "birthYear": 1891,
+      "deathYear": 1937,
+      "summary": "Antonio Gramsci explained durable domination through hegemony: the organization of consent in civil society as well as coercion by the state.",
+      "related": [
+        "hegemony",
+        "marxism",
+        "ideology",
+        "civil-society",
+        "cultural-hegemony"
+      ],
+      "body": "Antonio Gramsci's concept of hegemony explains why a ruling order can survive without relying on force at every moment. Schools, churches, newspapers, parties, and workplaces help make a particular arrangement of power appear natural, so subordinate groups may participate in reproducing the assumptions that limit them. Common sense is therefore politically significant: it contains inherited fragments of different worldviews that can be reorganized.\n\nThe distinction between a war of manoeuvre and a war of position describes different revolutionary problems. A rapid seizure of state power may fail where civil society has dense institutions and habits of consent; there, a movement must build an alternative intellectual and organizational presence over time. Gramsci's notion of the organic intellectual names people who arise from a social group and help articulate its practical experience into a coherent political project. His prison writings remain fragmentary, so interpretations must not treat every notebook formulation as a finished system."
+    },
+    {
+      "id": "aristotle",
+      "name": "Aristotle",
+      "image": "aristotle.jxl",
+      "birthYear": -384,
+      "deathYear": -322,
+      "summary": "Aristotle investigated being, nature, reasoning, ethics, politics, and art through distinctions that connect explanation with forms of life and inquiry.",
+      "related": [
+        "aristotelianism",
+        "virtue-ethics",
+        "final-cause",
+        "syllogism",
+        "achilles-and-the-tortoise",
+        "akrasia",
+        "analogy",
+        "plato",
+        "law-of-noncontradiction",
+        "eudaimonia",
+        "potentiality-and-actuality",
+        "hylomorphism",
+        "catharsis",
+        "mimesis",
+        "accent-fallacy",
+        "accident",
+        "amphiboly",
+        "begging-the-question",
+        "complex-question",
+        "composition-fallacy",
+        "division-fallacy",
+        "equivocation",
+        "ignoratio-elenchi",
+        "being",
+        "argument-cosmological",
+        "argument-from-the-value-of-virtue-ethics"
+      ],
+      "body": "Aristotle's philosophy is organized by questions about what kind of explanation a subject requires. In natural philosophy, matter and form explain what a thing is, while efficient and final causes explain how it comes to be and what characteristic activity it fulfills. His teleology does not mean that every event is consciously planned; it identifies stable patterns of development and functioning.\n\nIn ethics, flourishing is an activity rather than a passive condition, and virtues are trained dispositions that let practical judgment respond well to circumstances. The doctrine of the mean is not a numerical midpoint: courage, for example, must locate an appropriate response between cowardice and rashness. Political life supplies conditions for exercising such capacities, which is why Aristotle treats the polis as more than a contract for mutual protection. His logical works also systematize syllogistic inference, giving later traditions a model of formal argument."
+    },
+    {
+      "id": "arthur-schopenhauer",
+      "name": "Arthur Schopenhauer",
+      "image": "arthur-schopenhauer.jxl",
+      "birthYear": 1788,
+      "deathYear": 1860,
+      "summary": "Arthur Schopenhauer interpreted the experienced world as representation and its underlying drive as will, making suffering and the possibility of renunciation central philosophical problems.",
+      "related": [
+        "altruism",
+        "asceticism",
+        "aesthetics",
+        "philosophical-pessimism",
+        "volition"
+      ],
+      "body": "Schopenhauer's distinction between representation and will combines a Kantian account of the world as structured for a knower with a metaphysics of blind striving. The will is not a conscious plan but a ceaseless drive expressed through organic life, desire, competition, and the endless replacement of one want by another. Satisfaction is consequently temporary, while unfulfilled desire produces suffering.\n\nAesthetic contemplation interrupts this practical relation to objects by allowing attention to rest on form rather than possession. Compassion goes further: recognizing another's suffering weakens the egoistic separation that the will ordinarily enforces. Schopenhauer's ideal of ascetic denial is more radical and controversial, since it seeks release from willing itself rather than a better arrangement of wants. His pessimism influenced Nietzsche, psychoanalysis, and later theories of desire, even where those thinkers rejected his proposed escape."
+    },
+    {
+      "id": "augustine-of-hippo",
+      "name": "Augustine of Hippo",
+      "image": "augustine-of-hippo.jxl",
+      "birthYear": 354,
+      "deathYear": 430,
+      "summary": "Augustine of Hippo joined classical reflection on time, memory, will, and evil to Christian doctrines of creation, grace, and salvation.",
+      "related": [
+        "problem-of-evil",
+        "free-will",
+        "time",
+        "divine-foreknowledge"
+      ],
+      "body": "Augustine's analysis of time in the Confessions begins from a puzzle: past and future are not present, yet we speak meaningfully of them. He locates their presence in memory, attention, and expectation, treating temporal consciousness as an activity of the soul rather than as a container that exists independently of events. His inquiry into memory also makes self-knowledge unstable, because the mind can search within itself and still exceed what it can immediately grasp.\n\nOn evil, Augustine rejects the idea that evil is a rival substance opposing God. Evil is a privation, a failure or disorder of good, and moral responsibility concerns the will's disordered love. Grace then becomes indispensable because the will cannot simply repair itself by issuing a stronger command. His political distinction between the earthly and heavenly cities does not map neatly onto two governments; it contrasts communities organized by different objects of love."
+    },
+    {
+      "id": "averroes",
+      "name": "Averroes",
+      "image": "averroes.jxl",
+      "birthYear": 1126,
+      "deathYear": 1198,
+      "summary": "Averroes defended philosophical demonstration and produced influential commentaries on Aristotle while examining how reason and revelation can coexist.",
+      "related": [
+        "averroism",
+        "aristotelianism",
+        "hermeneutics"
+      ],
+      "body": "Averroes's commentaries on Aristotle aim to recover the philosopher's arguments with enough precision that later readers can distinguish Aristotle's position from paraphrase or theological adaptation. In his Decisive Treatise, he argues that revealed law can require capable people to practice demonstration, because truth cannot ultimately contradict truth. Apparent conflicts arise when figurative interpretation is needed, but such interpretation should be reserved for those equipped to reason rigorously.\n\nHis account of the intellect, especially the relation between individual human cognition and a shared or separate intellect, provoked enduring debate in Islamic, Jewish, and Latin Christian traditions. The Latin label Averroism often groups together positions that Averroes himself did not hold, so the history of his reception should not be used as a simple summary of his doctrine. His work as a jurist and physician also shows that philosophy was integrated with legal and scientific inquiry rather than isolated from it."
+    },
+    {
+      "id": "avicenna",
+      "name": "Avicenna",
+      "image": "avicenna.jxl",
+      "birthYear": 980,
+      "deathYear": 1037,
+      "summary": "Avicenna distinguished essence from existence and used that distinction to explain contingent beings, the necessary existent, intellect, and self-awareness.",
+      "related": [
+        "avicennism",
+        "essence",
+        "necessary-being",
+        "contingent-being",
+        "existence"
+      ],
+      "body": "Avicenna's central metaphysical distinction is between what a thing is and the fact that it exists. An essence considered in itself is neither necessary nor impossible; it becomes actual through a cause. A chain of contingent causes therefore requires a necessary existent whose existence is not received from another. This argument does not identify the necessary existent by simply observing a first event in time, since Avicenna's cosmology allows an eternal causal order.\n\nHis thought experiment of the flying or suspended person asks whether a human being could be aware of itself without sensory contact or bodily perception. The point is not that ordinary minds float free of bodies, but that self-awareness cannot be wholly reduced to representation of an object. Avicenna's psychology, logic, and medicine made his synthesis influential across Islamic philosophy and Latin scholasticism, while later thinkers disputed both his emanationist cosmology and his account of intellect."
+    },
+    {
+      "id": "b-r-ambedkar",
+      "name": "B. R. Ambedkar",
+      "image": "b-r-ambedkar.jxl",
+      "birthYear": 1891,
+      "deathYear": 1956,
+      "summary": "B. R. Ambedkar argued that caste is a system of graded social separation and that political democracy requires equality, liberty, and fraternity in everyday life.",
+      "related": [
+        "social-justice",
+        "constitutionalism",
+        "equality",
+        "buddhism"
+      ],
+      "body": "Ambedkar's critique of caste goes beyond a complaint about unequal distribution. Caste organizes the division of labor as a division of laborers, fixing status through birth, regulating marriage, and preventing the solidarity needed for collective action. In Annihilation of Caste, he argues that moral appeals cannot dismantle the system while the religious and social authority that legitimizes it remains intact.\n\nHis constitutionalism therefore combines institutional safeguards with a social theory of democracy. Voting and formal rights are insufficient if people meet one another as ranked communities rather than as equals. Liberty, equality, and fraternity are mutually supporting conditions, not competing slogans: without fraternity, equality is unstable; without equality, liberty is reserved for status groups. Ambedkar's turn toward Navayana Buddhism reinterprets religious conversion as a deliberate reconstruction of ethical community and human dignity, not a retreat from political struggle."
+    },
+    {
+      "id": "baruch-spinoza",
+      "name": "Baruch Spinoza",
+      "image": "baruch-spinoza.jxl",
+      "birthYear": 1632,
+      "deathYear": 1677,
+      "summary": "Baruch Spinoza argued that one necessary substance, God or Nature, expresses itself through infinite attributes and that freedom is understanding necessity rather than escaping causation.",
+      "related": [
+        "spinozism",
+        "monism",
+        "pantheism",
+        "immanence",
+        "causal-determinism"
+      ],
+      "body": "Spinoza rejects a universe composed of independently existing substances. God or Nature is the one substance, while finite minds and bodies are modes expressed under attributes such as thought and extension. The mind does not command a separate body from outside; the mental and bodily orders are two ways of understanding one causal reality. This framework also denies a personal creator who intervenes according to changing purposes.\n\nIn the Ethics, emotions are modifications that can increase or diminish a person's power of acting. Passive emotions dominate when their causes are inadequately understood; active emotions arise as the mind forms adequate ideas of its place in the causal order. Freedom therefore means acting from one's nature through understanding, not choosing without causes. Spinoza's political writings extend the same naturalism to religion and the state, defending freedom of thought because coercion cannot manufacture genuine conviction."
+    },
+    {
+      "id": "bell-hooks",
+      "name": "bell hooks",
+      "image": "bell-hooks.jxl",
+      "birthYear": 1952,
+      "deathYear": 2021,
+      "summary": "bell hooks developed an engaged feminist theory of domination, love, education, and racialized class power across intimate and public life.",
+      "related": [
+        "intersectionality",
+        "feminism",
+        "anti-racism",
+        "domination"
+      ],
+      "body": "bell hooks's feminism insists that gender cannot be analyzed apart from race and class. A critique that treats the experiences of affluent white women as universal can reproduce the very exclusions it claims to oppose, while a movement focused only on racial solidarity can leave patriarchal power intact. Her account of an interlocking system of domination therefore joins structural analysis to attention to lived experience.\n\nTeaching to Transgress presents education as a practice of freedom when classrooms become places where authority, voice, and knowledge can be examined rather than passively received. This does not mean abandoning standards or replacing study with self-expression; it means making intellectual work answerable to the possibility of transformation. hooks also treats love as a political practice involving care, responsibility, respect, and knowledge, not merely a private feeling. These themes connect her cultural criticism to an ethics of collective liberation."
+    },
+    {
+      "id": "bertrand-russell",
+      "name": "Bertrand Russell",
+      "image": "bertrand-russell.jxl",
+      "birthYear": 1872,
+      "deathYear": 1970,
+      "summary": "Bertrand Russell transformed analytic philosophy through logical analysis, theories of description and types, and arguments about knowledge, language, and science.",
+      "related": [
+        "analytic-philosophy",
+        "definite-description-concept",
+        "russell-s-paradox",
+        "acquaintance-knowledge",
+        "logical-atomism",
+        "russell-s-teapot",
+        "logicism",
+        "definite-description",
+        "description-theory-of-names",
+        "sense-data",
+        "neutral-monism"
+      ],
+      "body": "Russell's theory of descriptions shows how a sentence apparently about a nonexistent object can be analyzed without treating that object as a mysterious entity. The phrase ‘the present king of France’ can be unpacked into claims about existence, uniqueness, and predication; its failure need not make the whole sentence meaningless. This technique made logical form a tool for dissolving apparent metaphysical problems.\n\nHis work with Whitehead in Principia Mathematica sought a formal foundation for mathematics, while Russell's paradox exposed difficulties in unrestricted set formation and helped motivate type theory. In epistemology, he distinguished knowledge by acquaintance from knowledge by description, then treated scientific knowledge as fallible construction from limited data. Russell's later public philosophy applied this analytic clarity to war, nuclear weapons, education, and political authority, showing that technical logic and civic judgment need not be separate activities."
+    },
+    {
+      "id": "blaise-pascal",
+      "name": "Blaise Pascal",
+      "image": "blaise-pascal.jxl",
+      "birthYear": 1623,
+      "deathYear": 1662,
+      "summary": "Blaise Pascal examined human greatness and misery through the limits of reason, the distractions of self-deception, and the wager concerning faith.",
+      "related": [
+        "existentialism",
+        "natural-theology",
+        "pascal-s-wager",
+        "argument-from-divine-hiddenness",
+        "argument-pascal-s-wager"
+      ],
+      "body": "Pascal's fragments describe human beings as capable of mathematical and scientific reasoning yet unable to secure happiness through those abilities alone. Diversion is central to this diagnosis: occupations, games, status, and constant motion keep people from confronting mortality and the instability of the self. The point is not that every activity is worthless, but that distraction can conceal the question it cannot answer.\n\nThe wager does not claim to prove Christianity by probability alone. It argues that a person already situated in uncertainty must consider the practical asymmetry between finite losses and an infinite good, while also recognizing that belief cannot be switched on by a bare calculation. Pascal's account of the heart names forms of apprehension that are not identical with deductive proof. His theological polemics, mathematical work, and reflections on probability therefore share a concern with what reason can establish and where it must acknowledge its conditions."
+    },
+    {
+      "id": "buddhaghosa",
+      "name": "Buddhaghosa",
+      "image": "buddhaghosa.jxl",
+      "birthYear": 390,
+      "deathYear": 450,
+      "summary": "Buddhaghosa systematized Theravada Buddhist doctrine by presenting ethical training, concentration, and insight as a path toward liberation from suffering.",
+      "related": [
+        "theravada-buddhism",
+        "anatta",
+        "anicca"
+      ],
+      "body": "Buddhaghosa's Visuddhimagga organizes the path into morality, concentration, and wisdom, but the sequence is not a simple ladder of detachable techniques. Ethical restraint stabilizes conduct, concentration steadies attention, and insight examines conditioned phenomena as impermanent, unsatisfactory, and not-self. The analysis of mind and matter is intended to weaken attachment, not to supply a permanent metaphysical inventory.\n\nHis account of meditation distinguishes calm practices that refine attention from insight practices that discern the arising and passing of experience. The goal is not annihilation of a soul but release from the craving and ignorance that make the cycle of suffering intelligible as a problem. Buddhaghosa lived in the fifth century according to traditional dating, and the precise relation between his works and earlier Sinhalese materials remains a matter of scholarship; his importance lies in the influential systematization preserved in the Pali tradition."
+    },
+    {
+      "id": "c-l-r-james",
+      "name": "C. L. R. James",
+      "image": "c-l-r-james.jxl",
+      "birthYear": 1901,
+      "deathYear": 1989,
+      "summary": "C. L. R. James combined Marxist theory, anti-colonial history, cricket criticism, and democratic self-activity in an account of revolutionary culture.",
+      "related": [
+        "anti-colonialism",
+        "marxism",
+        "emancipation"
+      ],
+      "body": "C. L. R. James's The Black Jacobins refuses the colonial picture of the Haitian Revolution as disorder imposed by outside agitators. Enslaved people were political agents whose collective action transformed the meaning of freedom, while Toussaint Louverture's leadership also revealed the tensions between revolutionary emancipation and the demands of an imperial economy. James uses history to revise the subject of Marxist theory, not merely to add a Caribbean example to an established narrative.\n\nHis later reflections on workers' councils and popular democracy emphasize self-emancipation: liberation cannot be handed down by a party that treats the masses as material to be managed. Cricket becomes another site of political interpretation, because its discipline, improvisation, spectatorship, and class formation disclose how colonial subjects create culture under unequal conditions. James's work joins universal aspirations to a demand that the people affected by a transformation remain its authors."
+    },
+    {
+      "id": "c-s-peirce",
+      "name": "Charles Sanders Peirce",
+      "image": "c-s-peirce.jxl",
+      "birthYear": 1839,
+      "deathYear": 1914,
+      "summary": "Charles Sanders Peirce developed pragmatism, semiotics, and a fallibilist logic of inquiry centered on how beliefs are tested in practice.",
+      "related": [
+        "pragmatism",
+        "abductive-reasoning",
+        "semiotics",
+        "fallibilism",
+        "pragmaticism",
+        "nor",
+        "nand"
+      ],
+      "body": "Peirce's pragmatism asks what conceivable practical effects would follow if a concept were true. This is not a reduction of meaning to immediate usefulness; it is a method for clarifying the habits of expectation and action that a belief would license under inquiry. Beliefs are settled through communal practices of testing, correction, and resistance to wishful thinking rather than by private certainty.\n\nHis account of reasoning includes deduction, induction, and abduction. Abduction proposes an explanatory hypothesis, deduction draws consequences, and induction tests those consequences against experience; inquiry advances by their cooperation. Peirce's semiotics similarly treats a sign as part of a relation among sign, object, and interpretant, so meaning develops through further interpretation rather than residing in an isolated symbol. Fallibilism is therefore methodological and ethical: every conclusion may require revision, but inquiry can still be objectively constrained."
+    },
+    {
+      "id": "confucius",
+      "name": "Confucius",
+      "image": "confucius.jxl",
+      "birthYear": -551,
+      "deathYear": -479,
+      "summary": "Confucius made ethical cultivation, ritual practice, and humane relationships the basis of personal integrity and political order.",
+      "related": [
+        "confucianism",
+        "confucian-ren",
+        "confucian-li",
+        "filial-piety"
+      ],
+      "body": "Confucius does not define virtue as possession of a private rulebook. The exemplary person learns how to respond appropriately within relationships, and ritual supplies practiced forms through which respect, mourning, gratitude, and authority become visible. Li can therefore educate desire: repeated action reshapes feeling until what is proper is not merely externally imposed.\n\nRen, often rendered as humaneness, is expressed through reciprocal attention to others and through the discipline of becoming the kind of person whose conduct can be trusted. Political rule should begin with the ruler's own self-cultivation and with the rectification of names, because institutions fail when titles and practices no longer match their responsibilities. Confucius does not offer a theory of equality in the modern liberal sense, but his emphasis on role-based accountability limits the idea that hierarchy excuses arbitrary conduct. His teaching survives through the Analects and later traditions that systematized and sometimes transformed it."
+    },
+    {
+      "id": "cornel-west",
+      "name": "Cornel West",
+      "image": "cornel-west.jxl",
+      "birthYear": 1953,
+      "deathYear": null,
+      "summary": "Cornel West joins pragmatism, Black prophetic traditions, and democratic criticism in an account of justice rooted in dignity and struggle.",
+      "related": [
+        "classical-pragmatism",
+        "anti-racism",
+        "democracy",
+        "pragmatism"
+      ],
+      "body": "Cornel West's prophetic pragmatism treats philosophy as an intervention in the conditions that deform human possibility. Pragmatist inquiry supplies a method for testing ideas through consequences, while prophetic traditions insist that suffering and domination cannot be hidden by claims of neutrality. The result is not a timeless moralism: judgments about justice are made in history and must be answerable to those harmed by institutions.\n\nWest's account of race emphasizes the continuing effects of white supremacy on labor, culture, law, and self-understanding, while resisting explanations that reduce every conflict to identity alone. He places Black democratic traditions alongside labor, feminist, and anti-imperialist struggles, seeking solidarity without erasing difference. Love, for West, names a form of political courage that combines truthful criticism with commitment to the flourishing of others. His public writing deliberately crosses academic and popular forms because democratic philosophy must remain available to civic argument."
+    },
+    {
+      "id": "cornelius-castoriadis",
+      "name": "Cornelius Castoriadis",
+      "image": "cornelius-castoriadis.jxl",
+      "birthYear": 1922,
+      "deathYear": 1997,
+      "summary": "Cornelius Castoriadis described society as self-instituting and defended autonomous collective action against bureaucratic and deterministic accounts of history.",
+      "related": [
+        "autonomy",
+        "democracy",
+        "anti-authoritarianism"
+      ],
+      "body": "Castoriadis argues that no society is founded by a complete external blueprint. Institutions are created by a social imaginary that gives meaning to law, work, authority, and the future, yet people often experience these creations as if they were natural necessities. Heteronomy names this concealment of self-institution; autonomy begins when a collectivity openly recognizes that its norms can be questioned and remade.\n\nHis critique of both capitalism and Soviet bureaucracy targets the separation of decision from lived activity. Workers and citizens become objects of administration when a managerial layer claims expertise over the purposes of collective life. Direct democratic councils are valuable not because they guarantee unanimity, but because they keep deliberation and responsibility connected. Castoriadis's account of radical imagination also rejects economic reductionism: history is shaped by meanings and institutions that cannot be read off from productive forces alone."
+    },
+    {
+      "id": "david-hume",
+      "name": "David Hume",
+      "image": "david-hume.jxl",
+      "birthYear": 1711,
+      "deathYear": 1776,
+      "summary": "David Hume analyzed causation, induction, personal identity, and morality by tracing how habits of perception and feeling organize human thought.",
+      "related": [
+        "induction-problem",
+        "causation",
+        "bundle-theory",
+        "a-posteriori-knowledge",
+        "aesthetic-judgment",
+        "agnosticism",
+        "humes-guillotine",
+        "humes-razor",
+        "associationism",
+        "compatibilism",
+        "argument-is-ought",
+        "argument-problem-of-evil",
+        "argument-induction",
+        "argument-teleological",
+        "argument-from-evolutionary-debunking",
+        "argument-from-the-no-self-analysis"
+      ],
+      "body": "Hume's problem of induction begins with a modest observation: no finite set of past cases logically guarantees that the next case will resemble them. Our expectation that fire will burn is produced by custom after repeated conjunction, not by a demonstrative insight into a necessary connection. Causation therefore describes both observed regularity and the mind's transition from one idea to another, leaving the metaphysical source of necessity obscure.\n\nThe same empirical method unsettles the idea of a simple enduring self. Introspection finds a bundle of perceptions rather than a separate substance that owns them, while memory and imagination construct continuity. Hume's moral theory does not infer obligation from pure reason; sympathy and sentiment make character and consequences matter to us, while reason informs us about facts and relations. His skepticism is thus constructive: it limits illegitimate certainty while preserving ordinary inquiry, social life, and practical judgment."
+    },
+    {
+      "id": "democritus",
+      "name": "Democritus",
+      "image": "democritus.jxl",
+      "birthYear": -460,
+      "deathYear": -370,
+      "summary": "Democritus explained nature through indivisible atoms moving in the void and connected that naturalism to a measured account of human flourishing.",
+      "related": [
+        "atomism",
+        "naturalism",
+        "eudaimonia"
+      ],
+      "body": "Democritus's atomism distinguishes atoms, which differ in shape, arrangement, and position, from the void that permits motion. Sensible qualities such as color, taste, and warmth are not properties existing in objects exactly as they appear; they arise from interactions between atomic structures and perceivers. This distinction between convention and reality anticipates later arguments about the gap between appearance and physical explanation.\n\nHis ethical fragments do not simply celebrate pleasure. Euthymia, often rendered cheerfulness or good spirits, depends on moderation, balance, and freedom from obsessive ambition. A person should regulate desire and avoid allowing wealth, honor, or fear to make the soul unstable. The surviving evidence is fragmentary, and later reports may blend Democritus with the broader atomist tradition, so details of his doctrine must be stated cautiously. His importance lies in showing how a materialist cosmology can still contain an account of disciplined human conduct."
+    },
+    {
+      "id": "derek-parfit",
+      "name": "Derek Parfit",
+      "image": "derek-parfit.jxl",
+      "birthYear": 1942,
+      "deathYear": 2017,
+      "summary": "Derek Parfit used cases about identity, survival, and aggregation to challenge common assumptions about what matters in morality and personal persistence.",
+      "related": [
+        "personal-identity",
+        "teletransportation-paradox",
+        "parfit-s-repugnant-conclusion",
+        "agent-neutral-reasons",
+        "prioritarianism",
+        "reductionism",
+        "argument-from-the-nonidentity-problem",
+        "argument-from-the-repugnant-conclusion"
+      ],
+      "body": "Parfit's teletransportation case separates numerical identity from what may matter in survival. If a person's psychological structure is reproduced elsewhere, and the original is destroyed, it is unclear why identity must be an additional fact beyond psychological continuity. His later cases make the issue harder by allowing branching, where one person has two equally continuous successors and identity cannot be one-to-one.\n\nIn Reasons and Persons, Parfit also argues that concern for future people should not depend on a simple identity relation. A reductionist view of persons can support strong reasons to care about psychological continuity, connectedness, and the quality of future lives even when no single individual remains identifiable across time. His population ethics then exposes tensions among total welfare, average welfare, equality, and the avoidance of terrible outcomes. The controversial Repugnant Conclusion is valuable partly because it forces rival principles to reveal which tradeoffs they accept."
+    },
+    {
+      "id": "erasmus",
+      "name": "Desiderius Erasmus",
+      "image": "erasmus.jxl",
+      "birthYear": 1466,
+      "deathYear": 1536,
+      "summary": "Desiderius Erasmus used Christian humanism, philological criticism, and satire to argue for learned conscience and restraint in religious conflict.",
+      "related": [
+        "humanism",
+        "free-will",
+        "christian-humanism"
+      ],
+      "body": "Erasmus's humanism treats the recovery of languages and ancient texts as a moral enterprise. Better reading can expose corrupt traditions, clarify scripture, and help Christians distinguish essential commitments from disputes inflated by institutional power. The satire of The Praise of Folly attacks clerical vanity and scholastic pretension, but its target is reform of Christian life rather than rejection of Christianity.\n\nIn his dispute with Luther over free will, Erasmus defends a limited human capacity to respond to divine grace and criticizes claims that make moral exhortation unintelligible. He is less systematic than Luther about predestination because his priority is the practical and pastoral danger of turning theological certainty into coercion. Erasmus's ideal of peace also reflects this method: disagreement should be handled through education, moderation, and careful interpretation wherever conscience permits, rather than by treating every doctrinal boundary as a license for violence."
+    },
+    {
+      "id": "dharmakirti",
+      "name": "Dharmakirti",
+      "image": "dharmakirti.jxl",
+      "birthYear": 600,
+      "deathYear": 660,
+      "summary": "Dharmakirti developed a Buddhist epistemology of perception, inference, causation, and fallible testimony while defending the practical path to liberation.",
+      "related": [
+        "epistemology",
+        "inference",
+        "perception",
+        "buddhism"
+      ],
+      "body": "Dharmakirti's logic distinguishes the causally effective particular from universals, which are conceptual constructions used in thought and language. Inference is reliable when a reason is pervaded by what it is meant to establish; the famous analysis of a good reason therefore concerns causal and exclusion relations rather than a merely formal implication. Perception, by contrast, apprehends particulars without the conceptual overlay that classifies them.\n\nThese technical distinctions support Buddhist arguments about impermanence, no-self, karma, and the authority of a reliable Buddha. Dharmakirti is notably fallibilist about scripture: where perception or reasoning can decide a matter, scriptural testimony cannot override them; scripture is needed only for radically inaccessible matters. His dates are uncertain, with scholars placing him in the sixth or seventh century, so the conventional 600–660 range is approximate. His works became foundational for later Tibetan epistemology."
+    },
+    {
+      "id": "diogenes-of-sinope",
+      "name": "Diogenes of Sinope",
+      "image": "diogenes-of-sinope.jxl",
+      "birthYear": -412,
+      "deathYear": -323,
+      "summary": "Diogenes of Sinope made Cynic philosophy a public practice of self-sufficiency, frank speech, and resistance to artificial status.",
+      "related": [
+        "cynicism",
+        "asceticism",
+        "cosmopolitanism"
+      ],
+      "body": "Diogenes's philosophy is preserved through anecdotes because his argument was enacted rather than confined to treatises. By living with extreme simplicity and mocking conventions of wealth, citizenship, and respectability, he tested which human needs are natural and which are manufactured by dependence on reputation. His shamelessness was not indiscriminate rudeness; it was a deliberate exposure of the gap between moral talk and embodied practice.\n\nCynic autarkeia means reducing vulnerability to external goods, while parrhesia means speaking frankly to power and public opinion. Diogenes's claim to be a citizen of the world also unsettles the assumption that identity must be tied to one city's customs, though it does not amount to a modern theory of universal rights. Later Stoicism inherited the Cynic emphasis on freedom from domination by desire, but Diogenes's theatrical confrontations retain a sharper suspicion of institutions and social pretension."
+    },
+    {
+      "id": "dogen",
+      "name": "Dogen",
+      "image": "dogen.jxl",
+      "birthYear": 1200,
+      "deathYear": 1253,
+      "summary": "Dogen's Zen philosophy treats practice and realization as inseparable, with disciplined sitting expressing rather than merely preparing for awakening.",
+      "related": [
+        "zen-buddhism",
+        "time"
+      ],
+      "body": "Dogen rejects the picture of meditation as a technique performed now to manufacture enlightenment later. In his account of practice-realization, sitting is already the enactment of Buddha-nature, while realization does not turn practice into a dispensable preliminary. This does not make effort irrelevant: posture, attention, ethical conduct, and teacher-student transmission remain concrete disciplines.\n\nHis writings also challenge a simple opposition between language and awakening. Words can mislead when treated as fixed representations, but poetic and paradoxical language can disclose the activity of things and the limits of the conceptual habits that divide self from world. Dogen's interpretation of time in Being-Time presents existence as active and eventful rather than as a series of static moments through which an unchanged self travels. His Japanese Soto Zen was shaped by Chinese Chan sources, yet his philosophical vocabulary gives those practices a distinctive account of temporality, embodiment, and responsibility."
+    },
+    {
+      "id": "edmund-husserl",
+      "name": "Edmund Husserl",
+      "image": "edmund-husserl.jxl",
+      "birthYear": 1859,
+      "deathYear": 1938,
+      "summary": "Edmund Husserl founded phenomenology as a rigorous study of intentional experience and the structures through which things become meaningful.",
+      "related": [
+        "phenomenology",
+        "intentionality",
+        "phenomenological-description",
+        "husserlian-phenomenology"
+      ],
+      "body": "Husserl's phenomenology begins with intentionality: consciousness is always consciousness of something, whether the object is perceived, remembered, imagined, judged, or desired. The phenomenological reduction does not deny the external world; it brackets the ordinary assumption that the world is simply there in order to examine how objects are given and recognized within experience.\n\nThis method distinguishes the appearing profile of a thing from the object understood as the same thing across changing appearances. The relation between noesis and noema, and between passive synthesis and active judgment, explains how coherence is constituted without reducing meaning to a private invention. Husserl's later crisis writings argue that mathematical science can forget the lived world that supplies its practical sense. Phenomenology therefore moves between first-person description and an account of shared objectivity, a tension that later thinkers reworked rather than simply resolved."
+    },
+    {
+      "id": "emmanuel-levinas",
+      "name": "Emmanuel Levinas",
+      "image": "emmanuel-levinas.jxl",
+      "birthYear": 1906,
+      "deathYear": 1995,
+      "summary": "Emmanuel Levinas made the face-to-face encounter with another person prior to theoretical totalization and central to ethical responsibility.",
+      "related": [
+        "phenomenology",
+        "obligation",
+        "ethics"
+      ],
+      "body": "Levinas argues that ethics begins before a subject has completed a theory of the self or the world. The face of another person is not primarily an image or a bundle of qualities; it addresses me and places a demand on my freedom. Responsibility is asymmetrical because I am answerable before I can require an equal contract in return. This priority challenges philosophical models that begin with an autonomous subject and derive obligation afterward.\n\nLevinas contrasts the infinite alterity of the other with totality, the tendency to absorb difference into a system of concepts, history, or political calculation. Yet the existence of many others introduces justice: responsibility must be compared, institutions must be built, and ethical attention must enter law and politics. His language of infinity and transcendence is influenced by Jewish thought and phenomenology, but he resists treating the other as an object that philosophy can finally comprehend. The unresolved tension between singular obligation and universal justice is central to his work."
+    },
+    {
+      "id": "epictetus",
+      "name": "Epictetus",
+      "image": "epictetus.jxl",
+      "birthYear": 50,
+      "deathYear": 135,
+      "summary": "Epictetus taught Stoic freedom as disciplined judgment about what depends on us, expressed through roles, choices, and attention to present action.",
+      "related": [
+        "stoicism",
+        "agency",
+        "virtue",
+        "duty"
+      ],
+      "body": "Epictetus's opening distinction is practical rather than merely descriptive: judgments, impulses, and choices are within our agency, while wealth, reputation, bodily condition, and other people's actions are not fully ours to command. The Stoic task is to stop treating externals as the location of moral worth. This does not require passivity; it requires acting well within the circumstances actually given.\n\nHis discussions of social roles complicate the image of Stoicism as private detachment. A person may be a parent, sibling, citizen, or colleague, and each role supplies reasons for appropriate conduct. The same event can be faced differently depending on the judgment attached to it, so philosophical training involves examining impressions before assenting to them. Epictetus's school joined logical analysis to repeated exercises because freedom is a stable capacity of the will, not an opinion one can affirm while remaining governed by fear and status."
+    },
+    {
+      "id": "epicurus",
+      "name": "Epicurus",
+      "image": "epicurus.jxl",
+      "birthYear": -341,
+      "deathYear": -270,
+      "summary": "Epicurus identified happiness with stable freedom from bodily pain and mental disturbance, achieved through modest desires, friendship, and the removal of fear.",
+      "related": [
+        "epicureanism",
+        "hedonism",
+        "atomism",
+        "ethical-hedonism"
+      ],
+      "body": "Epicurus distinguishes natural and necessary desires, natural but unnecessary desires, and desires produced by empty social convention. This classification makes happiness an exercise in limiting demand rather than maximizing consumption. Once bodily pain and basic deprivation are addressed, further accumulation often creates new anxieties instead of increasing pleasure. Pleasure for Epicurus is chiefly a stable condition of well-being, not a stream of intense sensations.\n\nHis atomism supports an anti-superstitious theology: the gods, if they exist, are blessed and undisturbed, so they do not monitor human conduct or punish people through natural disasters. Death is not an experience awaiting the subject, because where we are death is not, and where death is we are not. Friendship remains essential because secure mutual trust makes the simple life possible. The tradition's apparent individualism therefore includes a deliberately organized community of shared study and care."
+    },
+    {
+      "id": "francis-bacon",
+      "name": "Francis Bacon",
+      "image": "francis-bacon.jxl",
+      "birthYear": 1561,
+      "deathYear": 1626,
+      "summary": "Francis Bacon recast natural inquiry as a cooperative, instrument-assisted practice designed to expose errors and produce useful knowledge.",
+      "related": [
+        "inductive-reasoning",
+        "scientific-method",
+        "empiricism"
+      ],
+      "body": "Bacon's method begins with obstacles to inquiry rather than with a single deductive recipe. The idols of the tribe, cave, marketplace, and theatre name systematic distortions arising from human nature, individual habits, language, and inherited doctrines. Because these errors are social as well as personal, better science requires instruments, records, collaboration, and institutions that make private prejudice easier to detect.\n\nHis inductive program does not simply collect observations and generalize. Tables of presence, absence, and degrees are meant to compare cases and eliminate candidate forms, while experiments can force nature to answer questions under controlled conditions. Bacon's phrase that knowledge is power is therefore tied to public use: inquiry should improve the conditions of life, not merely decorate a learned elite. Later science did not follow his method literally, and his account of forms differs from modern laws, but his critique of premature abstraction and his vision of organized research were historically consequential."
+    },
+    {
+      "id": "frantz-fanon",
+      "name": "Frantz Fanon",
+      "image": "frantz-fanon.jxl",
+      "birthYear": 1925,
+      "deathYear": 1961,
+      "summary": "Frantz Fanon analyzed colonialism as a material and psychological order that produces racialized subjectivity, violence, and struggles for national liberation.",
+      "related": [
+        "anti-colonialism",
+        "anti-racism",
+        "violence",
+        "decolonization"
+      ],
+      "body": "Fanon's account of colonial racism is not limited to discriminatory belief. Colonial rule organizes land, labor, law, language, and bodily space, while representing the colonized as a fixed type whose humanity is always in question. The result is psychological as well as economic: the colonized subject encounters an imposed racial meaning that can fracture self-relation and social recognition.\n\nIn The Wretched of the Earth, violence appears as both a structure of colonial domination and a dangerous instrument of decolonization. Fanon does not treat violence as morally purifying by itself; he asks how a struggle can transform a population from administered object into political agent, and he warns that national elites may inherit colonial forms without building a democratic social order. His psychiatric work also connects mental distress to institutional conditions rather than isolating it inside individual pathology. Interpretations that reduce Fanon to a theorist of violence miss his central concern with remaking social and human relations after colonial rule."
+    },
+    {
+      "id": "friedrich-nietzsche",
+      "name": "Friedrich Nietzsche",
+      "image": "friedrich-nietzsche.jxl",
+      "birthYear": 1844,
+      "deathYear": 1900,
+      "summary": "Friedrich Nietzsche used genealogy, perspectivism, and a critique of inherited morality to ask how values shape bodies, desires, and possibilities of self-formation.",
+      "related": [
+        "genealogical-critique",
+        "perspectivism",
+        "value"
+      ],
+      "body": "Nietzsche's genealogical method asks what historical struggles and forms of power made a value seem self-evident. In On the Genealogy of Morality, he contrasts aristocratic value-creation with slave revolt in values, where the weak reinterpret strength as evil and their own suffering as moral superiority. The point is not a simple historical chronology but an inquiry into the psychological functions and costs of moral concepts.\n\nPerspectivism denies that knowledge requires a view from nowhere, yet it does not make all interpretations equally good. Interpretations can be compared by their explanatory power, honesty about their conditions, and capacity to support or diminish life. Nietzsche's ideal of self-overcoming therefore differs from domination over others: it concerns the reorganization of drives and the creation of a style capable of affirming becoming. His rhetoric invites dispute about elitism, gender, and politics, and those disputes are part of the work's philosophical afterlife rather than details that can be removed from it."
+    },
+    {
+      "id": "elizabeth-anscombe",
+      "name": "G. E. M. Anscombe",
+      "image": "elizabeth-anscombe.jxl",
+      "birthYear": 1919,
+      "deathYear": 2001,
+      "summary": "G. E. M. Anscombe recast ethics around intentional action, practical reasoning, and the virtues needed for truthful agency.",
+      "related": [
+        "agency",
+        "virtue-ethics",
+        "doctrine-of-double-effect",
+        "practical-reason",
+        "consequentialism"
+      ],
+      "body": "G. E. M. Anscombe's account of action distinguishes what a person does intentionally from what merely happens while the person acts. An intention can be expressed in the answer to the question \"Why?\" under which the action is described, so the same bodily movement may belong to different actions depending on its practical reasoning. This makes agency irreducible to a sequence of physical events.\n\nIn \"Modern Moral Philosophy,\" Anscombe argues that modern talk of moral obligation retains the force of divine-law concepts after abandoning the lawgiver that made them intelligible. She therefore recommends returning to virtue, human flourishing, and the description of harmful acts rather than treating moral rules as unexplained commands. Her doctrine of double effect allows a morally relevant distinction between what an agent chooses as an end or means and what the agent foresees but does not intend, though the distinction does not excuse every foreseeable harm. Her work helped revive virtue ethics while remaining sharply opposed to consequentialist reasoning about deliberately doing wrong."
+    },
+    {
+      "id": "g-e-moore",
+      "name": "G. E. Moore",
+      "image": "g-e-moore.jxl",
+      "birthYear": 1873,
+      "deathYear": 1958,
+      "summary": "G. E. Moore defended common-sense knowledge and argued that goodness is a simple, non-natural property not reducible to other facts.",
+      "related": [
+        "ethical-non-naturalism",
+        "moore-s-paradox",
+        "epistemology",
+        "naturalistic-fallacy",
+        "ethical-intuitionism",
+        "paradox-of-analysis",
+        "argument-open-question"
+      ],
+      "body": "G. E. Moore's ethical non-naturalism begins with the claim that goodness cannot be defined by identifying it with pleasure, desire, evolution, or any other natural property. His open-question argument says that, for any proposed definition of good, it remains intelligible to ask whether the natural property is really good; this continuing question indicates that the concepts are not identical. Moore treats goodness as simple rather than as a compound that analysis can decompose.\n\nMoore's method also defends common-sense propositions such as the existence of external objects and other minds against theories that demand a proof for every ordinary belief. In \"Moore's Paradox,\" he shows the tension in asserting \"It is raining, but I do not believe it is raining\": the conjunction may be true in a description of someone else, yet its assertion is defective when made by the believer. The paradox separates truth, belief, and the conditions of sincere assertion, anticipating later work on rationality and speech."
+    },
+    {
+      "id": "georg-hegel",
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "image": "georg-hegel.jxl",
+      "birthYear": 1770,
+      "deathYear": 1831,
+      "summary": "Hegel explained freedom and knowledge as developing through contradictions that transform concepts, histories, and social institutions.",
+      "related": [
+        "german-idealism",
+        "dialectic",
+        "aesthetic-value",
+        "alienation",
+        "hegelianism",
+        "self-consciousness"
+      ],
+      "body": "Georg Wilhelm Friedrich Hegel's dialectic is not a three-step recipe in which every idea receives a predictable opposite and synthesis. It is a method of showing that a form of thought contains commitments it cannot consistently sustain, forcing a more adequate form to emerge. In the Phenomenology of Spirit, consciousness becomes self-conscious through recognition, because a self that seeks certainty of itself requires another self-conscious being rather than a merely passive object.\n\nHegel's account of freedom is therefore social and institutional. A person is not fully free by choosing arbitrarily; freedom becomes actual through practices and institutions in which rights, work, family, and civic participation make agency intelligible and stable. His philosophy of history interprets political transformations as changes in how freedom is understood, but its teleological language has invited charges of Eurocentrism and historical overconfidence. The dialectical structure remains distinct from the claim that every historical outcome is justified simply because it occurred."
+    },
+    {
+      "id": "george-berkeley",
+      "name": "George Berkeley",
+      "image": "george-berkeley.jxl",
+      "birthYear": 1685,
+      "deathYear": 1753,
+      "summary": "George Berkeley defended immaterialism by treating sensible objects as ideas perceived by minds and their order as secured by divine activity.",
+      "related": [
+        "idealism",
+        "immaterialism",
+        "perception"
+      ],
+      "body": "George Berkeley's immaterialism denies that material substance is needed as a hidden bearer of sensible qualities. What a person sees, touches, or hears is an idea presented in perception; an object such as a cherry is therefore a stable collection of ideas rather than a material thing existing behind all possible experience. Berkeley's argument targets the supposed intelligibility of matter, not the existence of ordinary tables, trees, or bodies.\n\nBerkeley distinguishes ideas, which are passive and received, from spirits, which perceive and act. Because finite minds do not continuously perceive every object, God explains the orderly availability of the world and the regular succession of ideas. This appeal is meant to preserve realism about common experience while rejecting a material substratum. His account also challenges the abstract ideas assumed by some empiricist theories: a triangle considered in thought is always a particular triangle, though it can represent triangles generally through use."
+    },
+    {
+      "id": "gilbert-ryle",
+      "name": "Gilbert Ryle",
+      "image": "gilbert-ryle.jxl",
+      "birthYear": 1900,
+      "deathYear": 1976,
+      "summary": "Gilbert Ryle diagnosed Cartesian dualism as a category mistake and explained mindedness through abilities, dispositions, and intelligent conduct.",
+      "related": [
+        "ordinary-language-philosophy",
+        "behaviorism",
+        "knowledge-how",
+        "philosophical-behaviorism"
+      ],
+      "body": "Gilbert Ryle's attack on the \"ghost in the machine\" rejects the picture of a nonphysical mind operating a physical body from inside. His category-error example asks a visitor who has seen colleges, libraries, and laboratories where the university is; the visitor has treated an organization as though it were one more building. Ryle argues that Cartesian dualism makes a parallel mistake by treating the logical grammar of mental predicates as evidence for an inner substance.\n\nTo say that someone knows how to reason or is careful is often to describe a capacity displayed across situations, not to report a private episode hidden behind behavior. Ryle's dispositional analysis does not reduce every mental distinction to visible movement; it explains how intelligence, skill, and motivation organize conduct over time. He also distinguishes knowing how from knowing that, resisting the idea that intelligent practice must always be preceded by an internal theoretical rehearsal. His ordinary-language method exposes misleading philosophical pictures by examining how concepts function."
+    },
+    {
+      "id": "gilles-deleuze",
+      "name": "Gilles Deleuze",
+      "image": "gilles-deleuze.jxl",
+      "birthYear": 1925,
+      "deathYear": 1995,
+      "summary": "Gilles Deleuze made difference, repetition, and becoming central to a philosophy of multiplicities, desire, and creative transformation.",
+      "related": [
+        "becoming",
+        "accelerationism",
+        "poststructuralism"
+      ],
+      "body": "Gilles Deleuze argues that philosophical thought should not treat identity as the primary fact from which differences are derived. In Difference and Repetition, repetition is productive rather than the recurrence of an identical item: each recurrence changes the field in which it occurs. Individuals and concepts emerge from intensive differences, relations, and processes that cannot be adequately represented as fixed categories.\n\nWith Félix Guattari, Deleuze describes desire as productive activity organized through social and material assemblages, not as a lack waiting for a missing object. Concepts such as deterritorialization name the way a practice escapes an established arrangement, while reterritorialization names its capture in a new arrangement; neither term guarantees liberation. Their critique of capitalism therefore examines how desire and institutions jointly produce subjects, habits, and value. Deleuze's resistance to hierarchy is not a denial of structure, but an insistence that structures remain multiple, revisable, and open to unforeseen connections."
+    },
+    {
+      "id": "gottfried-leibniz",
+      "name": "Gottfried Wilhelm Leibniz",
+      "image": "gottfried-leibniz.jxl",
+      "birthYear": 1646,
+      "deathYear": 1716,
+      "summary": "Leibniz joined a rationalist metaphysics of monads to modal logic, sufficient reason, and a theory of divine choice among possible worlds.",
+      "related": [
+        "principle-of-sufficient-reason",
+        "possible-world",
+        "identity-of-indiscernibles",
+        "leibniz-s-principle-of-plenitude",
+        "theodicy",
+        "argument-contingency"
+      ],
+      "body": "Gottfried Wilhelm Leibniz describes reality as composed of monads, simple centers of perception that are not spatial parts pushed together by mechanical contact. Each monad expresses the universe from its own point of view, while the pre-established harmony explains why their states correspond without direct causal exchange between substances. Bodies remain real as organized phenomena grounded in these nonextended principles.\n\nLeibniz's principle of sufficient reason says that nothing happens without a reason why it is so rather than otherwise, while the identity of indiscernibles denies two genuinely distinct things with every property in common. His modal theory distinguishes what is possible from what is actual and presents God as choosing one complete possible world. The claim that this is the best of all possible worlds does not mean that every event is locally good; it says that the total order realizes a greater balance of goods, laws, and possibilities. Critics have challenged whether this view can preserve contingency and answer the problem of evil."
+    },
+    {
+      "id": "gottlob-frege",
+      "name": "Gottlob Frege",
+      "image": "gottlob-frege.jxl",
+      "birthYear": 1848,
+      "deathYear": 1925,
+      "summary": "Gottlob Frege founded modern predicate logic and distinguished a term's mode of presentation from the object to which it refers.",
+      "related": [
+        "analytic-philosophy",
+        "logicism",
+        "sense-and-reference",
+        "abstract-object",
+        "analyticsynthetic-distinction",
+        "first-order-logic",
+        "second-order-logic",
+        "compositionality",
+        "universal-quantification",
+        "existential-quantification",
+        "universal-quantifier",
+        "existential-quantifier",
+        "argument-from-the-authority-of-reason-against-psychologism"
+      ],
+      "body": "Gottlob Frege's Begriffsschrift replaces the subject-predicate structure of ordinary grammar with a function-and-argument analysis that can represent nested quantification. This makes it possible to distinguish \"Every philosopher admires some logician\" from \"Some logician is admired by every philosopher,\" a difference that syllogistic notation obscures. Frege treats propositions as having truth values and predicates as functions from objects to truth values.\n\nHis distinction between sense and reference explains how two expressions can refer to the same object while contributing different information: \"the morning star\" and \"the evening star\" have one reference but different modes of presentation. Frege's logicist project sought to derive arithmetic from logical principles, but Russell's paradox exposed inconsistency in the system of Basic Law V. Frege's later revisions did not erase the foundational problem, yet his insistence on compositionality, quantification, and the context principle established central methods of analytic philosophy and philosophy of language."
+    },
+    {
+      "id": "hannah-arendt",
+      "name": "Hannah Arendt",
+      "image": "hannah-arendt.jxl",
+      "birthYear": 1906,
+      "deathYear": 1975,
+      "summary": "Hannah Arendt analyzed totalitarian domination and defended public action, plurality, and judgment as conditions of political freedom.",
+      "related": [
+        "totalitarianism",
+        "agency",
+        "political-representation"
+      ],
+      "body": "Hannah Arendt distinguishes labor, work, and action as different human activities. Labor sustains biological life, work builds a durable artificial world, and action occurs among plural people who disclose who they are through speech and deeds. Politics is therefore not merely administration of needs; it is the shared space in which a public world can appear and citizens can begin something new.\n\nIn The Origins of Totalitarianism, Arendt describes totalitarian rule as more than ordinary dictatorship: ideology and terror seek to make human beings superfluous by destroying independent relationships, institutions, and capacities for spontaneous action. Her report on Adolf Eichmann introduced the phrase \"banality of evil\" to describe how grave wrongdoing can be carried out by a person who fails to think from another's standpoint, not to suggest that the wrongdoing is trivial. Arendt's later work on judgment and responsibility asks how people can remain answerable when rules collapse and institutions reward conformity."
+    },
+    {
+      "id": "harriet-taylor-mill",
+      "name": "Harriet Taylor Mill",
+      "image": "harriet-taylor-mill.jxl",
+      "birthYear": 1807,
+      "deathYear": 1858,
+      "summary": "Harriet Taylor Mill argued that women’s subordination is an institutional injustice and that liberty requires education, work, and equal civil standing.",
+      "related": [
+        "feminism",
+        "liberalism",
+        "equality",
+        "harm-principle",
+        "liberal-feminism",
+        "liberty"
+      ],
+      "body": "Harriet Taylor Mill's essays treat the legal and economic dependence of women as a political arrangement rather than a natural consequence of sex. If a person is denied education, property, occupations, and an independent income, apparent differences in ability cannot show what women would achieve under equal conditions. Her defense of women's employment therefore concerns both justice and the social production of competence.\n\nTaylor Mill also analyzes marriage as a relation governed by law and custom, not simply by private affection. A marriage that gives one party authority over the other's labor and movement reproduces the same hierarchy that liberal politics condemns elsewhere. Her account of individuality connects freedom with the opportunity to develop distinct capacities instead of conforming to a prescribed feminine role. The extent of her authorship in works published with John Stuart Mill remains debated, but surviving correspondence and essays establish her intellectual contribution to arguments for equality, liberty, and reform."
+    },
+    {
+      "id": "henry-david-thoreau",
+      "name": "Henry David Thoreau",
+      "image": "henry-david-thoreau.jxl",
+      "birthYear": 1817,
+      "deathYear": 1862,
+      "summary": "Henry David Thoreau linked deliberate living and attention to nature with resistance to unjust laws and institutions.",
+      "related": [
+        "civil-disobedience",
+        "transcendentalism",
+        "environmental-ethics"
+      ],
+      "body": "Henry David Thoreau's Walden is not a manual for permanent withdrawal from society. Its experiment in living at the edge of Concord tests how much labor and consumption are required to sustain a life, and it uses close observation of seasons, animals, and work to challenge habits treated as necessities. Simplicity becomes a method of discovering which desires are imposed by custom and which are genuinely one's own.\n\nIn \"Civil Disobedience,\" Thoreau argues that conscience can require a person to refuse cooperation with an unjust government. The individual should not wait for a majority to approve resistance when the state makes the person an instrument of injustice; withholding taxes or accepting arrest can expose that complicity. His argument is not a general license for private preference, since the central case concerns slavery and the war against Mexico. Later movements drew on Thoreau's example, though their disciplined mass action differs from his more individualistic model of protest."
+    },
+    {
+      "id": "heraclitus",
+      "name": "Heraclitus",
+      "image": "heraclitus.jxl",
+      "birthYear": -540,
+      "deathYear": -480,
+      "summary": "Heraclitus described reality through ordered change, tension between opposites, and a logos that most people fail to understand.",
+      "related": [
+        "process-philosophy",
+        "dialectic",
+        "naturalism",
+        "becoming",
+        "change"
+      ],
+      "body": "Heraclitus's surviving fragments present change as structured rather than as mere disorder. The river image suggests that a river remains identifiable through the continual alteration of its waters, so identity can be a pattern maintained in transformation rather than a static substance. His claim that opposites are one points to relations in which a condition is intelligible through what it excludes or becomes, not to the erasure of every distinction.\n\nThe logos in Heraclitus is difficult to translate because it can indicate account, order, or intelligible articulation. He says that the common logos is available to all, yet people live as though they possess private understanding; the problem is a failure of attention and interpretation, not a secret doctrine reserved for initiates. His fragments criticize ritual and popular wisdom when they substitute repetition for insight. Since the ancient testimonia and quotations are partial, later systems should not treat Heraclitus as simply the prophet of universal flux or as a straightforward precursor of dialectical materialism."
+    },
+    {
+      "id": "hypatia",
+      "name": "Hypatia",
+      "image": "hypatia.jxl",
+      "birthYear": 350,
+      "deathYear": 415,
+      "summary": "Hypatia was a late-antique mathematician, astronomer, and teacher whose documented public authority is clearer than the doctrines later attributed to her.",
+      "related": [
+        "neoplatonism",
+        "philosophy-of-science"
+      ],
+      "body": "Hypatia of Alexandria taught mathematics and philosophy in a city where scientific, civic, and religious authority overlapped. Ancient testimony associates her with work on astronomical calculation and mathematical texts, but no complete work by her survives, so detailed reconstructions of her personal doctrines exceed the evidence. Her teaching belonged to the intellectual culture of late antique Neoplatonism, in which mathematical disciplines could prepare the mind for philosophical understanding.\n\nHypatia's murder in 415 was a political act carried out amid conflict involving the prefect Orestes and Bishop Cyril, not a simple allegory in which one institution mechanically destroys science. Later writers and popular histories have used her as a symbol for secular reason, women's education, or the suppression of inquiry, often simplifying the local struggle and the limits of the sources. Her historical importance lies both in her demonstrated mathematical and pedagogical authority and in the way later memory has made the evidentiary gaps themselves part of debates about religion, gender, and science."
+    },
+    {
+      "id": "ibn-khaldun",
+      "name": "Ibn Khaldun",
+      "image": "ibn-khaldun.jxl",
+      "birthYear": 1332,
+      "deathYear": 1406,
+      "summary": "Ibn Khaldun made social cohesion, economic incentives, and institutional change central to the explanation of dynasties and historical reports.",
+      "related": [
+        "historicism",
+        "causation",
+        "state"
+      ],
+      "body": "Ibn Khaldun's Muqaddimah begins historical inquiry by asking whether a reported event is compatible with the structure of society. A report about a huge army, a sudden fortune, or a ruler's behavior must be tested against population, resources, communication, and political incentives rather than accepted because an earlier historian recorded it. This methodological criticism makes historical knowledge depend on social analysis.\n\nHis concept of asabiyyah names the solidarity that allows a group to seize and organize power. Nomadic or peripheral groups may possess strong cohesion, while settled dynasties accumulate luxury, taxation, and dependence that weaken the bonds supporting their rule. Ibn Khaldun does not offer a mechanical cycle in which every state follows an identical timetable; he explains recurring pressures that interact with geography, economy, religion, and leadership. His account of taxation also links excessive extraction to declining production, showing how fiscal policy can undermine the political order it intends to sustain."
+    },
+    {
+      "id": "immanuel-kant",
+      "name": "Immanuel Kant",
+      "image": "immanuel-kant.jxl",
+      "birthYear": 1724,
+      "deathYear": 1804,
+      "summary": "Immanuel Kant argued that the mind structures possible experience and grounded morality in autonomous rational principles binding every person.",
+      "related": [
+        "transcendental-idealism",
+        "categorical-imperative",
+        "autonomy",
+        "a-posteriori-knowledge",
+        "a-priori-knowledge",
+        "aesthetic-experience",
+        "aesthetic-judgment",
+        "aesthetics",
+        "analyticsynthetic-distinction",
+        "kantianism",
+        "kantian-ethics",
+        "kants-counter-razor",
+        "sublime",
+        "perfect-duty",
+        "imperfect-duty",
+        "argument-transcendental",
+        "argument-from-human-dignity-in-kantian-ethics",
+        "argument-from-the-moral-law",
+        "argument-from-the-principle-of-humanity",
+        "argument-from-the-unity-of-consciousness",
+        "argument-from-the-wrongness-of-lying-under-a-universal-law"
+      ],
+      "body": "Immanuel Kant's transcendental idealism distinguishes appearances, which are objects as experienced under human forms of sensibility and understanding, from things in themselves, which cannot be known through theoretical experience. Space and time are forms of intuition, while categories such as causality organize judgments about events. Kant's claim is not that the world is a private invention; it is that objective experience is possible only through conditions supplied by the knower.\n\nIn ethics, the categorical imperative tests maxims rather than predicting consequences. A maxim is impermissible when universalizing it would undermine the practice it presupposes, or when it treats a rational person merely as a means instead of also as an end. Autonomy means giving oneself rational law, not doing whatever one happens to want. Kant therefore connects freedom with self-legislation and with equal respect, while his exclusionary remarks about race and gender remain serious contradictions within the universal language of his moral theory."
+    },
+    {
+      "id": "j-l-austin",
+      "name": "J. L. Austin",
+      "image": "j-l-austin.jxl",
+      "birthYear": 1911,
+      "deathYear": 1960,
+      "summary": "J. L. Austin showed how utterances can perform actions and how their success depends on conventions, circumstances, and uptake.",
+      "related": [
+        "ordinary-language-philosophy",
+        "pragmatics",
+        "analytic-philosophy",
+        "speech-act",
+        "performative-utterance"
+      ],
+      "body": "J. L. Austin's speech-act theory begins with cases in which saying something is part of doing something: promising, naming a ship, apologizing, or issuing a warning. A performative utterance succeeds only under appropriate felicity conditions, such as authority, procedure, sincerity, and proper execution. A failed promise is not simply a false description; it is an unsuccessful act with a different kind of defect.\n\nAustin distinguishes the locutionary act of producing meaningful words, the illocutionary act performed in saying them, and the perlocutionary effect produced by saying them. The distinctions are analytical rather than three separate events in every utterance. His attention to ordinary language also avoids the opposite error of treating common usage as infallible: examples reveal distinctions and exceptions that a rigid theory may miss, but they do not settle every philosophical issue. Austin's work made context, convention, intention, and hearer's uptake central to modern pragmatics."
+    },
+    {
+      "id": "derrida-jacques",
+      "name": "Jacques Derrida",
+      "image": "derrida-jacques.jxl",
+      "birthYear": 1930,
+      "deathYear": 2004,
+      "summary": "Jacques Derrida used deconstruction to show how texts rely on unstable oppositions while asking what justice demands beyond settled legal rules.",
+      "related": [
+        "deconstruction",
+        "justice",
+        "poststructuralism",
+        "forgiveness"
+      ],
+      "body": "Jacques Derrida's deconstruction is a form of close reading that traces how a text's central distinction depends on what it excludes or subordinates. Speech and writing, presence and absence, nature and culture, or literal and figurative meaning cannot remain cleanly separated once the text's own arguments are followed. Différance names the spacing and deferral through which signs acquire force in relation to other signs; it does not name a hidden substance behind language.\n\nDerrida distinguishes law from justice without treating law as irrelevant. Law consists of general rules and institutions that can be interpreted and enforced, whereas justice is an incalculable demand to respond to the singular person who cannot be fully captured by a rule. This tension explains why a just decision must apply a rule yet also exceed mechanical application. His writings on hospitality, forgiveness, and responsibility show that ethical concepts become most demanding where their conditions cannot be guaranteed in advance."
+    },
+    {
+      "id": "jean-jacques-rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "image": "jean-jacques-rousseau.jxl",
+      "birthYear": 1712,
+      "deathYear": 1778,
+      "summary": "Jean-Jacques Rousseau traced inequality to social dependence and sought legitimate political authority in collective self-rule.",
+      "related": [
+        "social-contract",
+        "equality",
+        "general-will",
+        "argument-social-contract"
+      ],
+      "body": "Jean-Jacques Rousseau distinguishes natural inequalities of strength or age from moral and political inequalities created by conventions. In the Discourse on Inequality, comparison and the desire for recognition turn self-preservation into amour-propre, a socially mediated concern with rank and esteem. Property becomes politically dangerous when it allows some people to command the labor and security of others while presenting the arrangement as legitimate.\n\nThe Social Contract seeks a form of association in which each person obeys laws they share in making. The general will is not the sum of private preferences or whatever a majority happens to want; it concerns the common conditions of freedom and must be distinguished from factional interests. Rousseau's educational theory in Emile similarly tries to protect judgment from premature dependence on social opinion. His model of popular sovereignty can resist domination, but its language of unity has also raised concerns about coercive interpretations of the common good and the exclusion of dissent."
+    },
+    {
+      "id": "sartre-jean-paul",
+      "name": "Jean-Paul Sartre",
+      "image": "sartre-jean-paul.jxl",
+      "birthYear": 1905,
+      "deathYear": 1980,
+      "summary": "Jean-Paul Sartre described consciousness as free projection within facticity and made responsibility central to existential action.",
+      "related": [
+        "existentialism",
+        "freedom",
+        "phenomenology",
+        "authenticity",
+        "nothingness",
+        "bad-faith"
+      ],
+      "body": "Jean-Paul Sartre's phenomenology treats consciousness as intentional activity that is always directed beyond itself toward a world. Because consciousness is not a fixed object with a predetermined essence, a person can take up a situation in more than one way; this is the source of existential freedom. Facticity still matters: body, past, social position, and material circumstances constrain what projects are possible, but they do not by themselves determine the meaning of a choice.\n\nBad faith is the attempt to flee this tension by pretending either to be a thing fully defined by a role or to be pure freedom untouched by circumstance. Sartre's example of the waiter who overidentifies with his role shows how performance can become self-deception. Being-for-others adds another conflict: another person's gaze can objectify me, yet my projects also depend on a shared world. Sartre later connected existential responsibility to political commitment, arguing that freedom must be evaluated within structures of oppression rather than imagined as private choice alone."
+    },
+    {
+      "id": "jeremy-bentham",
+      "name": "Jeremy Bentham",
+      "image": "jeremy-bentham.jxl",
+      "birthYear": 1748,
+      "deathYear": 1832,
+      "summary": "Jeremy Bentham made utility the measure of law and policy, evaluating institutions by the pleasure, pain, and security they produce.",
+      "related": [
+        "utilitarianism",
+        "consequentialism",
+        "animal-ethics",
+        "act-consequentialism",
+        "act-utilitarianism",
+        "hedonic-utilitarianism",
+        "costbenefit-analysis"
+      ],
+      "body": "Jeremy Bentham's utilitarianism judges an action or rule by its tendency to increase pleasure and reduce pain for everyone affected. The felicific calculus lists dimensions such as intensity, duration, certainty, propinquity, and extent; it is best understood as a disciplined reminder to compare consequences rather than as a precise numerical device. Bentham rejects privileges based on rank or tradition because each person's welfare counts in the calculation.\n\nHis legal reform projects apply this principle to punishment, prisons, codification, and democratic accountability. Punishment is itself an evil, so it requires justification by a greater preventive benefit and should be proportionate to the harm it prevents. Bentham also argued that the capacity to suffer, not rationality or language, makes animals morally considerable. Critics object that aggregation can sacrifice a minority, that pleasures are difficult to compare, and that rights may need protection even when doing so lowers total measured welfare."
+    },
+    {
+      "id": "john-dewey",
+      "name": "John Dewey",
+      "image": "john-dewey.jxl",
+      "birthYear": 1859,
+      "deathYear": 1952,
+      "summary": "John Dewey treated inquiry as experimental reconstruction of troubled situations and connected education with democratic participation.",
+      "related": [
+        "pragmatism",
+        "instrumentalism",
+        "democracy",
+        "aesthetic-experience",
+        "aesthetic-value",
+        "classical-pragmatism",
+        "argument-from-the-epistemic-case-for-democracy"
+      ],
+      "body": "John Dewey's pragmatism begins with the practical breakdowns that interrupt habitual activity. Inquiry transforms an indeterminate situation by identifying a problem, proposing hypotheses, acting on them, and observing the consequences. Knowledge is therefore not a mirror detached from practice; it is a tested instrument for reorganizing experience. A belief is warranted when the methods supporting it survive responsible inquiry, not merely because it is useful to someone in the short term.\n\nDewey's instrumentalism extends this account to ethics and politics. Values arise in the evaluation of possible consequences, and social intelligence can reconstruct institutions that frustrate human growth. Education should develop habits of inquiry and cooperation rather than train passive obedience, making the classroom a preparation for democratic association. Democracy is not only a voting procedure; it is a way of living in which those affected by a problem can communicate, revise shared aims, and participate in its resolution. Dewey's confidence in experimental reform remains vulnerable where power prevents genuine participation or distorts the evidence available to inquiry."
+    },
+    {
+      "id": "duns-scotus",
+      "name": "John Duns Scotus",
+      "image": "duns-scotus.jxl",
+      "birthYear": 1265,
+      "deathYear": 1308,
+      "summary": "John Duns Scotus developed accounts of individuation, univocal being, and contingent freedom that reshaped medieval metaphysics and theology.",
+      "related": [
+        "scholasticism",
+        "haecceity",
+        "free-will",
+        "scotism",
+        "thisness",
+        "haecceitism",
+        "voluntarism"
+      ],
+      "body": "John Duns Scotus argues that being must have a univocal concept when it is predicated of God and creatures: unless the term has a common intelligible content, reasoning from creatures to God would equivocate. Univocity does not make God and creatures the same kind of thing; it separates the content of a concept from the radically different modes in which beings exist. This distinction lets metaphysics ask questions about being without collapsing divine transcendence.\n\nScotus explains individuation through haecceity, a thisness that makes an individual this individual rather than a numerically different instance of a shared nature. His formal distinction allows aspects that are not separable things to be genuinely distinct in a thing, preserving nuanced analysis of nature, person, and attribute. In ethics and theology, his emphasis on the will's contingency protects the possibility that a free choice could have been otherwise, while still allowing rational reasons to guide it. Later debates about nominalism, freedom, and the relation of philosophy to theology were shaped by these distinctions."
+    },
+    {
+      "id": "john-locke",
+      "name": "John Locke",
+      "image": "john-locke.jxl",
+      "birthYear": 1632,
+      "deathYear": 1704,
+      "summary": "John Locke analyzed knowledge through experience and defended political legitimacy through natural rights, consent, and limited government.",
+      "related": [
+        "empiricism",
+        "personal-identity",
+        "social-contract",
+        "natural-rights",
+        "consent",
+        "classical-liberalism",
+        "property-rights"
+      ],
+      "body": "John Locke's empiricism rejects innate ideas as a source of substantive knowledge and traces the contents of the mind to sensation and reflection. The mind begins without determinate ideas, but its simple ideas can be combined, compared, and abstracted into complex concepts. Locke distinguishes primary qualities, such as shape and motion, from secondary qualities, such as color and taste, which depend more directly on how bodies affect perceivers.\n\nHis account of personal identity separates the identity of a substance from the identity of a person, which follows consciousness through memory and responsibility. In politics, people possess natural rights to life, liberty, and property before government is formed. Political authority is legitimate only through consent and remains fiduciary: rulers who violate the trust by attacking rights can be resisted. Locke's property argument appeals to labor but also introduces limits based on spoilage and leaving enough for others; later colonial and capitalist uses of the argument often ignored those constraints and his unequal treatment of indigenous peoples."
+    },
+    {
+      "id": "john-rawls",
+      "name": "John Rawls",
+      "image": "john-rawls.jxl",
+      "birthYear": 1921,
+      "deathYear": 2002,
+      "summary": "John Rawls formulated justice as fairness through impartial choice, equal basic liberties, and principles governing social and economic inequalities.",
+      "related": [
+        "original-position",
+        "veil-of-ignorance",
+        "reflective-equilibrium",
+        "justice-as-fairness",
+        "public-reason",
+        "distributive-justice",
+        "argument-social-contract",
+        "argument-veil-of-ignorance",
+        "argument-from-fair-play"
+      ],
+      "body": "John Rawls's original position asks which principles people would choose behind a veil of ignorance that hides their class, talents, gender, race, religion, and conception of the good. The device does not describe a historical contract or claim that real people are literally without knowledge; it models fairness by preventing bargaining from exploiting arbitrary social advantages. The parties choose principles for the basic structure of society, not a complete plan for every personal decision.\n\nRawls gives priority to equal basic liberties and permits inequalities only when offices are open under fair equality of opportunity and the inequalities work to the greatest benefit of the least advantaged under the difference principle. His method of reflective equilibrium moves between considered judgments, principles, and background theories until they support one another, so the theory is revisable rather than deduced from one axiom. Later Rawls distinguishes political liberalism from a comprehensive moral doctrine: citizens with different faiths and philosophies can endorse a shared political conception through public reason. Critics dispute whether the model sufficiently captures history, disability, global injustice, or structural domination."
+    },
+    {
+      "id": "john-stuart-mill",
+      "name": "John Stuart Mill",
+      "image": "john-stuart-mill.jxl",
+      "birthYear": 1806,
+      "deathYear": 1873,
+      "summary": "John Stuart Mill combined utilitarian ethics with a strong defense of individuality, open discussion, and limits on coercive social power.",
+      "related": [
+        "utilitarianism",
+        "harm-principle",
+        "freedom-of-expression",
+        "act-consequentialism",
+        "act-utilitarianism",
+        "agency",
+        "liberalism",
+        "liberal-feminism",
+        "paradox-of-hedonism",
+        "argument-other-minds",
+        "argument-from-the-harm-principle",
+        "argument-from-the-value-of-free-expression"
+      ],
+      "body": "John Stuart Mill's utilitarianism evaluates conduct by the promotion of happiness but rejects the idea that all pleasures differ only in quantity. Competent judges who have experienced both can prefer intellectual, moral, and imaginative activities even when they bring greater difficulty, so human development affects the quality of welfare. This refinement keeps utility from becoming a simple tally of agreeable sensations.\n\nIn On Liberty, Mill argues that coercion is justified to prevent harm to others, not merely to protect adults from their own imprudence or to enforce majority morality. The principle does not prohibit all regulation; public health, contracts, and protection from force can involve legitimate constraints. Mill defends free discussion because a suppressed opinion may be true, may contain part of the truth, or may keep a true belief from becoming a living understanding. His defense of individuality and women's equality makes social conformity a political danger, though the harm principle leaves difficult questions about indirect harms and unequal power."
+    },
+    {
+      "id": "joseph-raz",
+      "name": "Joseph Raz",
+      "image": "joseph-raz.jxl",
+      "birthYear": 1939,
+      "deathYear": 2022,
+      "summary": "Joseph Raz explained authority through service to reasons and defended a perfectionist liberalism centered on valuable options for autonomous lives.",
+      "related": [
+        "authority",
+        "autonomy",
+        "liberalism",
+        "legal-positivism",
+        "rule-of-law",
+        "argument-from-the-value-of-political-authority"
+      ],
+      "body": "Joseph Raz's service conception of authority holds that a directive can help a person better conform to reasons that already apply to that person. The normal justification thesis says authority is legitimate when following it makes the subject more likely to act on those reasons than trying to decide independently. This account explains why expertise can matter without making every confident command authoritative: the authority must actually improve practical conformity and remain within a justified scope.\n\nRaz's theory of autonomy differs from a bare right to choose whatever one wants. An autonomous life requires adequate options, capacities for reflection, and social conditions in which choices are not systematically blocked or degraded. His perfectionist liberalism therefore permits the state to support valuable forms of life without requiring one comprehensive ideal for everyone. The view creates a tension between respecting individual choice and judging some options as objectively valuable, and between the rule of law's formal constraints and the substantive conditions needed to make legal freedom usable."
+    },
+    {
+      "id": "judith-butler",
+      "name": "Judith Butler",
+      "image": "judith-butler.jxl",
+      "birthYear": 1956,
+      "deathYear": null,
+      "summary": "Judith Butler analyzed gender as a repeated social practice and extended that analysis to vulnerability, assembly, war, and unequal recognition.",
+      "related": [
+        "feminism",
+        "social-constructivism",
+        "poststructuralism"
+      ],
+      "body": "Judith Butler's account of gender performativity argues that gendered identity is produced through repeated acts, gestures, norms, and institutional sanctions rather than expressed from a fixed inner essence. Performativity does not mean that an individual freely invents a gender at each moment; repetition is constrained by histories and social expectations, yet every repetition can fail to reproduce the norm exactly. That instability creates openings for resistance and re-signification.\n\nButler also questions the boundary between sex as natural fact and gender as social meaning by showing how scientific and legal descriptions already classify bodies through norms. Later work shifts from identity to precarity and grievability: public institutions decide whose vulnerability is recognized, whose death counts as a loss, and whose assembly is treated as legitimate. Their criticism of stable political categories is not a rejection of collective action; it asks movements to account for exclusions produced by their own definitions. Critics debate whether performativity can explain material embodiment and how far linguistic norms determine institutional violence."
+    },
+    {
+      "id": "karl-marx",
+      "name": "Karl Marx",
+      "image": "karl-marx.jxl",
+      "birthYear": 1818,
+      "deathYear": 1883,
+      "summary": "Karl Marx criticized capitalism through commodity exchange, surplus labor, class power, and the social conditions that produce alienation.",
+      "related": [
+        "marxism",
+        "alienation",
+        "class-struggle",
+        "accelerationism",
+        "historical-materialism",
+        "class-consciousness",
+        "exploitation",
+        "communism"
+      ],
+      "body": "Karl Marx's critique of capitalism begins with the commodity, whose value appears as an exchange relation between products while hiding the social labor that makes them comparable. Labor-power itself becomes a commodity: workers sell the capacity to work, but the value produced during the working day can exceed the wage needed to reproduce that capacity. Surplus value is therefore not simply a matter of individual cheating; it is generated by the structure of wage labor and private ownership of production.\n\nAlienation describes how workers confront their activity, products, fellow workers, and human capacities as powers organized against them. Class struggle follows because capital requires accumulation and labor must negotiate the conditions of its reproduction, even when individuals on both sides act within the system's constraints. Marx's historical materialism treats law, politics, and ideas as connected to social production without reducing every belief to a simple economic reflection. His political writings aim at transforming the relations that produce exploitation, while the unfinished and internally varied character of his work makes later orthodox claims about a fixed historical timetable unwarranted."
+    },
+    {
+      "id": "karl-popper",
+      "name": "Karl Popper",
+      "image": "karl-popper.jxl",
+      "birthYear": 1902,
+      "deathYear": 1994,
+      "summary": "Karl Popper made criticism and possible refutation central to science and extended that fallibilist method to open political institutions.",
+      "related": [
+        "critical-rationalism",
+        "falsifiability",
+        "philosophy-of-science",
+        "poppers-razor",
+        "paradox-of-tolerance",
+        "demarcation-problem"
+      ],
+      "body": "Karl Popper's demarcation criterion asks whether a theory exposes itself to possible observation that would show it false. A theory that can accommodate every conceivable result gains no empirical risk from its predictions, whereas a scientific conjecture forbids some outcomes and can be tested against them. Falsifiability does not mean that one contrary observation mechanically destroys a theory, because tests also rely on instruments, background assumptions, and experimental design.\n\nPopper's critical rationalism treats knowledge as conjectural and advances through proposed solutions, criticism, and error correction rather than induction from a completed list of observations. In political philosophy, the same fallibilism favors institutions that permit peaceful criticism and removal of rulers. He contrasts piecemeal social engineering with historicist attempts to discover laws that supposedly guarantee a total social future. His criticism of Marxism and psychoanalysis as unfalsifiable has been challenged by historians of science, who note that working theories often survive anomalies while researchers repair auxiliary assumptions."
+    },
+    {
+      "id": "kwame-gyekye",
+      "name": "Kwame Gyekye",
+      "image": "kwame-gyekye.jxl",
+      "birthYear": 1939,
+      "deathYear": 2019,
+      "summary": "Kwame Gyekye reconstructed Akan ideas of personhood and community while defending the compatibility of communal obligations with individual agency.",
+      "related": [
+        "communitarianism",
+        "personhood",
+        "akan-personhood"
+      ],
+      "body": "Kwame Gyekye's work on Akan philosophy treats personhood as both socially situated and morally active. A person is formed through relations, language, obligations, and inherited practices, but this does not erase the capacity to deliberate, criticize, and choose. Gyekye therefore resists a false opposition between individualism and communalism: a community can be necessary for human development without making the individual a mere vessel of collective custom.\n\nHis reconstruction of Akan thought is philosophical rather than a claim that every tradition speaks with one timeless voice. He distinguishes critical reflection from the uncritical preservation of whatever a community has inherited, and he challenges the demand that African philosophy count only when it imitates European academic categories. In political thought, moderate communitarianism can support shared responsibility, mutual aid, and public duties while still requiring rights and institutions that protect dissenting persons. Gyekye's approach also raises a methodological issue: interpreting oral and cultural materials philosophically requires care not to turn selected concepts into an artificial system detached from their historical use."
+    },
+    {
+      "id": "kwasi-wiredu",
+      "name": "Kwasi Wiredu",
+      "image": "kwasi-wiredu.jxl",
+      "birthYear": 1931,
+      "deathYear": 2004,
+      "summary": "Kwasi Wiredu pursued conceptual decolonization by testing inherited categories against Akan meanings, democratic practice, and contemporary problems.",
+      "related": [
+        "decolonization",
+        "democracy",
+        "conceptual-analysis",
+        "akan-personhood"
+      ],
+      "body": "Kwasi Wiredu's conceptual decolonization asks philosophers to distinguish the content of a problem from the vocabulary inherited from colonial education. A translated term may look equivalent to a European concept while carrying different assumptions about personhood, truth, authority, or reality. Wiredu uses Akan philosophical resources not to replace one orthodoxy with another, but to reveal that some questions presented as universal are shaped by a particular linguistic history.\n\nHis account of consensus is not the demand that everyone already agree. Consensus can be a procedure for continued discussion in which a decision remains revisable and participants are treated as co-responsible, unlike a majoritarian vote that may permanently silence a minority. Wiredu also rejects romantic traditionalism: inherited practices must be criticized when they conflict with human freedom or better reasons. His work therefore joins linguistic analysis to political democracy, asking how institutions can draw on local concepts without treating culture as a sealed essence or treating imported modernity as the only route to rational public life."
+    },
+    {
+      "id": "laozi",
+      "name": "Laozi",
+      "image": "laozi.jxl",
+      "birthYear": -571,
+      "deathYear": -471,
+      "summary": "Laozi is the traditional author associated with the Daodejing, whose Daoist counsel favors non-coercive action, simplicity, and limits on imposed order.",
+      "related": [
+        "daoism",
+        "naturalism",
+        "virtue-of-wu-wei"
+      ],
+      "body": "Laozi is a traditional name attached to the Daodejing, but the text's composite formation and uncertain authorship make a single securely dated historical author impossible to establish. The conventional sixth-century BCE dates should therefore be read as traditional approximations, not verified biography. The Dao is presented as the generative way of things that cannot be fully captured by a fixed name, and attempts to possess it as a doctrine already distort the relation between language and reality.\n\nWu wei, often translated as non-action, does not mean passivity or refusal to do anything. It describes action that does not impose unnecessary force against the tendencies of a situation. The text's political counsel warns that excessive laws, ambition, display, and administrative interference can multiply the disorder they intend to cure. Its praise of simplicity and softness is a critique of coercive mastery, not a claim that every natural process is morally good. Later Daoist traditions developed these themes in different directions, so the Daodejing should not be treated as a complete synonym for all Daoism."
+    },
+    {
+      "id": "ludwig-wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "image": "ludwig-wittgenstein.jxl",
+      "birthYear": 1889,
+      "deathYear": 1951,
+      "summary": "Ludwig Wittgenstein moved from a picture theory of propositions to an account of meaning grounded in language use, rules, and forms of life.",
+      "related": [
+        "language-game",
+        "rule-following-problem",
+        "family-resemblance",
+        "analytic-philosophy",
+        "private-language-argument",
+        "logical-atomism",
+        "truth-table",
+        "philosophical-quietism",
+        "argument-private-language",
+        "argument-from-the-rule-following-paradox"
+      ],
+      "body": "In the Tractatus, Ludwig Wittgenstein treats a proposition as a logical picture of a possible state of affairs and argues that the limits of meaningful representation are the limits of what can be said. The work distinguishes factual propositions from ethical, logical, and metaphysical matters that cannot be stated as ordinary facts. Its closing silence is not a proof that ethics is unreal, but a warning that philosophical confusion arises when language is forced beyond its logical use.\n\nThe later Wittgenstein rejects the search for one essence common to every use of a word. Language-games include asking, ordering, measuring, joking, and describing, and their meanings depend on practices within forms of life. Rule-following is not secured by a private interpretation added to each act; a rule has a role in a public practice with criteria for correct and incorrect use. Family resemblance explains how overlapping similarities can organize a concept without one defining feature. Philosophical therapy clarifies these uses and dissolves misleading demands rather than replacing them with a new metaphysical theory."
+    },
+    {
+      "id": "mao-zedong",
+      "name": "Mao Zedong",
+      "image": "mao-zedong.jxl",
+      "birthYear": 1893,
+      "deathYear": 1976,
+      "summary": "Mao Zedong adapted Marxist strategy to revolutionary China through contradiction, peasant mobilization, and the political theory of practice, with catastrophic consequences.",
+      "related": [
+        "marxism",
+        "dialectical-materialism",
+        "maoism",
+        "contradiction"
+      ],
+      "body": "Mao Zedong's revolutionary theory treated contradiction as a feature of every process, but distinguished principal contradictions from secondary ones and antagonistic conflicts from conflicts that could be transformed through persuasion. In a predominantly agrarian society, he argued that peasants could be organized as a revolutionary force rather than waiting for an urban industrial proletariat to lead change. His account of practice makes knowledge a product of engagement, reflection, and renewed action rather than detached contemplation.\n\nThese concepts cannot be separated from the coercive institutions through which Mao applied them. The Great Leap Forward produced disastrous agricultural and industrial policies, famine, and mass death, while the Cultural Revolution destroyed education, cultural life, and personal security through political campaigns and violence. A philosophical analysis must distinguish an abstract claim about contradiction or practice from the historical consequences of concentrating authority and treating dissent as sabotage. Mao's legacy is therefore neither exhausted by condemnation of outcomes nor responsibly described by extracting useful concepts from the conditions that made their misuse systematic."
+    },
+    {
+      "id": "marcus-aurelius",
+      "name": "Marcus Aurelius",
+      "image": "marcus-aurelius.jxl",
+      "birthYear": 121,
+      "deathYear": 180,
+      "summary": "Marcus Aurelius used Stoic reflection to examine judgment, duty, impermanence, and shared membership in a human community.",
+      "related": [
+        "stoicism",
+        "duty",
+        "cosmopolitanism"
+      ],
+      "body": "Marcus Aurelius's Meditations is a set of private exercises rather than a systematic philosophical treatise. Its Stoic discipline separates what depends on one's judgment and choice from events governed by causes outside one's control. This distinction is not a denial that injury, illness, or political oppression matter; it asks what response remains available when control over the event itself is absent. Judgments about insult, loss, and status can add suffering, while disciplined attention can prevent those judgments from dictating conduct.\n\nMarcus repeatedly returns to duty because human beings are social and rational parts of a larger order. A person should perform the role of citizen, parent, or ruler without treating reputation and power as the measure of worth. Impermanence weakens attachment to fame and possession, but it also makes present obligations urgent: what can be done justly must be done while the opportunity exists. The contrast between his philosophical self-discipline and his position as emperor is historically significant, since Stoic appeals to universal human kinship did not eliminate the coercive realities of Roman imperial rule."
+    },
+    {
+      "id": "martha-nussbaum",
+      "name": "Martha Nussbaum",
+      "image": "martha-nussbaum.jxl",
+      "birthYear": 1947,
+      "deathYear": null,
+      "summary": "Martha Nussbaum's capabilities approach evaluates justice by the substantive opportunities people have to live lives of dignity and human flourishing.",
+      "related": [
+        "capabilities-approach",
+        "animal-ethics",
+        "flourishing",
+        "argument-from-the-ethics-of-care-and-dependency"
+      ],
+      "body": "Martha Nussbaum's capabilities approach asks what people are actually able to do and to be, not merely how resources or preferences are distributed. A person may possess the same formal right or income as another while lacking bodily safety, education, political voice, or the practical conditions for affiliation. The approach therefore evaluates a social arrangement by a threshold of central capabilities, including life, bodily health, practical reason, emotion, play, and control over one's political and material environment.\n\nNussbaum draws on Aristotle and the Stoics while refusing to reduce justice to one culture's preferred lifestyle. The list is intended as a political proposal for securing dignity, and citizens may pursue different conceptions of the good once the threshold is protected. Her work on emotions argues that compassion and anger contain judgments about vulnerability and value rather than being irrational disturbances to remove from public reasoning. Critics question how a universal list can avoid paternalism and how capability thresholds should be chosen democratically, but the framework makes disability, gender, animal life, and global inequality central to evaluating institutions."
+    },
+    {
+      "id": "martin-heidegger",
+      "name": "Martin Heidegger",
+      "image": "martin-heidegger.jxl",
+      "birthYear": 1889,
+      "deathYear": 1976,
+      "summary": "Martin Heidegger investigated being through situated existence, practical involvement, temporality, and the human confrontation with mortality.",
+      "related": [
+        "being",
+        "phenomenology",
+        "authenticity",
+        "hermeneutics",
+        "time"
+      ],
+      "body": "Martin Heidegger's Being and Time begins from Dasein, the being for whom its own being is an issue. Human existence is not first a detached subject that later encounters an external world; it is being-in-the-world, already involved with tools, tasks, people, and shared practices. A hammer is encountered as something for building before it is isolated as a physical object, so practical significance is more basic than theoretical inspection in ordinary activity.\n\nAnxiety can disclose that familiar meanings are not guaranteed, while being-toward-death individualizes existence by exposing the finitude no one can delegate to another. Authenticity is not a permanent private state or a rejection of society; it is a way of owning one's possibilities rather than dissolving into anonymous public expectations. Heidegger's later writing turns to language, technology, and the danger of treating all beings as standing reserve for use. His involvement with National Socialism, including his failure to offer a clear public repudiation, is essential context and complicates attempts to separate his philosophical vocabulary from political judgment."
+    },
+    {
+      "id": "mary-astell",
+      "name": "Mary Astell",
+      "image": "mary-astell.jxl",
+      "birthYear": 1666,
+      "deathYear": 1731,
+      "summary": "Mary Astell used rationalist arguments about the mind and education to expose the political construction of women's dependence.",
+      "related": [
+        "feminism",
+        "rationalism"
+      ],
+      "body": "Mary Astell argues that women possess the same rational faculties as men and therefore require education that develops judgment rather than training submission. If errors arise from limited instruction and social habit, denying women intellectual cultivation creates the very incapacity later cited to justify their subordination. Her proposal for a religious and educational community for women is a practical response to the economic and marital structures that make independence difficult.\n\nAstell's criticism of marriage asks why a woman should be expected to accept absolute authority from a husband when political thinkers reject absolute monarchy. The analogy is not a simple call to abolish every hierarchy; it exposes the inconsistency of defending consent and rational self-government in public while treating wives as naturally governed in private. Her rationalism also includes a moral discipline of examining passions and inherited opinions, so freedom requires the cultivation of reason rather than mere release from restraint. Astell's Anglican commitments and support for some social hierarchy distinguish her arguments from later egalitarian feminism, but they do not lessen the force of her critique of women's intellectual exclusion."
+    },
+    {
+      "id": "mary-wollstonecraft",
+      "name": "Mary Wollstonecraft",
+      "image": "mary-wollstonecraft.jxl",
+      "birthYear": 1759,
+      "deathYear": 1797,
+      "summary": "Mary Wollstonecraft defended women's rational and civic equality by linking education, virtue, economic independence, and freedom from domestic domination.",
+      "related": [
+        "feminism",
+        "equality",
+        "autonomy",
+        "liberal-feminism"
+      ],
+      "body": "Mary Wollstonecraft's A Vindication of the Rights of Woman argues that women are made artificially weak when education trains them to seek beauty, obedience, and male approval instead of judgment. She does not claim that reason erases bodily difference; she claims that moral agency requires opportunities to exercise reason and that social arrangements exaggerate dependence into apparent nature. Education should therefore cultivate practical virtue in both sexes, not prepare women only to please and support men.\n\nWollstonecraft connects private relations to public citizenship. A woman who lacks property, work, and legal independence cannot easily resist a husband's authority, and a man trained to expect that submission is not made virtuous by receiving it. Her defense of equality is tied to responsibility: free citizens must develop the discipline to govern themselves and contribute to a political community. She criticizes aristocratic privilege and inherited rank alongside gender hierarchy, while her language of rational virtue can understate experiences of disability, poverty, and colonial difference. The central argument remains that social institutions cannot demand moral responsibility while withholding the conditions that make responsible agency possible."
+    },
+    {
+      "id": "maurice-merleau-ponty",
+      "name": "Maurice Merleau-Ponty",
+      "image": "maurice-merleau-ponty.jxl",
+      "birthYear": 1908,
+      "deathYear": 1961,
+      "summary": "Maurice Merleau-Ponty made embodied perception the basis of a phenomenology in which bodies inhabit a meaningful and ambiguous world.",
+      "related": [
+        "phenomenology",
+        "perception",
+        "embodied-cognition"
+      ],
+      "body": "Maurice Merleau-Ponty rejects the idea that perception is the reception of inner pictures by a detached mind. The lived body is already oriented toward a world of affordances: a chair invites sitting, a path invites walking, and a tool becomes intelligible through skilled use before it is represented as an object of neutral inspection. Body schema coordinates movement without requiring a complete internal map, which is why practical bodily knowledge can exceed explicit description.\n\nThis embodied account avoids both mechanical reduction and a disembodied subject. Perception is structured, but its structures remain open to ambiguity, illness, habit, and historical change. Language is not a transparent code laid over finished thoughts; speaking can disclose and create meaning through the body's expressive activity. Merleau-Ponty's later ontology of the flesh describes perceiver and perceived as intertwined dimensions of one world, not two substances that must be connected from outside. His attention to bodily visibility and intersubjectivity also shows how social perception can make another person present while simultaneously reducing them to an object."
+    },
+    {
+      "id": "horkheimer-max",
+      "name": "Max Horkheimer",
+      "image": "horkheimer-max.jxl",
+      "birthYear": 1895,
+      "deathYear": 1973,
+      "summary": "Max Horkheimer helped found critical theory by analyzing how capitalism, instrumental reason, and culture reproduce domination.",
+      "related": [
+        "critical-theory",
+        "marxism",
+        "frankfurt-school",
+        "instrumental-rationality",
+        "administered-society",
+        "culture-industry"
+      ],
+      "body": "Max Horkheimer's critical theory joins social philosophy with an account of knowledge. In his critique of traditional theory, he argues that apparently neutral concepts can conceal the social interests and historical conditions that make them possible. Reason becomes instrumental when it is reduced to calculating efficient means while refusing to ask what ends are worth pursuing. This reduction helps explain why technical progress can coexist with exploitation and political unfreedom.\n\nWorking with the Frankfurt School, Horkheimer analyzed how monopoly capitalism, mass culture, and authoritarian tendencies stabilize obedience without relying only on overt coercion. His collaboration with Theodor Adorno in Dialectic of Enlightenment argues that domination can enter enlightenment itself when the drive to control nature becomes a model for controlling people. Horkheimer later insisted that critical theory must retain a material concern for suffering and a normative hope for a less oppressive society, even when history offers no guaranteed path to emancipation."
+    },
+    {
+      "id": "mencius",
+      "name": "Mencius",
+      "image": "mencius.jxl",
+      "birthYear": -372,
+      "deathYear": -289,
+      "summary": "Mencius argued that people possess nascent moral responses that education, institutions, and humane government must cultivate.",
+      "related": [
+        "confucianism",
+        "virtue-ethics",
+        "ethics",
+        "confucian-ren"
+      ],
+      "body": "Mencius develops Confucian ethics through the claim that human beings have beginnings of moral feeling. His image of a person spontaneously rescuing a child from a well is not a complete moral theory; it identifies compassion as an uncalculated response that can be extended through reflection and practice. He also names the sprouts of shame, deference, and moral discernment. Virtue therefore requires cultivation, because a neglected sprout can wither and a distorted environment can train desire in harmful directions.\n\nMencius rejects the idea that political order is secured by punishment alone. A ruler who governs through benevolence, equitable livelihood, and humane ritual earns genuine allegiance, while a tyrant forfeits the moral standing attached to kingship. His doctrine of the right of remonstrance gives ministers and subjects grounds to oppose a ruler who destroys the conditions of human flourishing. The view is neither simple optimism nor moral determinism: good tendencies need education, institutions, and deliberate effort to become stable virtues."
+    },
+    {
+      "id": "montaigne",
+      "name": "Michel de Montaigne",
+      "image": "montaigne.jxl",
+      "birthYear": 1533,
+      "deathYear": 1592,
+      "summary": "Michel de Montaigne used the essay to test judgment against custom, bodily experience, uncertainty, friendship, and mortality.",
+      "related": [
+        "skepticism",
+        "cultural-relativism",
+        "friendship"
+      ],
+      "body": "Montaigne's Essays treat self-examination as an experiment rather than a search for a final portrait of the self. He records shifts in mood, bodily condition, memory, and judgment to show that a person is not transparently sovereign over experience. His skepticism attacks the presumption that European custom, religious practice, or social rank automatically expresses nature. Reports of other peoples do not simply provide exotic counterexamples; they expose the provincial assumptions by which one culture condemns another.\n\nMontaigne's skepticism is practical rather than a doctrine that nothing can be known. It disciplines confidence, leaves room for ordinary judgment, and encourages toleration where certainty is unavailable. His writing on friendship, education, and death links philosophical reflection to the management of a finite life. The essay form matters because conclusions remain responsive to particular cases: judgment must be exercised, but it must also remain aware of its dependence on habit, language, and circumstance."
+    },
+    {
+      "id": "michel-foucault",
+      "name": "Michel Foucault",
+      "image": "michel-foucault.jxl",
+      "birthYear": 1926,
+      "deathYear": 1984,
+      "summary": "Michel Foucault analyzed how institutions, classificatory knowledge, and disciplinary practices produce subjects and regulate conduct.",
+      "related": [
+        "genealogical-critique",
+        "domination",
+        "self",
+        "poststructuralism",
+        "power",
+        "discourse",
+        "biopolitics",
+        "disciplinary-power"
+      ],
+      "body": "Foucault's archaeology asks how a historical period makes some statements count as knowledge while excluding others. His genealogies then trace how practices such as examination, confinement, clinical observation, and confession join knowledge to power. Power is not only a possession of the state or a prohibition imposed from above; it circulates through institutions and ordinary techniques that shape what people can do and say.\n\nDiscipline produces useful bodies by arranging space, time, surveillance, and comparison, while biopolitics governs populations through birth, health, risk, and norms. Foucault's account of the subject is therefore not that people are unreal, but that forms of selfhood are historically made within practices. His later work on ethics examines how people can constitute themselves through reflective practices of freedom. This does not promise escape from power: resistance arises within the same field of relations and must invent new ways of living rather than appeal to a completely untouched human essence."
+    },
+    {
+      "id": "maimonides",
+      "name": "Moses Maimonides",
+      "image": "maimonides.jxl",
+      "birthYear": 1138,
+      "deathYear": 1204,
+      "summary": "Moses Maimonides reconciled Jewish law with Aristotelian inquiry while defending a rigorous negative theology of divine transcendence.",
+      "related": [
+        "jewish-philosophy",
+        "aristotelianism",
+        "divine-simplicity",
+        "natural-theology"
+      ],
+      "body": "Maimonides argues that philosophical understanding and Jewish law are not rival ways of life, though they address different capacities and require careful interpretation. His Guide for the Perplexed treats many scriptural descriptions of God as figurative because attributing bodily qualities or ordinary passions to the divine compromises divine unity. Negative theology therefore says more safely what God is not than what God is: finite predicates cannot capture an infinite cause.\n\nMaimonides' account of commandments also gives law an intellectual and political function. Practices discipline desire, correct false beliefs, and organize a community capable of moral and contemplative life. He distinguishes demonstrative knowledge from persuasive or imagistic instruction, explaining why scripture can guide a broad public without making philosophical demonstration unnecessary. His legal writings systematize rabbinic materials, while his medical work reflects the same concern for ordered causes and practical care. The result is a demanding synthesis in which obedience, interpretation, and intellectual perfection remain related but not interchangeable."
+    },
+    {
+      "id": "mozi",
+      "name": "Mozi",
+      "image": "mozi.jxl",
+      "birthYear": -470,
+      "deathYear": -391,
+      "summary": "Mozi criticized inherited hierarchy and costly ritual, defending impartial concern, frugality, and policies measured by their effects on people.",
+      "related": [
+        "mohism",
+        "impartiality",
+        "consequentialism"
+      ],
+      "body": "Mozi's doctrine of impartial concern challenges the partiality that makes people value their own family or state while treating outsiders as disposable. He does not require identical affection for everyone; he argues for norms and conduct that give comparable protection to others' lives and resources. Because conflict often begins with selective standards, impartiality is presented as a remedy for aggression, theft, and political favoritism.\n\nMohist argument also evaluates institutions by identifiable benefits: preservation of life, material sufficiency, social order, and competent administration. Mozi attacks elaborate funerals and court music when their cost deprives ordinary people of food or labor, while defending practices that promote coordination and public welfare. His appeals to objective standards, tradition, and the will of Heaven are combined with practical tests of consequences. The Mohist school further developed techniques of disputation and analysis, making Mozi an important early critic of status-based authority and an advocate of disciplined public reasoning."
+    },
+    {
+      "id": "nagarjuna",
+      "name": "Nagarjuna",
+      "image": "nagarjuna.jxl",
+      "birthYear": 150,
+      "deathYear": 250,
+      "summary": "Nagarjuna used Madhyamaka analysis to show that things lack intrinsic nature and that emptiness is inseparable from dependent arising.",
+      "related": [
+        "madhyamaka",
+        "buddhist-emptiness",
+        "buddhist-dependent-origination"
+      ],
+      "body": "Nagarjuna's central target is svabhava, the idea that a thing exists through an independent nature that makes it what it is without dependence on causes, parts, conditions, or conceptual designation. His analysis of causation asks whether an effect arises from itself, from another, from both, or without a cause; none of these options can explain origination as an intrinsically grounded relation. The conclusion is not that nothing appears, but that appearances do not possess the self-sufficient essence we project onto them.\n\nMadhyamaka therefore distinguishes conventional truth from ultimate truth without turning them into two separate worlds. Language, persons, ethical actions, and suffering function conventionally because they arise dependently; they are empty precisely in that dependent way. Nagarjuna warns that emptiness itself must not become a new substance or dogma. Its practical force is the loosening of attachment to fixed views, which makes compassion and liberation possible without requiring a metaphysical foundation outside dependent life."
+    },
+    {
+      "id": "machiavelli",
+      "name": "Niccolò Machiavelli",
+      "image": "machiavelli.jxl",
+      "birthYear": 1469,
+      "deathYear": 1527,
+      "summary": "Niccolò Machiavelli analyzed political rule through conflict, institutional design, military power, and the unstable relation between appearance and necessity.",
+      "related": [
+        "republicanism",
+        "state",
+        "republican-liberty",
+        "power"
+      ],
+      "body": "Machiavelli's political realism begins from the fact that rulers and citizens have competing desires, not from an assumption that a city can be built by moral harmony alone. A prince must understand necessity, fortune, reputation, and the means by which power is acquired and preserved. Cruelty, deception, or force can sometimes secure order, but their political value depends on timing, limitation, and whether they prevent wider disorder. The point is not that every successful act is morally admirable.\n\nIn the Discourses, Machiavelli gives greater weight to republican institutions, civic conflict, and citizen arms. Conflict between social orders can preserve liberty when institutions give it a productive form, whereas a powerless populace becomes vulnerable to domination. His notorious contrast between appearing virtuous and acting effectively exposes the gap between private morality and public office, but it does not erase the danger of corruption. Political judgment must track consequences under changing conditions rather than apply a single moral formula to every regime."
+    },
+    {
+      "id": "parmenides",
+      "name": "Parmenides",
+      "image": "parmenides.jxl",
+      "birthYear": -515,
+      "deathYear": -450,
+      "summary": "Parmenides argued that genuine thought concerns what is and used this claim to challenge ordinary explanations of change and plurality.",
+      "related": [
+        "being",
+        "appearance-and-reality",
+        "metaphysics",
+        "eleatic-philosophy",
+        "change"
+      ],
+      "body": "Parmenides' poem contrasts the way of truth with the opinions through which mortals describe birth, death, plurality, and change. The argument begins from the difficulty of thinking or speaking of what is not: non-being cannot be grasped as an object of thought, yet coming-to-be would require something to arise from what is not. From this, Parmenides describes what is as ungenerated, imperishable, undivided, and complete. The argument is directed at intelligibility, not merely at what the senses happen to report.\n\nThe poem's second part presents a cosmology of mortal opinion, showing that Parmenides does not simply stop after denying ordinary appearances. Later philosophers had to explain how a world of change could be spoken of without violating his demand that thought have an intelligible object. Atomists, Plato, and Aristotle all respond in different ways to this challenge. Parmenides therefore matters less as a crude denier of experience than as the source of a problem about the logical conditions under which change, difference, and negation can be understood."
+    },
+    {
+      "id": "paul-feyerabend",
+      "name": "Paul Feyerabend",
+      "image": "paul-feyerabend.jxl",
+      "birthYear": 1924,
+      "deathYear": 1994,
+      "summary": "Paul Feyerabend challenged universal scientific method and argued that historical inquiry reveals productive pluralism and rule-breaking.",
+      "related": [
+        "philosophy-of-science",
+        "scientific-realism",
+        "methodological-anarchism"
+      ],
+      "body": "Feyerabend's methodological anarchism attacks the idea that one fixed set of rules explains every successful episode in science. Historical cases, especially Galileo's work, suggest that advances can require violating accepted standards, using suggestive rhetoric, preserving apparently refuted alternatives, or importing resources from other traditions. His slogan that anything goes is not a recommendation that evidence and criticism be abandoned; it is a warning against turning one historically successful strategy into a universal law.\n\nFeyerabend also criticizes the authority of science when it becomes a social institution insulated from democratic judgment. Scientific expertise is powerful and often valuable, but its political role should not automatically displace local knowledge, competing practices, or citizens' right to assess risks. His pluralism is controversial because an unrestricted proliferation of methods may seem unable to distinguish inquiry from propaganda. The strongest reading treats him as defending epistemic freedom and historical sensitivity while demanding that scientific authority remain contestable rather than sacred."
+    },
+    {
+      "id": "paulin-hountondji",
+      "name": "Paulin Hountondji",
+      "image": "paulin-hountondji.jxl",
+      "birthYear": 1942,
+      "deathYear": 2024,
+      "summary": "Paulin Hountondji criticized ethnophilosophy and defended African philosophy as critical, authored, and historically accountable inquiry.",
+      "related": [
+        "decolonization",
+        "postcolonialism",
+        "ethnophilosophy"
+      ],
+      "body": "Hountondji's critique of ethnophilosophy targets the presentation of an assumed collective worldview as though it were the philosophy of an entire people. A culture can contain concepts, proverbs, and intellectual practices without those materials constituting a single consensual system. Treating them as timeless collective wisdom can silence disagreement and make African thought appear incapable of individual argument or theoretical revision.\n\nFor Hountondji, philosophy is a critical activity carried by identifiable thinkers who publish, dispute, and answer objections. This does not mean African philosophy must imitate European academic institutions or sever itself from oral and communal traditions. It means that claims should be open to interrogation and historical reconstruction rather than protected by appeals to cultural authenticity. His project of intellectual decolonization therefore concerns the conditions under which knowledge is produced and circulated, including the unequal academic structures that make African work dependent on foreign recognition. It combines anti-exoticism with a positive demand for autonomous scholarly debate."
+    },
+    {
+      "id": "peter-singer",
+      "name": "Peter Singer",
+      "image": "peter-singer.jxl",
+      "birthYear": 1946,
+      "deathYear": null,
+      "summary": "Peter Singer applies impartial consequentialism to animal suffering, global poverty, and the responsibilities created by preventable harm.",
+      "related": [
+        "animal-ethics",
+        "utilitarianism",
+        "drowning-child",
+        "agent-neutral-reasons",
+        "altruism",
+        "speciesism",
+        "preference-utilitarianism",
+        "effective-altruism",
+        "argument-singer-pond",
+        "argument-from-the-demandingness-objection",
+        "argument-from-the-principle-of-marginal-cases"
+      ],
+      "body": "Singer's animal ethics rejects species membership as a sufficient reason to discount suffering. If a being can suffer, its suffering must enter moral deliberation, even when its interests differ from a human's. The argument does not require identical treatment: equal consideration can support different practices where capacities and needs differ. His critique of speciesism challenges factory farming, experimentation, and habits that treat sentience as morally invisible.\n\nThe drowning-child case extends this impartial reasoning to global poverty. If a person can prevent serious harm at modest cost without sacrificing anything comparably important, physical distance and the presence of many other potential helpers do not by themselves remove the obligation. Singer's demanding conclusion is disputed by those who emphasize special relationships, justice, demandingness, or the institutional causes of poverty. His work remains consequentialist rather than merely charitable: the question is how resources and actions affect suffering, flourishing, and the equal moral significance of affected beings."
+    },
+    {
+      "id": "philip-pettit",
+      "name": "Philip Pettit",
+      "image": "philip-pettit.jxl",
+      "birthYear": 1945,
+      "deathYear": null,
+      "summary": "Philip Pettit defines republican freedom as non-domination and links it to contestable laws, civic standing, and control of arbitrary power.",
+      "related": [
+        "republicanism",
+        "freedom",
+        "republican-liberty",
+        "domination"
+      ],
+      "body": "Pettit's republican account distinguishes freedom from mere non-interference. A person can be dominated even when a powerful master happens not to interfere, because the person's options depend on an unchecked and arbitrary will. Conversely, lawful interference need not be domination if it is non-arbitrary, publicly justified, and responsive to the interests of those subject to it. Freedom therefore concerns a person's status and security, not only the number of actual obstacles encountered.\n\nRepublican institutions must make power contestable. Citizens need legal protections, independent courts, representative mechanisms, and channels through which they can challenge decisions that affect them. Pettit treats civic equality as part of freedom because arbitrary power often operates through social dependence and unequal standing, not only through government commands. His view differs from both laissez-faire liberalism and a perfectionist demand that officials impose one ideal life: public power is legitimate when it is constrained by common norms and answerable to those it governs."
+    },
+    {
+      "id": "plato",
+      "name": "Plato",
+      "image": "plato.jxl",
+      "birthYear": -428,
+      "deathYear": -348,
+      "summary": "Plato used dialogical arguments to examine knowledge, justice, the soul, education, and the relation between changing appearances and intelligible forms.",
+      "related": [
+        "platonism",
+        "ring-of-gyges",
+        "socrates",
+        "aristotle",
+        "abstract-object",
+        "meno-s-paradox",
+        "euthyphro-dilemma",
+        "mimesis",
+        "argument-third-man",
+        "argument-from-religious-disagreement-euthyphro-dilemma"
+      ],
+      "body": "Plato's dialogues do not present one simple doctrine, but they repeatedly test whether ordinary beliefs survive questioning. In the Socratic dialogues, the elenchus exposes confidence without knowledge by asking interlocutors to explain the definitions they use. In the Republic, education turns the soul away from images and unstable opinion toward intelligible order, culminating in the Form of the Good as the condition of knowing and acting well. The theory of Forms is not merely a second list of objects; it addresses how changing things can be understood as instances of stable intelligibility.\n\nPlato's political philosophy links justice in the city to psychic order, while the philosopher-ruler raises the problem of whether knowledge can legitimately authorize rule. His myths and dramatic voices prevent the reader from treating every speech as a final proposition. The dialogues also explore erotic ascent, recollection, mathematics, rhetoric, and the limits of writing. Plato's influence lies in this combination of metaphysical ambition and dialectical testing: philosophical education must transform the questioner, not just supply a collection of answers."
+    },
+    {
+      "id": "plotinus",
+      "name": "Plotinus",
+      "image": "plotinus.jxl",
+      "birthYear": 204,
+      "deathYear": 270,
+      "summary": "Plotinus developed Neoplatonism as a hierarchical account in which the One gives rise to Intellect, Soul, and the sensible world.",
+      "related": [
+        "neoplatonism",
+        "platonism",
+        "transcendence"
+      ],
+      "body": "Plotinus begins with the problem of explaining unity without reducing reality to a collection of independent things. The One is beyond ordinary predicates and even beyond being in the familiar sense; it is the source from which Intellect proceeds. Intellect contains the intelligible forms and knows itself in a unified act, while Soul mediates between intelligible order and the changing sensible world. Plotinus' language of emanation is not a temporal event or a physical emission, but an attempt to describe dependence without making the source diminished by what depends on it.\n\nThe soul's predicament is not that embodiment creates an evil substance opposed to the One. Disorder arises when attention becomes absorbed in the lower and forgets its intelligible origin. Contemplation, virtue, and intellectual conversion turn the soul inward and upward, culminating in union that exceeds discursive knowledge. Plotinus therefore combines metaphysical hierarchy with a spiritual psychology. His account shaped later Christian, Islamic, and Renaissance Platonism while provoking disputes about whether transcendence can be described without silently reintroducing determinate properties."
+    },
+    {
+      "id": "pyrrho",
+      "name": "Pyrrho of Elis",
+      "image": "pyrrho.jxl",
+      "birthYear": -360,
+      "deathYear": -270,
+      "summary": "Pyrrho of Elis is associated with a skeptical practice that suspends assent when competing appearances and arguments cannot be decisively ranked.",
+      "related": [
+        "pyrrhonism",
+        "skepticism",
+        "epistemic-humility"
+      ],
+      "body": "Pyrrhonian skepticism is best understood as a practice of inquiry rather than a doctrine that nothing is true. When arguments and appearances of comparable force oppose one another, the skeptic withholds assent about how things are by nature. Sextus Empiricus later reports that this suspension can bring ataraxia, not because the skeptic proves that uncertainty is always best, but because the struggle to secure dogmatic certainty is interrupted.\n\nThe skeptic still lives and acts. Ordinary appearances, bodily needs, customs, laws, and learned skills guide conduct without being elevated into final metaphysical truths. This distinction between following what appears and asserting its ultimate nature protects the practice from the charge that skepticism makes action impossible. The historical evidence about Pyrrho himself is sparse, so later reports should not be treated as a verbatim system. His importance lies in the model of an inquiry that continues by opposing arguments while refusing to convert unresolved conflict into a settled worldview."
+    },
+    {
+      "id": "ramanuja",
+      "name": "Ramanuja",
+      "image": "ramanuja.jxl",
+      "birthYear": 1017,
+      "deathYear": 1137,
+      "summary": "Ramanuja developed Vishishtadvaita, a qualified non-dualism in which Brahman is supreme and selves and world are real dependent modes.",
+      "related": [
+        "vedanta",
+        "theism",
+        "nondualism",
+        "brahman",
+        "atman"
+      ],
+      "body": "Ramanuja rejects the claim that the world and individual selves are merely appearances produced by ignorance. Brahman is one, but that unity is qualified by real plurality: selves and matter are related to Brahman as a body is related to its indwelling self. They depend completely on the divine without being identical to it. This model lets Ramanuja affirm both divine unity and the reality of moral agency, difference, and devotion.\n\nLiberation is not the absorption of a false individual into an undifferentiated absolute. It is a transformation of the self's relation to Brahman, achieved through knowledge, disciplined action, and especially loving devotion. Ramanuja's interpretation of the Upanishads and Brahma Sutra opposes Advaita readings that make attributeless Brahman ultimate and ordinary distinctions provisional. His theology also gives ethical and ritual life a positive role: the world is not simply an obstacle to be negated, but a dependent order in which devotion and responsibility can be enacted."
+    },
+    {
+      "id": "rene-descartes",
+      "name": "René Descartes",
+      "image": "rene-descartes.jxl",
+      "birthYear": 1596,
+      "deathYear": 1650,
+      "summary": "René Descartes used methodological doubt, the cogito, and rationalist reconstruction to seek secure foundations for knowledge.",
+      "related": [
+        "methodological-skepticism",
+        "cartesian-dualism",
+        "rationalism",
+        "a-priori-knowledge",
+        "cartesianism",
+        "mindbody-problem",
+        "substance-dualism",
+        "argument-cogito",
+        "argument-dream-skepticism",
+        "argument-from-skeptical-scenarios-and-closure"
+      ],
+      "body": "Descartes' method suspends beliefs that could be mistaken, including sensory judgments, inherited opinions, and even apparently simple calculations under the hypothesis of a deceiving power. The cogito is not a syllogistic inference from a premise about thinking; the act of doubting or affirming makes the thinker's existence evident as it occurs. Descartes then argues that clear and distinct ideas, together with a non-deceiving God, can restore confidence in some judgments.\n\nHis account distinguishes thinking substance from extended substance, creating the mind-body problem that later philosophy must address. Mind is characterized by thought, while body is understood through geometrical extension and motion, but embodied human life still raises questions about sensation, imagination, and causal interaction. Descartes' rationalism does not deny experience; it assigns experience a role within a structure whose deepest certainty comes from intellectual inspection. Critics challenge the proof of God, the transition from private certainty to an external world, and the adequacy of treating conscious life as a substance with thought as its defining attribute."
+    },
+    {
+      "id": "robert-nozick",
+      "name": "Robert Nozick",
+      "image": "robert-nozick.jxl",
+      "birthYear": 1938,
+      "deathYear": 2002,
+      "summary": "Robert Nozick defended individual rights and an entitlement theory in which just acquisition, transfer, and rectification determine holdings.",
+      "related": [
+        "rights",
+        "experience-machine",
+        "libertarianism-in-politics",
+        "minarchism",
+        "property-rights",
+        "argument-experience-machine",
+        "argument-utility-monster",
+        "argument-from-the-wilt-chamberlain-case"
+      ],
+      "body": "Nozick's libertarianism begins with side constraints: persons may not be used as means for producing a preferred social pattern. A distribution is just when it arises through legitimate acquisition, voluntary transfer, and correction of past injustice. The argument against patterned principles is that voluntary exchanges continually disrupt any desired pattern, so preserving the pattern would require repeated interference with people's choices. The famous Wilt Chamberlain example makes this point by imagining payments that change an initially equal distribution.\n\nNozick's minimal state protects against force, theft, and fraud but does not pursue distributive equality as an independent goal. This leaves the theory exposed to the historical problem of unjust acquisition and to questions about whether contract under severe inequality is genuinely voluntary. In Anarchy, State, and Utopia, the experience machine also challenges hedonistic theories by asking whether people want to do and be certain things, not merely have pleasant experiences. Nozick's later work became more exploratory, but the rights-based structure remains his distinctive contribution to political philosophy."
+    },
+    {
+      "id": "rudolf-carnap",
+      "name": "Rudolf Carnap",
+      "image": "rudolf-carnap.jxl",
+      "birthYear": 1891,
+      "deathYear": 1970,
+      "summary": "Rudolf Carnap used logical reconstruction, semantic frameworks, and confirmation theory to clarify scientific and metaphysical disputes.",
+      "related": [
+        "logical-positivism",
+        "analytic-philosophy",
+        "philosophy-of-science",
+        "verificationism",
+        "logical-empiricism",
+        "confirmation",
+        "conventionalism"
+      ],
+      "body": "Carnap's logical empiricism treats many philosophical disputes as problems of language and framework choice. Within a linguistic framework, questions about whether a particular object exists can be answered by the rules and evidence of that framework. External questions about adopting the framework are instead practical or methodological decisions, not hidden discoveries about a realm of entities beyond all possible criteria. This distinction does not make framework choice arbitrary; simplicity, fruitfulness, and usefulness can guide it.\n\nCarnap's work on the logical syntax of language and the Aufbau seeks rational reconstruction: complex scientific statements should be related to formal structures and testable descriptions. His later work on induction and confirmation treats degrees of support rather than a simple verification certificate. Carnap opposed metaphysics when it presented framework-dependent or pseudo-syntactic disputes as factual assertions, but he also recognized that formal languages are tools selected for purposes. Quine's criticism of analyticity and the limits of reductionism challenged this program, yet Carnap's standards of clarity, tolerance, and explicit construction remain central to analytic philosophy of science."
+    },
+    {
+      "id": "ruth-barcan-marcus",
+      "name": "Ruth Barcan Marcus",
+      "image": "ruth-barcan-marcus.jxl",
+      "birthYear": 1921,
+      "deathYear": 2012,
+      "summary": "Ruth Barcan Marcus advanced quantified modal logic and defended essentialist and moral claims against influential anti-essentialist arguments.",
+      "related": [
+        "essentialism",
+        "moral-realism",
+        "analytic-philosophy",
+        "identity",
+        "metaphysical-necessity"
+      ],
+      "body": "Marcus' formal work extended modal logic to quantified expressions, making it possible to reason about what objects have or lack properties across possible circumstances. Her systems helped clarify the interaction between quantifiers and necessity and contributed to the semantics later used in debates about identity and essential properties. The formal question is not simply whether a sentence is necessary, but how reference to an object behaves when the circumstances under consideration vary.\n\nHer philosophical writing defended a modest essentialism: some properties can belong to an object necessarily without requiring that every way of identifying the object be rigid or that all knowledge of its essence be available to us. In ethics, Marcus argued for moral objectivity and criticized the idea that moral judgment must be reduced to preference or convention. Her work also addresses moral responsibility and the limits of moral relativism. The combination of technical logic and substantive philosophy made her an important challenge to the assumption that modal reasoning is either purely formal or inherently metaphysically suspect."
+    },
+    {
+      "id": "seneca",
+      "name": "Seneca",
+      "image": "seneca.jxl",
+      "birthYear": -4,
+      "deathYear": 65,
+      "summary": "Seneca developed Roman Stoic reflections on emotion, mortality, wealth, friendship, and moral progress under political pressure.",
+      "related": [
+        "stoicism",
+        "friendship"
+      ],
+      "body": "Seneca's Stoicism distinguishes what lies within a person's control from external events whose value cannot be secured by desire. Anger, grief, fear, and ambition are not treated as unavoidable substances in the soul; they are judgments and impulses that can be examined, redirected, and moderated. The wise person aims at virtue, but Seneca emphasizes progress, recognizing that moral improvement occurs through repeated exercises rather than a single conversion.\n\nHis letters connect this discipline to concrete problems: how to use wealth without becoming its servant, how to prepare for death without despising life, and how to preserve friendship amid unequal power. Seneca's service to Nero creates a persistent tension between Stoic counsel and compromised political action. That tension is philosophically useful because Stoicism must answer not only how an isolated individual remains calm, but how a person judges withdrawal, resistance, compromise, and responsibility in an unjust court. His writing turns doctrine into a practice of self-scrutiny rather than a promise of emotional invulnerability."
+    },
+    {
+      "id": "sextus-empiricus",
+      "name": "Sextus Empiricus",
+      "image": "sextus-empiricus.jxl",
+      "birthYear": 160,
+      "deathYear": 210,
+      "summary": "Sextus Empiricus presents Pyrrhonian skepticism as an ongoing practice of opposing dogmatic claims and suspending assent.",
+      "related": [
+        "pyrrhonism",
+        "skepticism",
+        "epistemic-humility",
+        "agrippa-s-trilemma",
+        "problem-of-the-criterion"
+      ],
+      "body": "Sextus Empiricus organizes Pyrrhonian skepticism around the ability to set arguments and appearances against one another. The skeptic does not assert that every claim is false; he reports how things appear and investigates whether a dogmatic account can establish their hidden nature. The modes associated with conflict, regress, hypothesis, and relativity expose recurring ways in which justification fails to reach an uncontroversial foundation.\n\nSextus distinguishes the skeptic from both the dogmatist who claims to have discovered truth and the academic who asserts that truth cannot be found. Suspension is a response to equipollence, not a conclusion that settles the matter in advance. Practical life continues through appearances, affective needs, customs, and skills, while metaphysical assent is withheld. His surviving works preserve detailed criticisms of logic, physics, and ethics, but their aim is therapeutic as well as argumentative: once the demand for dogmatic certainty is relaxed, inquiry can proceed without pretending that unresolved disagreement has disappeared."
+    },
+    {
+      "id": "simone-de-beauvoir",
+      "name": "Simone de Beauvoir",
+      "image": "simone-de-beauvoir.jxl",
+      "birthYear": 1908,
+      "deathYear": 1986,
+      "summary": "Simone de Beauvoir analyzed how social conditions make woman into the Other and linked freedom to concrete, shared possibilities.",
+      "related": [
+        "existentialism",
+        "feminism",
+        "freedom"
+      ],
+      "body": "Beauvoir's claim that one is not born but becomes a woman describes a process of social formation, not a denial of bodily difference. Institutions, myths, education, sexuality, labor, and domestic expectations place women in the position of the Other while presenting that position as natural. Her existentialism treats human beings as both situated bodies and projects who must act within conditions they did not choose. Oppression narrows the future possibilities through which freedom can be lived.\n\nBeauvoir rejects both abstract individualism and a politics that treats women as a single undifferentiated essence. Liberation requires material changes, reciprocal recognition, and the transformation of relationships in which one freedom depends on another's subordination. Her ethics of ambiguity holds that freedom is not a private license to choose anything; it is realized by willing the freedom of others and accepting responsibility for the world one's projects create. The account remains contested over its treatment of embodiment and the variety of women's experiences, but it made social hierarchy central to existential ethics."
+    },
+    {
+      "id": "simone-weil",
+      "name": "Simone Weil",
+      "image": "simone-weil.jxl",
+      "birthYear": 1909,
+      "deathYear": 1943,
+      "summary": "Simone Weil connected attention, affliction, labor, and obligation in a moral philosophy that treats truthful perception of another's suffering as a form of justice.",
+      "body": "Simone Weil's concept of attention is an ethical discipline of waiting without prematurely filling another person's reality with one's own categories. Affliction is more than pain: it is suffering joined to social degradation, exhaustion, and the loss of agency, so an observer who offers abstract sympathy without perceiving those conditions may deepen the injury. Attention therefore has epistemic and moral force at once.\n\nWeil's writings on factory work criticize production systems that reduce workers to timed movements and external commands. She does not romanticize labor; she asks what institutional arrangements would let work preserve intelligence, responsibility, and rootedness in a community. Her political reflections on obligations place duties to persons before claims based on abstract rights, while her religious thought seeks a form of decreation in which the ego relinquishes the demand to occupy the center. Her unfinished notebooks and posthumously published essays leave tensions between political commitment, spiritual detachment, and the demands of earthly justice that resist reduction to one settled system.",
+      "related": [
+        "attention",
+        "obligation",
+        "ethics",
+        "mysticism"
+      ]
+    },
+    {
+      "id": "socrates",
+      "name": "Socrates",
+      "image": "socrates.jxl",
+      "birthYear": -470,
+      "deathYear": -399,
+      "summary": "Socrates made examined questioning, intellectual humility, and the care of the soul central to philosophical life.",
+      "related": [
+        "socratic-questioning",
+        "virtue-ethics",
+        "plato",
+        "euthyphro-dilemma",
+        "meno-s-paradox",
+        "akrasia"
+      ],
+      "body": "Socrates is known through conflicting sources rather than through writings of his own, so any account must distinguish the historical figure from the literary Socrates of Plato, Xenophon, and Aristophanes. The Socratic method typically begins with a confident claim about courage, piety, justice, or knowledge and tests whether the speaker can explain it consistently. The elenchus often ends in aporia, but this is not mere conversational defeat: recognizing ignorance can release inquiry from the authority of an unexamined opinion.\n\nSocrates connects knowledge with ethical transformation. His claim that no one willingly does wrong and his insistence that wrongdoing damages the soul make moral error a problem of understanding and character, not only of rule-breaking. The Apology presents philosophy as a public vocation of examining himself and others, while the Crito tests whether loyalty to law can survive an unjust verdict. Socrates' importance lies in treating argument, self-knowledge, and civic responsibility as one practice, even though later philosophers dispute whether his intellectualism can explain akrasia and deliberate wrongdoing."
+    },
+    {
+      "id": "sri-aurobindo",
+      "name": "Sri Aurobindo",
+      "image": "sri-aurobindo.jxl",
+      "birthYear": 1872,
+      "deathYear": 1950,
+      "summary": "Sri Aurobindo joined Vedantic metaphysics, evolutionary transformation, yoga, and anti-colonial politics in a theory of spiritual development.",
+      "related": [
+        "vedanta",
+        "anti-colonialism",
+        "neo-vedanta"
+      ],
+      "body": "Sri Aurobindo's integral philosophy treats consciousness as capable of progressive transformation rather than as a reality from which the world must be withdrawn. Matter, life, mind, and higher forms of awareness belong to an evolutionary movement whose deepest source is spiritual. The supramental is not merely a more powerful individual intellect; it names a possible mode in which knowledge, action, and being are integrated rather than divided by ignorance.\n\nThis metaphysics shapes his account of yoga. Spiritual practice should not simply escape social and material life but transform the instruments through which life is lived. Aurobindo's early anti-colonial politics likewise linked national self-rule to the recovery of collective agency, though his later work moved toward a more explicitly global spiritual horizon. His synthesis should not be collapsed into standard Advaita, because he treats the manifestation of the world and the development of persons as positively significant. Critics question its speculative history and teleology, especially the claim that evolution has a determinate spiritual direction."
+    },
+    {
+      "id": "susan-neiman",
+      "name": "Susan Neiman",
+      "image": "susan-neiman.jxl",
+      "birthYear": 1955,
+      "deathYear": null,
+      "summary": "Susan Neiman treats the problem of evil as a test of whether moral reason can make the world intelligible without excusing suffering.",
+      "related": [
+        "problem-of-evil",
+        "moral-realism"
+      ],
+      "body": "Neiman's treatment of evil distinguishes natural catastrophe, deliberate wrongdoing, and the forms of injustice that make a world appear morally unintelligible. The problem is not only whether God can be reconciled with suffering; it is whether human beings can inhabit a world in which events seem to defeat the connection between what people deserve and what happens to them. Philosophical responses therefore reveal competing ideas of reason, responsibility, and moral progress.\n\nDrawing on Leibniz, Rousseau, Kant, and Arendt, Neiman argues that attempts to justify every event can become morally dangerous when they turn victims' suffering into evidence of a hidden plan. A mature response preserves the demand for intelligibility while refusing consolation that erases wrong. Her critical moral realism treats justice as more than a projection of preference, but it does not promise that history will deliver final reconciliation. The task is to judge institutions and actions, resist normalization of cruelty, and sustain hope as a practical commitment rather than a prediction that evil has already been explained."
+    },
+    {
+      "id": "soren-kierkegaard",
+      "name": "Søren Kierkegaard",
+      "image": "soren-kierkegaard.jxl",
+      "birthYear": 1813,
+      "deathYear": 1855,
+      "summary": "Søren Kierkegaard examined anxiety, despair, choice, and faith through pseudonymous works that resist reducing existence to a system.",
+      "related": [
+        "existentialism",
+        "christian-existentialism",
+        "authenticity",
+        "absurdism"
+      ],
+      "body": "Kierkegaard's pseudonymous authors present distinct ways of living rather than a single sequence of doctrines. The aesthetic life pursues immediacy and novelty but risks dispersal; the ethical life binds a person to responsibility and continuity; the religious life confronts a relation to God that cannot be translated into public moral rules alone. These stages are not a simple ladder of progress, since each exposes tensions that the next must address.\n\nAnxiety reveals freedom's vertigo: possibility is not merely an option but the unsettling awareness that one must choose without an external guarantee. Despair is a misrelation in which the self refuses either to be itself or to ground itself properly. Faith, especially in Fear and Trembling, is not irrational enthusiasm or a license for violence; it is a demanding relation in which the individual cannot outsource responsibility to a universal formula. Kierkegaard's indirect communication forces readers to appropriate the question personally rather than hide behind the authority of a finished philosophical system."
+    },
+    {
+      "id": "theodor-adorno",
+      "name": "Theodor W. Adorno",
+      "image": "theodor-adorno.jxl",
+      "birthYear": 1903,
+      "deathYear": 1969,
+      "summary": "Theodor Adorno developed negative dialectics and a critique of mass culture, identity thinking, and administered social life.",
+      "related": [
+        "critical-theory",
+        "aesthetics",
+        "frankfurt-school",
+        "administered-society",
+        "culture-industry",
+        "negative-dialectics"
+      ],
+      "body": "Adorno's negative dialectics resists the demand that contradictions be resolved into a higher harmony. Concepts are necessary for thought, but no concept exhausts the particular object it classifies; when identity thinking treats the object as nothing more than its category, it repeats a form of domination. Philosophy should therefore attend to what a system leaves out, especially suffering that cannot be redeemed by an abstract historical totality.\n\nHis analysis of the culture industry argues that standardized entertainment can produce the appearance of choice while reproducing predictable desires and passive habits. This is not a claim that every popular work has identical effects; it is an account of how commercial organization narrows the conditions under which cultural experience can become critical. Adorno's studies of authoritarianism connect social psychology, family structure, economic insecurity, and political propaganda. His aesthetics preserves the possibility that difficult, non-identical art can resist social integration, but it does not place art outside history or material production."
+    },
+    {
+      "id": "thomas-aquinas",
+      "name": "Thomas Aquinas",
+      "image": "thomas-aquinas.jxl",
+      "birthYear": 1225,
+      "deathYear": 1274,
+      "summary": "Thomas Aquinas integrated Aristotelian metaphysics, natural law, virtue ethics, and Christian theology through systematic argument.",
+      "related": [
+        "thomism",
+        "virtue-ethics",
+        "natural-law-theory",
+        "doctrine-of-double-effect",
+        "natural-theology",
+        "divine-simplicity",
+        "argument-contingency",
+        "argument-cosmological"
+      ],
+      "body": "Aquinas treats faith and reason as distinct but compatible modes of access to truth. Some claims about God can be approached through created effects and philosophical argument, while revealed doctrines exceed what natural reason can demonstrate. His account of being distinguishes essence from the act of existing, and his doctrine of analogy explains how finite predicates can refer to God without making divine and created being identical.\n\nIn ethics, human action is directed toward an ultimate good, but moral life is not reduced to obedience to isolated commands. Natural law expresses rational participation in an order of human flourishing, and virtues shape the stable dispositions through which practical reason judges particular circumstances. Aquinas also treats law as an ordinance for the common good by a legitimate authority, which gives political obligation a rational and communal dimension. His engagement with Aristotle is selective and argumentative: the synthesis preserves creation, providence, and grace while rejecting the idea that philosophical nature can make revelation unnecessary."
+    },
+    {
+      "id": "thomas-hobbes",
+      "name": "Thomas Hobbes",
+      "image": "thomas-hobbes.jxl",
+      "birthYear": 1588,
+      "deathYear": 1679,
+      "summary": "Thomas Hobbes explained political authority through materialist psychology, insecurity in the state of nature, and authorization of a sovereign.",
+      "related": [
+        "social-contract",
+        "state-of-nature",
+        "materialism",
+        "contractarianism",
+        "political-sovereignty",
+        "political-representation",
+        "argument-social-contract",
+        "argument-from-the-state-of-nature-to-political-authority"
+      ],
+      "body": "Hobbes describes human beings as embodied movers whose desires, aversions, and anticipations shape practical reasoning. Equality in vulnerability means that even a stronger person cannot assume permanent security, while competition, diffidence, and desire for reputation turn uncertainty into conflict. The state of nature is therefore not a claim that every person is constantly fighting; it is a condition in which no common power reliably settles disputes, making hostile anticipation rational.\n\nThe social contract authorizes a sovereign to represent the multitude and establish rules capable of ending private judgment by force. Hobbes' sovereign is powerful because divided authority recreates the insecurity the contract was meant to escape, but subjects retain a direct right of self-preservation. His account of language, representation, and covenant makes political order depend on public signs and enforceable interpretation rather than natural harmony. Critics object that the model sacrifices too much liberty and that fear cannot explain all political obligation, yet Hobbes decisively reframed politics around security, authorization, and institutional power."
+    },
+    {
+      "id": "thomas-kuhn",
+      "name": "Thomas Kuhn",
+      "image": "thomas-kuhn.jxl",
+      "birthYear": 1922,
+      "deathYear": 1996,
+      "summary": "Thomas Kuhn argued that scientific communities work within paradigms that organize problems, standards, instruments, and the interpretation of anomalies.",
+      "related": [
+        "philosophy-of-science",
+        "paradigm",
+        "paradigm-shift",
+        "theory-ladenness"
+      ],
+      "body": "Kuhn's paradigm describes more than a theory: it includes exemplary solutions, instruments, standards of evidence, and shared ways of seeing what counts as a legitimate problem. During normal science, researchers solve puzzles within this framework rather than test every basic assumption at once. Anomalies can accumulate without immediately producing revolution because observation and interpretation depend partly on the practices of the existing community.\n\nA scientific revolution changes the standards and conceptual vocabulary through which problems are recognized, so competing paradigms may be partly incommensurable. This does not mean that scientists speak unrelated languages or that progress is impossible. Later work clarifies that comparison can proceed through overlapping practices, problem-solving success, and changes in explanatory scope. Kuhn's historical account challenged a simple image of science as linear accumulation toward a fixed description, while leaving open difficult questions about rational choice, social consensus, and whether paradigm shifts represent discovery, reorganization, or both."
+    },
+    {
+      "id": "vasubandhu",
+      "name": "Vasubandhu",
+      "image": "vasubandhu.jxl",
+      "birthYear": 320,
+      "deathYear": 400,
+      "summary": "Vasubandhu analyzed consciousness, perception, karma, and the construction of subject-object duality across Abhidharma and Yogacara traditions.",
+      "related": [
+        "yogacara",
+        "buddhism",
+        "consciousness",
+        "anatta",
+        "anicca"
+      ],
+      "body": "Vasubandhu's earlier Abhidharma analysis treats experience as a stream of momentary factors rather than as the activity of a permanent self. His later Yogacara work develops the idea that ordinary experience is shaped by representations and latent dispositions, so the apparent division between an inner perceiver and an independently given object cannot simply be taken at face value. This does not reduce the world to a private mind; it diagnoses how consciousness constructs and interprets its field.\n\nThe store consciousness in Yogacara explains continuity across moments and the maturation of karmic seeds without positing an eternal soul. Ethical practice transforms the dispositions that generate delusion, while insight into the constructed character of subject-object duality changes the mode of awareness itself. Vasubandhu's arguments engage rival Buddhist and non-Buddhist positions through detailed analysis of perception, inference, and causal continuity. Later interpreters disagree about how idealist his account is, but its central concern is clear: liberation requires changing the mechanisms by which experience is organized, not merely adopting a new belief."
+    },
+    {
+      "id": "w-e-b-du-bois",
+      "name": "W. E. B. Du Bois",
+      "image": "w-e-b-du-bois.jxl",
+      "birthYear": 1868,
+      "deathYear": 1963,
+      "summary": "W. E. B. Du Bois analyzed race as a historical social structure through double consciousness, empirical sociology, and political struggle.",
+      "related": [
+        "anti-racism",
+        "pan-africanism",
+        "social-justice",
+        "double-consciousness"
+      ],
+      "body": "Du Bois' account of double consciousness describes the divided standpoint produced when a person is compelled to see himself through a dominant society's contemptuous gaze while also sustaining an independent sense of self. The veil is not simply a metaphor for private psychology; it names the social separation that blocks mutual recognition and distributes opportunity, credibility, and citizenship unequally.\n\nDu Bois combined historical research, statistics, journalism, autobiography, and political organizing to show that racial hierarchy is made through law, labor, education, violence, and representation. He rejected both biological explanations of racial destiny and an abstract appeal to individual merit that ignored inherited conditions. His later work connected Black freedom to global colonialism, imperial capitalism, and the struggles of workers and nations. The politics that follows is not only integration into an unchanged order: democracy requires changing the institutions and narratives that make some lives appear naturally subordinate. Du Bois' method makes empirical inquiry itself part of liberation when it challenges official ignorance."
+    },
+    {
+      "id": "w-v-o-quine",
+      "name": "W. V. O. Quine",
+      "image": "w-v-o-quine.jxl",
+      "birthYear": 1908,
+      "deathYear": 2000,
+      "summary": "W. V. O. Quine challenged the analytic–synthetic distinction and described knowledge as a revisable web tested against experience as a whole.",
+      "related": [
+        "analytic-philosophy",
+        "analyticsynthetic-distinction",
+        "duhemquine-thesis",
+        "ontological-commitment",
+        "semantic-holism",
+        "naturalism",
+        "argument-from-indeterminacy-of-translation",
+        "argument-from-indispensability"
+      ],
+      "body": "Quine's critique of analyticity argues that the notion of a statement true solely by meaning cannot be made clear by appealing to synonymy, because synonymy itself requires explanation. Rather than dividing knowledge into truths insulated from experience and empirical statements tested one by one, he describes a web of belief whose parts face experience together. Central logical principles are more resistant to revision than peripheral hypotheses, but no statement is absolutely immune in every imaginable revision.\n\nThis holism reshapes ontology and philosophy of language. To ask what exists is to examine the commitments of a theory, often by looking at the variables required by its best formulation. Translation between languages can be radically indeterminate because behavioral evidence may support more than one assignment of reference and meaning. Quine remains a naturalist: philosophy is continuous with empirical inquiry, though it can still clarify the structure of our theories. Critics argue that his holism underestimates conceptual normativity and the differences between revising logic and revising ordinary scientific claims."
+    },
+    {
+      "id": "watsuji-tetsuro",
+      "name": "Watsuji Tetsuro",
+      "image": "watsuji-tetsuro.jxl",
+      "birthYear": 1889,
+      "deathYear": 1960,
+      "summary": "Watsuji Tetsuro developed an ethics of relational existence in which persons are formed through shared practices, institutions, climate, and history.",
+      "related": [
+        "ethics",
+        "communitarianism",
+        "aidagara"
+      ],
+      "body": "Watsuji's ethics rejects the picture of the individual as an isolated atom who later enters society. Human existence is betweenness: a person becomes a person through relations of family, language, work, custom, and political belonging. These relations are not merely external influences on an already complete self; they are the medium in which agency and responsibility take shape.\n\nHis analysis of climate and milieu extends this relational view to the environments through which communities interpret and organize life. Watsuji distinguishes the individual moment of separation from the social moment of belonging, arguing that ethical action requires a movement between both. Community can sustain responsibility, but it can also become oppressive when conformity is mistaken for moral unity. This creates a tension in his political legacy, especially where relational ethics has been read as support for national belonging. The enduring contribution is a critique of purely individualist ethics and an account of obligation as rooted in concrete shared worlds rather than abstract persons alone."
+    },
+    {
+      "id": "william-james",
+      "name": "William James",
+      "image": "william-james.jxl",
+      "birthYear": 1842,
+      "deathYear": 1910,
+      "summary": "William James developed pragmatism and radical empiricism while studying habit, consciousness, religious experience, and the practical meaning of belief.",
+      "related": [
+        "classical-pragmatism",
+        "philosophy-of-religion",
+        "acquaintance-knowledge",
+        "pragmatism",
+        "radical-empiricism",
+        "neutral-monism",
+        "religious-pluralism"
+      ],
+      "body": "James' pragmatism asks what practical difference a belief makes when it is lived, tested, and connected to future experience. This is not the claim that whatever is useful is automatically true. A belief earns its standing through the consequences of inquiry, the resistance of experience, and its ability to organize a coherent practice without suppressing relevant evidence. Truth is something that happens to an idea as it proves itself in the course of verification.\n\nRadical empiricism widens experience beyond isolated sensations to include relations, transitions, and felt continuities as directly experienced features. His stream of consciousness therefore cannot be reduced to a chain of static inner objects. In The Varieties of Religious Experience, James treats religious life psychologically and phenomenologically, asking what it does for a person without deciding the metaphysical question by description alone. His pluralism allows more than one genuine route through experience, while his analysis of habit explains why freedom requires changing the conditions that make some actions easy and others nearly unavailable."
+    },
+    {
+      "id": "william-of-ockham",
+      "name": "William of Ockham",
+      "image": "william-of-ockham.jxl",
+      "birthYear": 1287,
+      "deathYear": 1347,
+      "summary": "William of Ockham defended nominalist accounts of universals and a methodological preference for explanations that do not multiply entities without need.",
+      "related": [
+        "nominalism",
+        "occams-razor",
+        "conceptualism"
+      ],
+      "body": "Ockham's nominalism denies that universal terms require separate universal entities existing alongside individual things. Universality belongs to concepts and signs that can stand for many individuals, while extra-mental reality is composed of singulars. This view changes how metaphysics explains classification: resemblance and signification do not require a second realm of Forms. Ockham nevertheless distinguishes different kinds of concepts and gives careful accounts of predication, supposition, and reference.\n\nThe principle associated with Ockham's razor is a rule of disciplined explanation, not the slogan that the simplest theory is always true. When two explanations account for the same evidence, one should not posit additional entities or mechanisms without reason. Ockham applies such economy within a theological framework that preserves divine power and revelation, so the razor is not a general license to eliminate whatever a modern naturalist dislikes. His work in logic, metaphysics, and theology helped sharpen late medieval debates about necessity, individuation, divine freedom, and the limits of demonstrative knowledge."
+    },
+    {
+      "id": "xunzi",
+      "name": "Xunzi",
+      "image": "xunzi.jxl",
+      "birthYear": -310,
+      "deathYear": -235,
+      "summary": "Xunzi argued that spontaneous human tendencies require reshaping through ritual, education, language, and institutions.",
+      "related": [
+        "confucianism",
+        "confucian-li",
+        "virtue-ethics"
+      ],
+      "body": "Xunzi's claim that human nature is bad does not mean that people are incapable of goodness. It means that untrained desire, rivalry, resentment, and pursuit of immediate advantage tend toward disorder. Goodness is an achievement produced by conscious activity: teachers, ritual forms, music, standards of language, and institutions redirect raw tendencies into stable patterns of cooperation. In this respect Xunzi opposes accounts that treat moral order as the effortless expression of an innate benevolence.\n\nRitual is not empty ceremony. It distributes goods, marks relationships, regulates grief and desire, and makes social distinctions intelligible without leaving every conflict to force. Xunzi also emphasizes the artificiality of names and standards: shared language allows people to coordinate judgments about right and wrong, but rulers and teachers must maintain those standards through practice. His political theory is therefore educational and institutional rather than merely punitive. Critics ask whether imposed ritual can avoid authoritarianism, yet Xunzi offers a powerful account of moral formation as a public craft that transforms desire instead of pretending desire can be ignored."
+    },
+    {
+      "id": "yukichi-fukuzawa",
+      "name": "Yukichi Fukuzawa",
+      "image": "yukichi-fukuzawa.jxl",
+      "birthYear": 1835,
+      "deathYear": 1901,
+      "summary": "Yukichi Fukuzawa defended education, civic independence, and institutional modernization while criticizing status hierarchy and inherited authority.",
+      "related": [
+        "liberalism",
+        "self-determination"
+      ],
+      "body": "Fukuzawa's call for independence concerns both personal judgment and national capacity. Individuals must learn to support themselves, reason about public affairs, and resist dependence on inherited rank or official favor. Education is therefore political: it expands the number of people capable of participating in a modern civic order rather than merely training specialists for the state. His critique of feudal status treats hierarchy as a social arrangement, not a natural ranking of human worth.\n\nFukuzawa advocated engagement with Western science and institutions as resources for strengthening Japan, but his modernization was not a simple imitation of every foreign practice. He emphasized translation, practical knowledge, law, commerce, and public debate as conditions for civilization. His later views on Japan's relation to neighboring Asian societies have been criticized for reproducing imperial hierarchies, creating a serious tension between universal civic independence and national power. That tension is part of the philosophical record: modernization can challenge domestic status while still enabling domination beyond the nation."
+    },
+    {
+      "id": "zhu-xi",
+      "name": "Zhu Xi",
+      "image": "zhu-xi.jxl",
+      "birthYear": 1130,
+      "deathYear": 1200,
+      "summary": "Zhu Xi systematized Neo-Confucian metaphysics around li, qi, moral cultivation, and the investigation of things.",
+      "related": [
+        "neo-confucianism",
+        "confucianism",
+        "investigation-of-things",
+        "li-principle",
+        "qi"
+      ],
+      "body": "Zhu Xi's metaphysics distinguishes li, the patterns or principles that make things intelligible, from qi, the material force through which those patterns are embodied. Every thing has a principle, but the clarity or turbidity of its qi affects how that principle is expressed. This framework lets Zhu Xi explain moral norms as objective without treating them as detached entities existing outside the world. Human nature is linked to principle, while selfish desire and disturbed material endowment obscure its activity.\n\nMoral cultivation combines quiet-sitting, reading, self-examination, ritual practice, and the investigation of things. Gewu is not simply collecting scientific facts; it is a disciplined effort to grasp the principles embodied in concrete affairs and to correct one's conduct accordingly. Zhu Xi's commentaries made the Four Books central to later Confucian education and state examination, giving his philosophy institutional reach. Critics question whether the system overstates moral order or encourages scholastic orthodoxy, but its distinctive achievement is to connect cosmology, pedagogy, ethics, and public culture in one program of self-cultivation."
+    },
+    {
+      "id": "zhuangzi",
+      "name": "Zhuangzi",
+      "image": "zhuangzi.jxl",
+      "birthYear": -369,
+      "deathYear": -286,
+      "summary": "Zhuangzi used stories, transformations, and perspectival play to unsettle fixed distinctions and expose the limits of authoritative judgment.",
+      "related": [
+        "daoism",
+        "perspectivism",
+        "virtue-of-wu-wei"
+      ],
+      "body": "The Zhuangzi repeatedly shows that a judgment can look obvious from one standpoint and unstable from another. The butterfly dream, the debate about knowing the fish, and the stories of skilled artisans do not simply declare that all views are equal. They ask how language, embodiment, habit, and changing circumstances shape the distinctions through which a person claims to know. The ideal of wandering freely is a practice of responsiveness, not an escape from every norm.\n\nZhuangzi's skepticism toward rigid distinctions includes a critique of political and moral coercion. Naming one side as the standard can make alternatives appear unintelligible, while forcing every life into a single measure produces harm. Yet the text also values skill, timing, care, and attunement: the butcher's effortless cutting reflects a cultivated relation to the grain of things rather than arbitrary spontaneity. Its humor and layered voices prevent the reader from treating Daoist language as a final dogma. Transformation, perspectival flexibility, and non-coercive action together describe a life less trapped by the demand to dominate experience through fixed concepts."
+    }
+  ]
+}

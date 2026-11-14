@@ -1,0 +1,986 @@
+{
+  "razors": [
+    {
+      "id": "25-plus-razor",
+      "name": "25-plus razor",
+      "aliases": [
+        "25+ razor"
+      ],
+      "symbolName": "scissors",
+      "summary": "Judge unfamiliar technologies by their use and results, not by the age of the people who value them.",
+      "body": "An age label can hide the real question. Instead of treating a trend as unserious because it is popular with younger people, identify the problem it addresses, the people it serves, and the evidence that it works. Compare it with available alternatives on criteria that matter to the decision. The same rule applies in reverse: novelty and youth appeal are not evidence of quality either.\n\nUse this as a check against dismissing unfamiliar tools before understanding them. Ask for a small demonstration, examine actual use, and separate a mismatch with your needs from a general judgment about the technology. Age can still be relevant when a product is designed for a particular life stage, but it should be part of the evidence rather than a substitute for it.",
+      "lensQuestion": "What evidence about this tool's use or results would matter if I removed the age label?",
+      "examples": [
+        {
+          "text": "An older manager rejects a new communication format before examining how clients use it.",
+          "note": "Testing the format with the actual clients distinguishes a poor fit from discomfort with a younger audience."
+        }
+      ],
+      "limitations": [
+        "Age can be relevant when a tool is designed for a particular stage of life or accessibility need.",
+        "A younger audience's enthusiasm can also be weak evidence; unfamiliarity should not be replaced with automatic approval."
+      ],
+      "related": [],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "alders-razor",
+      "name": "Alder's razor",
+      "aliases": [
+        "Newton's flaming laser sword"
+      ],
+      "symbolName": "scissors",
+      "summary": "Limit debate to claims with consequences that observation could test.",
+      "body": "Alder's razor proposes a strict test for deciding which disputes to pursue: a claim should have consequences that observation could check. Identify what would be different if the claim were true, then explain how those differences follow from it. If the rival accounts leave every possible observation unchanged, the rule recommends setting that debate aside.\n\nThis is a proposed limit on inquiry, rather than a proof that everything outside it is false or meaningless. It can help expose a dispute that never risks being corrected by evidence. Applied too broadly, it also excludes meaningful work in ethics, interpretation, and conceptual analysis. Those fields can use standards that do not reduce to empirical tests.",
+      "lensQuestion": "What observable consequences follow from this claim, and could they distinguish it from its rival?",
+      "examples": [
+        {
+          "text": "Two accounts posit different invisible causes but predict exactly the same observations in every possible test.",
+          "note": "The dispute has no empirical discriminator, so the parties should identify whether they are arguing about definitions or assumptions instead."
+        }
+      ],
+      "limitations": [
+        "Some questions are settled by proof, interpretation, or values rather than observation.",
+        "A proposed test may be impractical or confounded; naming an observation is not the same as having a sound experiment."
+      ],
+      "related": [],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "boredom-razor",
+      "name": "Boredom razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "A period without new stimulation can create room to think, but it does not create insight by itself.",
+      "body": "When a problem has been crowded out by messages, feeds, or constant switching, a quiet interval can reveal which parts of it still need attention. Use the pause deliberately: write down the question, let the immediate reaction settle, and return to the evidence or work afterward. The value is not boredom as a virtue; it is the removal of noise that may be blocking attention.\n\nThis is most useful for reflection, planning, and revision. It cannot supply missing facts, repair a weak method, or guarantee a creative breakthrough. If the problem is technical, use the quiet time to define what you need to learn, then seek that information rather than mistaking inactivity for progress.",
+      "lensQuestion": "Would less incoming stimulation help me see the next question or decision more clearly?",
+      "examples": [
+        {
+          "text": "After repeatedly rereading an unproductive draft, a writer takes a quiet walk before revising.",
+          "note": "The break can loosen a stuck approach, but the writer still has to return and test the revision against the draft's purpose."
+        }
+      ],
+      "limitations": [
+        "A pause cannot replace information, feedback, or skilled work when those are the actual bottlenecks.",
+        "For some people, unstructured quiet increases rumination rather than useful reflection."
+      ],
+      "related": [],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "bragging-razor",
+      "name": "Bragging razor",
+      "aliases": [
+        "Braggers' razor"
+      ],
+      "symbolName": "scissors",
+      "summary": "Check self-promotional claims before relying on them.",
+      "body": "When someone praises their own skills or results, check what supports the claim before relying on it. They may describe their best result while leaving out failures, help from others, or a longer run of ordinary results. Even an accurate success story can give an incomplete picture.\n\nLook for evidence that someone else can check, such as a complete record, work samples, or confirmation from people involved. Give more weight to evidence that supports the specific claim than to confidence, status, or an impressive story.",
+      "lensQuestion": "How could someone else check this claim?",
+      "examples": [
+        {
+          "text": "A consultant says they doubled a client's sales. The only support is a glowing testimonial with no figures or dates.",
+          "note": "The testimonial shows customer approval, but it does not establish how much sales changed or what caused the change."
+        }
+      ],
+      "limitations": [
+        "A person may be unable to disclose private records; other evidence can still support the claim.",
+        "An unverified claim can be true. Missing support leaves uncertainty rather than establishing falsehood."
+      ],
+      "related": [
+        "evidence",
+        "testimony",
+        "burden-of-proof"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "charisma-razor",
+      "name": "Charisma razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Evaluate an argument separately from the speaker's charm, confidence, or awkwardness.",
+      "body": "A compelling delivery can make a weak argument feel settled, while a hesitant speaker can make a strong argument seem doubtful. Extract the claim, reasons, evidence, and assumptions, then ask whether they would persuade you in a plain document from an unknown author. Check the same standard in reverse: a dull presentation is not a reason to reject a sound case.\n\nThe point is not to ignore communication skill. Clear delivery can make evidence easier to understand, and trust can matter when a person has direct knowledge. Keep those practical benefits distinct from the truth of the proposition itself. When the stakes are high, ask for the underlying data or work product rather than relying on a performance of certainty.",
+      "lensQuestion": "Would I assess this claim the same way if it came from an unknown person in plain writing?",
+      "examples": [
+        {
+          "text": "A polished presenter offers an investment claim with no supporting data.",
+          "note": "Removing the performance leaves the central gap: no evidence establishes the promised result or its risks."
+        }
+      ],
+      "limitations": [
+        "Communication quality can affect whether people understand evidence or coordinate action, even though it does not prove the claim.",
+        "A speaker's track record may be relevant evidence, but it should not replace checking the specific argument."
+      ],
+      "related": [
+        "halo-effect"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "chattons-anti-razor",
+      "name": "Chatton's anti-razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Do not remove a real explanatory element merely to make an account look simpler.",
+      "body": "Parsimony helps when it removes assumptions that do no work. Chatton's anti-razor marks the opposite failure: a tidy account can become misleading if it cannot explain an important observation without dropping it. List what each proposed mechanism explains, keep distinctions that carry predictive or practical information, and remove them only after showing that they are redundant.\n\nThe anti-razor is not permission to add entities whenever a theory becomes inconvenient. Each extra mechanism needs independent support or a clear explanatory role, and a model with many moving parts should still be tested against simpler alternatives. The useful comparison is between accounts that meet the same explanatory demands, not between a true account and an artificially incomplete one.",
+      "lensQuestion": "What observation remains unexplained if I remove this supposedly unnecessary part of the account?",
+      "examples": [
+        {
+          "text": "One mechanism explains a machine's overheating, but a separate electrical fault explains its intermittent shutdowns.",
+          "note": "Keeping two mechanisms is justified only if the shutdown pattern cannot be accounted for by the overheating mechanism and the fault has support of its own."
+        }
+      ],
+      "limitations": [
+        "An unexplained detail may be noise or measurement error rather than evidence for a new mechanism.",
+        "A second explanation can be added too quickly; compare its support and predictive value with a better-developed single account."
+      ],
+      "related": [
+        "occams-razor",
+        "mengers-anti-razor"
+      ],
+      "tags": [
+        "parsimony"
+      ]
+    },
+    {
+      "id": "discomfort-razor",
+      "name": "Discomfort razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Do not reject an opportunity solely because it feels uncomfortable; determine what the discomfort signals.",
+      "body": "Discomfort can accompany learning, honest feedback, uncertainty, or a new responsibility. It can also signal coercion, unsafe conditions, humiliation, or a plan that does not fit your limits. Treat the feeling as information to investigate, not as a verdict. Name the source, estimate the cost, look for safeguards, and decide whether the difficulty is chosen and manageable.\n\nA useful challenge usually has a reason, support, and a way to stop or adjust. If the setting punishes questions, ignores consent, or produces harm without a credible benefit, persistence is not automatically courageous. The razor helps interrupt reflexive avoidance, but it should never be used to talk someone out of evidence that a situation is dangerous or degrading.",
+      "lensQuestion": "Is this discomfort a manageable cost of learning, or evidence of harm, coercion, or a bad fit?",
+      "examples": [
+        {
+          "text": "A novice avoids asking any questions because speaking in a study group feels awkward.",
+          "note": "The novice can try one prepared question and observe the response; ridicule or retaliation would make the situation materially different."
+        }
+      ],
+      "limitations": [
+        "Some discomfort is an early warning of physical danger, abuse, or coercion and should not be overridden.",
+        "A challenge may be useful for one person and excessive for another because resources, health, or prior experience differ."
+      ],
+      "related": [],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "early-late-razor",
+      "name": "Early–late razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Interpret reports of adoption in light of which community encountered the change first.",
+      "body": "Different groups encounter a product, practice, or idea at different times. A niche community may discuss something long before a larger public notices it, while a mainstream source may report it only after early adopters have moved on. Use the timing difference to ask who the source represents and whether its experience matches the audience you care about.\n\nThis is a way to interpret signals, not a timetable for the future. Check current usage, incentives, access, and actual behavior instead of treating a platform as a fixed stage in a universal adoption sequence. The distinction is useful when comparing sources, but it becomes misleading when it turns communities into stereotypes or assumes every early signal will spread.",
+      "lensQuestion": "Which audience does this source represent, and does its timing tell me anything about my actual audience?",
+      "examples": [
+        {
+          "text": "A niche forum discusses a product long before it appears in a mainstream trade publication.",
+          "note": "The difference may reflect audience and reporting lag; checking adoption outside both sources is needed before forecasting wider use."
+        }
+      ],
+      "limitations": [
+        "Communities overlap, and platform boundaries change quickly; timing labels can become outdated.",
+        "Early attention may reflect a small vocal minority rather than broader adoption."
+      ],
+      "related": [],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "einsteins-razor",
+      "name": "Einstein's razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Simplify an explanation as far as possible while retaining what the task requires it to explain.",
+      "body": "A shorter explanation is useful when it removes detail that does no work. Begin by listing the observations, predictions, or decisions the explanation must support. Then remove assumptions one at a time and check whether the account still fits those requirements. A model that is compact but misses a known pattern is not a successful simplification; it has discarded information needed for adequacy.\n\nThe familiar wording is widely attributed to Einstein, but exact attribution and wording are uncertain. The practical idea stands without treating the aphorism as a scientific law. Prefer a simpler account when competing accounts perform comparably, and accept additional structure when the evidence or task requires it.",
+      "lensQuestion": "What can I remove without losing the explanation's necessary predictions or accuracy?",
+      "examples": [
+        {
+          "text": "A useful model needs temperature and pressure, but a shorter model discards pressure and misses known outcomes.",
+          "note": "The shorter model is simpler in form but less adequate for the observations, so its economy is not an improvement."
+        }
+      ],
+      "limitations": [
+        "Simplicity depends on the purpose and level of description; a classroom model and an engineering model may need different detail.",
+        "The slogan's exact attribution is uncertain and should not be presented as a verbatim Einstein quotation."
+      ],
+      "related": [
+        "occams-razor"
+      ],
+      "tags": [
+        "parsimony"
+      ]
+    },
+    {
+      "id": "elons-razor",
+      "name": "Elon's razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "A playful saying that the most entertaining or ironic outcome is the most likely.",
+      "body": "This is a deliberately provocative saying associated with Elon Musk: the outcome that would make the most entertaining story is treated as the one most likely to happen. It appeals to surprise and irony when imagining how events might unfold.\n\nEntertainment value is not evidence of probability. The saying can help generate memorable scenarios, but a serious forecast still needs information about base rates, incentives, and constraints. A dramatic scenario may be worth preparing for because of its consequences even when its probability is low. Keep the playful premise separate from any calculation of likelihood.",
+      "lensQuestion": "What evidence makes this entertaining scenario likely rather than merely memorable?",
+      "examples": [
+        {
+          "text": "A dramatic corporate reversal is judged likely because it would make a compelling film.",
+          "note": "The plot may be worth considering, but its cinematic appeal supplies no evidence about the company's actual incentives or constraints."
+        }
+      ],
+      "limitations": [
+        "The slogan provides no reliable method for calculating probabilities.",
+        "A memorable story can attract attention while being less likely than an ordinary outcome."
+      ],
+      "related": [],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "everyday-razor",
+      "name": "Everyday razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Steady, repeatable practice can build progress, provided the practice is useful and sustainable.",
+      "body": "Frequent contact with a skill can make feedback and recall easier. To apply this idea, choose a small practice unit, repeat it often enough to notice patterns, and review the quality of the result rather than counting sessions alone. Increase frequency only when sleep, recovery, attention, and other obligations can support it.\n\nMore repetitions do not guarantee proportional improvement. Repeating a confused method can reinforce mistakes, and a shorter deliberate session may be better than a longer distracted one. Use the razor to look for a sustainable rhythm and regular correction, not to turn an attractive arithmetic claim about daily practice into a promise of compounded mastery.",
+      "lensQuestion": "What repeatable practice would produce useful feedback without sacrificing quality or recovery?",
+      "examples": [
+        {
+          "text": "A learner replaces one irregular monthly session with brief, attentive daily practice.",
+          "note": "The likely benefit comes from continuity and feedback; the learner still needs correction and must watch for fatigue or repeated errors."
+        }
+      ],
+      "limitations": [
+        "Frequency cannot compensate for a wrong method, missing instruction, or inadequate recovery.",
+        "Some tasks benefit more from spaced reflection or long uninterrupted work than from daily repetition."
+      ],
+      "related": [],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "feynman-razor",
+      "name": "Feynman razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Try to explain the mechanism plainly; difficulty doing so can reveal a gap in understanding.",
+      "body": "Take a claim or process and explain what happens, why it happens, and what would change the result. Replace borrowed labels with concrete steps, then notice where the explanation becomes circular, vague, or dependent on words you cannot define. Check the explanation against an example or a possible counterexample. This makes the method useful for learning, teaching, and reviewing decisions.\n\nPlain language does not mean every subject can be reduced to a child-sized story. Advanced work may require notation, prior concepts, and distinctions that should be taught rather than hidden. The modern label is commonly associated with Richard Feynman, but a popular attribution is not itself a verified quotation. Use the exercise as a diagnostic, not as a demand for artificial simplicity.",
+      "lensQuestion": "Can I describe the mechanism and its limits without using a label to hide what I do not understand?",
+      "examples": [
+        {
+          "text": "A student repeats the word 'optimization' but cannot describe what is optimized or what changes.",
+          "note": "Defining the objective, available choices, and trade-offs shows whether the student understands the process behind the label."
+        }
+      ],
+      "limitations": [
+        "A plain explanation may omit necessary technical distinctions and should be checked against the formal account.",
+        "Failure to explain quickly can reflect missing prerequisites or communication practice rather than total lack of understanding."
+      ],
+      "related": [],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "gell-mann-razor",
+      "name": "Gell-Mann razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Apply the same scrutiny to reports outside your expertise that you would apply to reports within it.",
+      "body": "When you know a subject well, errors in a report are visible; outside that subject, the same level of error can pass unnoticed. Use that contrast to inspect sources, identify what is directly supported, and compare the report with independent expertise. Do not leap from one detected mistake to the conclusion that every other part is false. The practical lesson is consistency of scrutiny.\n\nThe idea is associated with Michael Crichton's account of the Gell-Mann amnesia effect, and the razor label is a later popular shorthand. It is not a measured error rate for journalism. When you lack expertise, use transparent methods, qualified sources, and checks on incentives rather than replacing unfamiliarity with blanket distrust.",
+      "lensQuestion": "Would I examine this report as closely if it concerned a field I already understood?",
+      "examples": [
+        {
+          "text": "An engineer notices serious errors in a report about her field but assumes the adjacent economics report must be accurate.",
+          "note": "The inconsistency is a reason to verify the second report too, not proof that its claims are wrong."
+        }
+      ],
+      "limitations": [
+        "A mistake in one part of a report does not establish that all other claims are false.",
+        "Independent checking is harder when the reader lacks the relevant expertise and may require qualified help."
+      ],
+      "related": [],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "grices-razor",
+      "name": "Grice's razor",
+      "aliases": [
+        "Modified Occam's razor"
+      ],
+      "symbolName": "scissors",
+      "summary": "Prefer a conversational explanation over a new word meaning when context already accounts for the suggestion.",
+      "body": "People often communicate more than the literal sentence says. Before adding a new conventional meaning to a word, ask whether the speaker's purpose, shared background, and conversational expectations explain the extra suggestion. An inference from the conversational setting can often be withdrawn without contradicting the sentence's literal content. That helps distinguish a suggestion from a fixed dictionary meaning.\n\nThis economy does not deny genuine ambiguity. If the same expression has stable, independently supported meanings, or context cannot resolve the difference, the distinction should be retained. Apply the razor to the interpretation at hand, state the assumptions about context, and avoid treating every useful conversational implication as part of the dictionary entry.",
+      "lensQuestion": "Can context explain the suggested meaning without adding another conventional meaning to the words?",
+      "examples": [
+        {
+          "text": "'Some students passed' is taken to suggest that not all passed.",
+          "note": "The suggestion can be canceled—'Some passed; in fact, all did'—which supports a conversational inference rather than a fixed meaning of 'some.'"
+        }
+      ],
+      "limitations": [
+        "A context-based explanation can fail when an expression has genuine lexical ambiguity or when the context is incomplete.",
+        "Conversational inference depends on shared expectations that may differ across communities or situations."
+      ],
+      "related": [
+        "implicature",
+        "guillaumes-razor"
+      ],
+      "tags": [
+        "interpretation"
+      ]
+    },
+    {
+      "id": "guillaumes-razor",
+      "name": "Guillaume's razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Do not multiply semantic distinctions when context and ordinary use already explain the difference.",
+      "body": "Before assigning an extra dictionary meaning to an expression, check whether the conversational setting explains the apparent difference. Compare how the word is used, what the participants already know, and what the speaker is trying to communicate. Keep a separate meaning when there is stable evidence for it; do not create one merely to explain a suggestion made in one setting.\n\nThis language-economy idea is closely associated with Grice's razor. The Guillaume label has uncertain attribution and no single firmly established wording, so it should not be treated as a verified historical quotation. The underlying interpretive question remains useful: which differences belong to the expression's conventional meaning, and which arise from its use on a particular occasion?",
+      "lensQuestion": "Does this proposed semantic distinction improve understanding, or is the difference already explained by context?",
+      "examples": [
+        {
+          "text": "A familiar word appears to convey a special implication only in one conversational setting.",
+          "note": "The local implication may be a contextual inference; repeated, stable use across settings would be stronger evidence for a distinct sense."
+        }
+      ],
+      "limitations": [
+        "Context is not always enough; stable patterns of use can justify distinguishing meanings.",
+        "The attribution and formulation vary, so the name should not be used as proof that one linguistic analysis is correct."
+      ],
+      "related": [
+        "grices-razor",
+        "implicature"
+      ],
+      "tags": [
+        "interpretation"
+      ]
+    },
+    {
+      "id": "hanlons-razor",
+      "name": "Hanlon's razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Consider error, omission, or poor judgment before inferring hostile intent, while remaining responsive to evidence of harm.",
+      "body": "Intent is an extra claim about what happened inside another person's decision. First check whether a mistake, missing information, workload, or weak process explains the outcome. This can prevent an avoidable escalation and direct attention toward a practical repair. Keep the behavior and its effects in view: uncertainty about motive does not require tolerating the harm or abandoning a boundary.\n\nUpdate the assessment when evidence accumulates. Repeated conduct after clear notice, concealment, selective targeting, or messages showing a purpose to harm can support a malicious interpretation. Hanlon's razor is therefore a first-pass discipline against over-attribution, not a rule that malice is rare, impossible, or irrelevant to action.",
+      "lensQuestion": "What evidence distinguishes an ordinary failure from intentional harm in this case?",
+      "examples": [
+        {
+          "text": "A colleague omits your name from an announcement, and you infer deliberate sabotage.",
+          "note": "An outdated template could explain one omission; repeated exclusion after it is raised would require a different assessment."
+        }
+      ],
+      "limitations": [
+        "Some patterns of concealment, targeting, or repeated harm provide evidence of intentional wrongdoing.",
+        "A non-malicious explanation does not remove the need to repair damage or protect people from recurrence."
+      ],
+      "related": [
+        "hostile-attribution-bias",
+        "occams-razor"
+      ],
+      "tags": [
+        "attribution"
+      ]
+    },
+    {
+      "id": "hitchens-razor",
+      "name": "Hitchens's razor",
+      "aliases": [
+        "Hitchens' razor"
+      ],
+      "symbolName": "scissors",
+      "summary": "The person making a claim must provide support for it; rejecting inadequate support does not prove the opposite.",
+      "body": "Identify the claim, its burden of support, and what evidence has actually been offered. If someone asserts an invisible device, hidden motive, or extraordinary event without a way to check it, you can withhold acceptance until the claimant supplies relevant evidence. You do not have to disprove every imagined explanation before declining to rely on it.\n\nKeep three positions separate: accepting a claim, suspending judgment, and accepting its negation. The appropriate burden depends on the context and stakes; a casual possibility may need little discussion, while a public accusation or medical claim needs careful support. Hitchens's razor is about who must support an assertion, not a shortcut for declaring every unsupported statement false.",
+      "lensQuestion": "What support has been offered for this assertion, and who is responsible for providing it?",
+      "examples": [
+        {
+          "text": "Someone claims an invisible device controls your dreams but offers no observation that distinguishes this from ordinary dreaming.",
+          "note": "You can decline to accept the claim without proving that no such device exists."
+        }
+      ],
+      "limitations": [
+        "Lack of current evidence leaves a claim unsupported; it does not by itself establish that the claim is false.",
+        "In urgent decisions, provisional action may be justified even while the evidence remains incomplete."
+      ],
+      "related": [
+        "shifting-the-burden-of-proof",
+        "burden-of-proof"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "humes-guillotine",
+      "name": "Hume's guillotine",
+      "aliases": [
+        "Is–ought principle"
+      ],
+      "symbolName": "scissors",
+      "summary": "A conclusion about what ought to be done needs a value or rule premise in addition to descriptive facts.",
+      "body": "When an argument moves from what is happening to what someone should do, identify the missing bridge. Facts can show consequences, needs, or likely outcomes, but they do not alone establish an obligation. An explicit value, goal, rule, or commitment supplies the connection and makes it available for examination.\n\nThis does not make facts irrelevant to ethics. Facts may determine which actions are possible, who is affected, and whether a proposed rule can achieve its purpose. Hume's guillotine is a constraint on the structure of the inference, rather than a reason to ignore evidence in moral reasoning.",
+      "lensQuestion": "Which value, rule, or goal connects these facts to the proposed obligation?",
+      "examples": [
+        {
+          "text": "Most employees work late; therefore every employee ought to work late.",
+          "note": "The conclusion needs a rule explaining why common behavior, rather than wellbeing, contract, or another standard, creates an obligation."
+        }
+      ],
+      "limitations": [
+        "A normative premise may be implicit and shared rather than stated; making it explicit still helps test the argument.",
+        "Facts can challenge whether a value can be achieved, even though they do not supply the value by themselves."
+      ],
+      "related": [
+        "is-ought-fallacy",
+        "david-hume"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "humes-razor",
+      "name": "Hume's razor",
+      "aliases": [
+        "Hume's proportionality of cause"
+      ],
+      "symbolName": "scissors",
+      "summary": "A proposed cause must be capable of producing the effect it is meant to explain.",
+      "body": "When a cause is offered, ask how it could generate the observed effect and whether the full system contains the required energy, structure, or pathway. Do not compare the visible size of the trigger with the visible size of the outcome and stop there: a small switch can release stored energy, and a small event can redirect a larger process. Trace the mechanism and its supporting conditions.\n\nThis razor is about adequacy of causes to effects. It is not a rule that large effects require visibly large causes, a demand to verify every claim before considering it, or a substitute for testing the proposed mechanism. It is also distinct from Hume's guillotine, which concerns the move from facts to obligations.",
+      "lensQuestion": "What mechanism and stored or supporting conditions give this proposed cause the capacity to produce the effect?",
+      "examples": [
+        {
+          "text": "A small desk fan is offered as the sole explanation for structural damage across a city.",
+          "note": "The fan's visible size is not the whole issue; the account needs a supported mechanism with enough causal power and scope to explain the damage."
+        }
+      ],
+      "limitations": [
+        "Small triggers can release stored energy or initiate a large chain, so apparent size is not a sufficient test.",
+        "Causal capacity alone does not show that the proposed cause actually occurred; timing and independent evidence still matter."
+      ],
+      "related": [
+        "causal-inference",
+        "david-hume"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "instagram-razor",
+      "name": "Instagram razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Treat a published image or success story as a selected sample, not as an unedited picture of ordinary life.",
+      "body": "A post is produced through choices about what to capture, keep, edit, caption, and publish. Ask what was left outside the frame, how many alternatives were rejected, and whether the image was staged or filtered. Apply the same check to polished career stories, product demonstrations, and before-and-after claims. Selection can create a distorted impression without making the chosen moment entirely false.\n\nUse the razor to correct the sample, not to dismiss every image. Seek repeated observations, unedited context, dates, and outcomes that matter to the claim. The label is modern advice about selective presentation; it does not establish a known number of discarded photos or a universal level of distortion.",
+      "lensQuestion": "What selection and editing process produced this image or success story?",
+      "examples": [
+        {
+          "text": "A flawless travel photograph is presented as an ordinary moment of a trip.",
+          "note": "The frame may omit failed shots, staging, editing, or difficult parts of the trip, so it cannot represent the whole experience by itself."
+        }
+      ],
+      "limitations": [
+        "A selected image can still accurately show the moment it depicts.",
+        "Selection bias matters only relative to the question; a portrait is not misleading merely because it is not a random sample of a person's day."
+      ],
+      "related": [
+        "selection-bias"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "kants-counter-razor",
+      "name": "Kant's counter-razor",
+      "aliases": [
+        "Kant's anti-razor"
+      ],
+      "symbolName": "scissors",
+      "summary": "Do not eliminate a real distinction merely to make an explanation or classification more economical.",
+      "body": "Parsimony can erase information when unlike things are forced into one category before their differences are understood. Identify which features the distinction tracks, whether those features affect predictions or decisions, and what evidence would show that the difference is superficial. Preserve the distinction when collapsing it causes the account to miss a pattern or misdescribe a person, process, or object.\n\nThis is not a demand for more categories or complexity for its own sake. A distinction that changes no explanation, prediction, or practical choice may be safely removed. Kant's counter-razor is best used as a guard against unjustified elimination of genuine diversity, alongside evidence that shows which differences are actually relevant.",
+      "lensQuestion": "What evidence shows this distinction is unnecessary rather than merely inconvenient?",
+      "examples": [
+        {
+          "text": "Two different measurement processes are assumed identical because merging them gives a shorter report.",
+          "note": "Different error patterns or calibration procedures are reasons to keep the distinction if they change how the measurements should be interpreted."
+        }
+      ],
+      "limitations": [
+        "Not every observed difference is explanatory or practically relevant.",
+        "Preserving a distinction without evidence can produce needless categories and make comparison harder."
+      ],
+      "related": [
+        "immanuel-kant",
+        "occams-razor"
+      ],
+      "tags": [
+        "parsimony"
+      ]
+    },
+    {
+      "id": "luck-razor",
+      "name": "Luck razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Prefer feasible choices that expose you to useful opportunities while accounting for their costs and risks.",
+      "body": "Luck is often increased by making more relevant encounters possible: sharing work, attending a suitable gathering, trying a small experiment, or speaking with people outside your usual circle. The practical move is to choose exposure with a plausible connection to your goal, a tolerable downside, and a way to learn from the result. Random activity is not the same as opportunity.\n\nUse this as a portfolio idea, not a promise. More exposure can consume money, time, attention, privacy, or safety, and chance can still produce no benefit. Compare the opportunity's relevance and cost with quieter options, and do not treat a fortunate outcome as proof that the original choice was wise.",
+      "lensQuestion": "Which feasible action increases relevant opportunities without taking on an unacceptable cost or risk?",
+      "examples": [
+        {
+          "text": "A researcher chooses between isolated browsing and an affordable interdisciplinary workshop relevant to her work.",
+          "note": "The workshop may create useful contacts and ideas, but its value depends on relevance, cost, and whether the researcher can follow up."
+        }
+      ],
+      "limitations": [
+        "Exposure does not guarantee a favorable result and can create distraction or unwanted obligations.",
+        "People with fewer resources may not be able to take the same opportunities; the advice must not be treated as a moral judgment about outcomes."
+      ],
+      "related": [
+        "opportunity-cost"
+      ],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "mengers-anti-razor",
+      "name": "Menger's anti-razor",
+      "aliases": [
+        "Law against miserliness"
+      ],
+      "symbolName": "scissors",
+      "summary": "Use as much explanatory structure as the evidence and task require, without adding decoration.",
+      "body": "A model can fail because it leaves out a variable, interaction, or mechanism that the observations require. Before praising a simple account, list the patterns it must explain and test whether the omitted structure changes the prediction. Add a component when it has a defined role and support, then remove it if later evidence shows that role is redundant.\n\nMenger's anti-razor is a counterweight to excessive parsimony, not a license to protect a complicated theory from criticism. Extra variables increase opportunities for error and overfitting, so compare the richer account with simpler alternatives on independent data or new cases. The goal is adequate explanation at the right level of detail.",
+      "lensQuestion": "What required pattern does the simplest account miss, and what evidence supports adding the missing structure?",
+      "examples": [
+        {
+          "text": "A forecast drops all seasonal terms and consequently misses a repeated annual cycle.",
+          "note": "The seasonal structure earns its place because the cycle recurs in the data and improves forecasts on cases not used to invent it."
+        }
+      ],
+      "limitations": [
+        "A missing pattern may result from noisy data or measurement error rather than a needed new mechanism.",
+        "Adding many adjustable parts can fit past observations while weakening performance on new cases."
+      ],
+      "related": [
+        "chattons-anti-razor",
+        "occams-razor"
+      ],
+      "tags": [
+        "parsimony"
+      ]
+    },
+    {
+      "id": "narcissism-razor",
+      "name": "Narcissism razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Assume other people may be less focused on your minor mistakes than you are, unless evidence shows sustained attention.",
+      "body": "Attention is limited, and people at a meeting, party, or workplace are often managing their own tasks and impressions. When embarrassment makes a small event feel publicly important, estimate how many people noticed, what they could reasonably remember, and whether the event affects anything that follows. Correct a real error when needed, then return attention to the task.\n\nThis is a perspective check, not a claim that nobody notices or that social consequences are imaginary. Repeated comments, formal feedback, exclusion, or a mistake with real impact are evidence that the matter deserves action. The label is advice about self-focused attention, not a diagnosis of narcissism or a statement about anyone's personality.",
+      "lensQuestion": "What concrete evidence shows that others are attending to this detail as intensely as I am?",
+      "examples": [
+        {
+          "text": "You assume everyone at a conference noticed a small stumble in your introduction.",
+          "note": "Most attendees may be tracking their own presentations; reviewing the recording or asking a trusted colleague can test whether the stumble mattered."
+        }
+      ],
+      "limitations": [
+        "Some mistakes are noticed and have consequences, especially when they affect other people or recur.",
+        "The advice should not be used to dismiss harassment, feedback, or a real pattern of social exclusion."
+      ],
+      "related": [
+        "spotlight-effect"
+      ],
+      "tags": [
+        "attribution"
+      ]
+    },
+    {
+      "id": "navals-razor",
+      "name": "Naval's razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "When options are otherwise comparable, weigh durable benefits that require tolerable short-term difficulty.",
+      "body": "Immediate ease can hide the cost of staying with the current path, while a difficult option may build a capability or benefit that lasts. Compare the choices on expected value, feasibility, reversibility, and downside risk. Ask what work is required in ordinary weeks, not only what the eventual outcome looks like. Choose the harder path only when its benefit is credible and its cost is acceptable.\n\nThis advice counters automatic short-term avoidance; it is not a rule to maximize pain. Difficulty can signal a poor design, exploitation, or a goal that is not worth pursuing. The attribution to Naval is popular modern advice, and the practical test is more important than treating the phrase as a universal law of success.",
+      "lensQuestion": "Am I rejecting a durable benefit solely because its immediate cost is uncomfortable, or is the cost actually unjustified?",
+      "examples": [
+        {
+          "text": "Two training options have similar prospects, but one demands difficult foundational study before later benefits.",
+          "note": "The foundational course deserves consideration if the later benefit is real and the workload is feasible; pain alone does not decide the comparison."
+        }
+      ],
+      "limitations": [
+        "A difficult option can be unsafe, exploitative, or less effective than a simpler alternative.",
+        "Long-term benefits are uncertain and should be assessed rather than assumed from the amount of effort required."
+      ],
+      "related": [
+        "opportunity-cost"
+      ],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "network-razor",
+      "name": "Network razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Make an introduction when both people have a plausible reason to benefit and consent is respected.",
+      "body": "A well-chosen connection can reduce search time, expose complementary knowledge, and make collaboration possible. Before introducing people, identify the shared purpose, check whether each person is open to contact, and provide enough context for either to decline. A short, relevant introduction is usually more useful than forwarding a contact without explanation.\n\nNetworking is not automatically beneficial. Differences in power, privacy, workload, or incentives can make an introduction costly for one person. Treat attention and contact information as resources, and do not use the possibility of future opportunity to override consent. This is social advice for a specific situation, not a rule that more connections are always better.",
+      "lensQuestion": "Would both people plausibly welcome this introduction and understand why they are being connected?",
+      "examples": [
+        {
+          "text": "Two researchers separately mention complementary projects and welcome an introduction.",
+          "note": "A consented introduction gives each person a clear reason to respond; sharing contact details without permission would not meet the same standard."
+        }
+      ],
+      "limitations": [
+        "A connection can create pressure or unwanted exposure, especially across unequal power or status.",
+        "Even a relevant introduction may not lead to collaboration; usefulness depends on timing and capacity."
+      ],
+      "related": [
+        "network-effect"
+      ],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "new-opportunity-razor",
+      "name": "New-opportunity razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Judge an opportunity by the work, uncertainty, and downside required to reach its attractive outcome.",
+      "body": "An opportunity is not just its imagined end state. Describe the recurring tasks, skills, dependencies, financial and social costs, and likely failure points. Estimate what a normal week would require and what happens if the hoped-for result arrives late or not at all. This makes an attractive possibility comparable with the alternatives you would give up.\n\nUse the analysis to improve the opportunity, not merely to reject it. A trial period, staged commitment, or explicit exit condition can preserve upside while limiting exposure. The principle circulates as general decision advice under a razor label; it is not a formula for predicting which ambition will succeed.",
+      "lensQuestion": "Would I choose this opportunity after accounting for its ordinary work, uncertainty, and downside?",
+      "examples": [
+        {
+          "text": "A prospective founder likes the idea of owning a company but dislikes selling, hiring, and handling uncertainty.",
+          "note": "The daily work is part of the opportunity, so the mismatch should be addressed before treating the attractive end state as decisive."
+        }
+      ],
+      "limitations": [
+        "Early plans cannot reveal every future task or risk, so a staged test may be more reliable than a forecast.",
+        "Some valuable opportunities include difficult work that becomes tolerable only after learning or support; initial dislike is not conclusive."
+      ],
+      "related": [
+        "opportunity-cost"
+      ],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "occams-razor",
+      "name": "Occam's razor",
+      "aliases": [
+        "Ockham's razor",
+        "Principle of parsimony"
+      ],
+      "symbolName": "scissors",
+      "summary": "Among explanations that fit the evidence comparably well, prefer the one with fewer unsupported assumptions.",
+      "body": "Use Occam's razor after stating what each explanation must account for. Count assumptions that are not independently supported, compare the explanations on the same evidence, and ask whether the extra parts improve prediction or understanding. A simpler account is preferable when it is at least as adequate for the task; simplicity is not a reason to ignore evidence that a richer account explains.\n\nThe razor is a method for choosing and investigating explanations, not proof that the simplest imaginable story is true. Hidden assumptions can make a short explanation complex in disguise, while a more detailed model may be justified by new observations. Keep the comparison tied to the question and update it when the evidence changes.",
+      "lensQuestion": "Which explanation fits the evidence with the fewest unsupported assumptions while still explaining what matters?",
+      "examples": [
+        {
+          "text": "The printer stopped after its paper tray emptied. A second account proposes a hidden remote attack.",
+          "note": "The empty tray directly supports the ordinary explanation; the remote attack adds assumptions that need independent evidence."
+        }
+      ],
+      "limitations": [
+        "Fewer assumptions do not rescue an explanation that fails to account for important evidence.",
+        "The simplest account can be wrong when a more complex mechanism is independently supported and materially more adequate."
+      ],
+      "related": [
+        "hanlons-razor",
+        "chattons-anti-razor",
+        "einsteins-razor",
+        "william-of-ockham",
+        "kants-counter-razor",
+        "mengers-anti-razor"
+      ],
+      "tags": [
+        "parsimony"
+      ]
+    },
+    {
+      "id": "opinion-razor",
+      "name": "Opinion razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Match confidence in an opinion to the evidence, context, and objections you have actually considered.",
+      "body": "Before taking a firm position, identify the source of your information, the strongest case against your view, and what evidence could change it. If the issue is unfamiliar or the stakes are low, a provisional judgment or explicit uncertainty may be more honest than a performance of certainty. When a decision cannot wait, state the assumptions behind the temporary choice and set a point for review.\n\nThis is a popular advice maxim, not a demand to remain neutral forever. Expertise, direct evidence, and careful reasoning can justify confidence, while too much hesitation can also delay necessary action. The useful distinction is between a considered conclusion and an opinion inherited from a headline, group, or first impression.",
+      "lensQuestion": "What evidence and objections have I considered, and how should they calibrate my confidence?",
+      "examples": [
+        {
+          "text": "Someone asks for a firm position on a technical dispute you have only seen in a headline.",
+          "note": "Withholding a firm view separates limited exposure from informed judgment and identifies what must be learned next."
+        }
+      ],
+      "limitations": [
+        "Some decisions require action before information is complete; uncertainty should then be made explicit rather than used to avoid choosing.",
+        "Confidence can be reasonable even when a person cannot explain every technical detail personally if trustworthy evidence and expertise are available."
+      ],
+      "related": [
+        "epistemic-humility"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "optimist-razor",
+      "name": "Optimist razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Give constructive, possibility-oriented collaborators room to help, while testing optimism against constraints and evidence.",
+      "body": "A person who looks for workable possibilities can help a group move from criticism to experiments, alternatives, and next steps. Assess the quality of that optimism: does it identify a mechanism, acknowledge costs, and accept disconfirming results? Pair possibility with deadlines, tests, and clear limits so encouragement produces information rather than wishful thinking.\n\nWarnings should not be dismissed merely because they sound negative. A cautious person may be identifying a genuine failure mode, while an upbeat person may be overlooking it. Use the razor to notice whether a collaborator makes constructive action easier, not to rank personalities or assume that positive expectations cause success.",
+      "lensQuestion": "Does this optimism produce testable next steps while acknowledging real constraints and failure modes?",
+      "examples": [
+        {
+          "text": "One team member proposes testable ways forward while another dismisses every experiment without examining it.",
+          "note": "The constructive proposal deserves a fair test, but it still must survive evidence and address the dismissive member's specific risks."
+        }
+      ],
+      "limitations": [
+        "Optimism can hide costs, delay preparation, or encourage overconfidence.",
+        "A skeptical warning may be the most useful contribution when it is supported by evidence and offered to improve the plan."
+      ],
+      "related": [
+        "base-rate-fallacy"
+      ],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "poppers-razor",
+      "name": "Popper's razor",
+      "aliases": [
+        "Falsifiability criterion"
+      ],
+      "symbolName": "scissors",
+      "summary": "Treat a theory as more scientific when it makes risky predictions that possible observations could contradict.",
+      "body": "State what the theory predicts before seeing the result and specify which observation would count against it. A claim that can be adjusted after every outcome to preserve its success has not taken a clear observational risk. Testing also requires attention to measurement quality, background assumptions, and whether the failed prediction belongs to the theory or an auxiliary part of the setup.\n\nPopper's falsifiability proposal is a contested account of how to demarcate science, not a rule that every unfalsifiable statement is false. Some claims are definitions, values, mathematical propositions, or exploratory ideas. The practical use is to separate claims open to empirical test from claims that need another kind of justification.",
+      "lensQuestion": "What possible observation would count against this theory, and have I stated it in advance?",
+      "examples": [
+        {
+          "text": "A prediction is revised after every outcome so that the theory always claims success.",
+          "note": "If no result could count against the theory, the claim is not exposing itself to a meaningful empirical test."
+        }
+      ],
+      "limitations": [
+        "A failed prediction may reflect measurement error, background assumptions, or an auxiliary model rather than the central theory alone.",
+        "Not every meaningful claim is an empirical theory, so lack of falsifiability does not by itself make a statement false."
+      ],
+      "related": [
+        "falsifiability",
+        "karl-popper"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "pygmalion-razor",
+      "name": "Pygmalion razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Consider whether constructive expectations, feedback, and opportunity are helping someone develop.",
+      "body": "Expectations can change how people are treated: a teacher may offer more feedback, a manager may assign meaningful work, or a learner may persist because improvement is treated as possible. To apply the idea responsibly, pair the expectation with resources, specific standards, and room to report difficulty. Look for the actual interaction and opportunity changes rather than assuming a belief alone caused an outcome.\n\nExpectations do not control another person's achievement. Low expectations can reflect accurate information about a barrier, and high expectations can become pressure or neglect when support is absent. The Pygmalion label names a possible social pathway, not a guarantee, universal effect, or license to blame people for outcomes shaped by resources and conditions.",
+      "lensQuestion": "Are constructive expectations being matched by realistic support, useful feedback, and genuine opportunity?",
+      "examples": [
+        {
+          "text": "A tutor expects a student to improve and supplies specific feedback and practice.",
+          "note": "The interaction gives the expectation a practical pathway; pressure without resources or attainable goals would be a different case."
+        }
+      ],
+      "limitations": [
+        "Expectations can have weak or mixed effects when resources, prior preparation, or structural conditions dominate the outcome.",
+        "High expectations without support can increase stress or conceal a need to change the teaching environment."
+      ],
+      "related": [
+        "pygmalion-effect",
+        "experimenter-expectancy-effect"
+      ],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "rands-conceptual-razor",
+      "name": "Rand's conceptual razor",
+      "aliases": [
+        "Rand's razor: conceptual economy"
+      ],
+      "symbolName": "scissors",
+      "summary": "Create or merge concepts only when the distinction or combination serves a real cognitive purpose.",
+      "body": "A category earns its place when it helps describe a recurring pattern, supports a prediction, organizes evidence, or guides a decision. Before adding a term, state what work it does that existing concepts cannot do. Before merging terms, check whether the difference affects inference or action. This prevents taxonomies from growing through labels that merely restate an accidental combination.\n\nConceptual economy does not ban technical language or useful distinctions that were previously unnamed. A new term can clarify a real pattern even if it sounds elaborate, and a familiar word can hide several distinct uses. Treat the razor as a demand for justified conceptual work, not as a preference for short vocabulary.",
+      "lensQuestion": "What inquiry or decision genuinely needs this concept rather than an existing description?",
+      "examples": [
+        {
+          "text": "A database invents a separate basic kind for red, left-handed, Tuesday-born customers without a relevant purpose.",
+          "note": "The combination does not explain or predict anything by itself, so it is a label for a coincidence rather than a useful kind."
+        }
+      ],
+      "limitations": [
+        "A distinction may become useful later when a new mechanism, prediction, or practical need appears.",
+        "Judging a concept only by immediate familiarity can hide a real pattern that needs clearer language."
+      ],
+      "related": [
+        "conceptual-analysis"
+      ],
+      "tags": [
+        "parsimony"
+      ]
+    },
+    {
+      "id": "rands-primaries-razor",
+      "name": "Rand's primaries razor",
+      "aliases": [
+        "Rand's razor: primaries"
+      ],
+      "symbolName": "scissors",
+      "summary": "Trace an argument to the basic premises that must be accepted for its conclusion to follow.",
+      "body": "Unpack the argument until its factual assumptions, definitions, goals, and value commitments are visible. Then test which premises are supported, which are merely stipulated, and which alternatives would change the conclusion. This often separates disagreement about evidence from disagreement about what matters. It also shows where a persuasive conclusion depends on an unnoticed starting point.\n\nThe method does not prove that the selected fundamentals are correct, and it does not require every conversation to begin with first principles. Use it when an argument seems to move too quickly or when people agree on facts but reach different recommendations. Keep the reconstruction faithful to what the speaker actually needs, rather than inventing a stronger or weaker version.",
+      "lensQuestion": "Which basic premises must be accepted for this conclusion to work, and which are open to dispute?",
+      "examples": [
+        {
+          "text": "A policy argument assumes, without stating it, that only aggregate income matters.",
+          "note": "Making the premise explicit separates disagreement about predicted income from disagreement about whether distribution and other values matter."
+        }
+      ],
+      "limitations": [
+        "Arguments can rely on background knowledge that is reasonable not to state in every context.",
+        "Finding a basic premise does not settle whether it is true, relevant, or morally acceptable."
+      ],
+      "related": [
+        "normative-ethics",
+        "conceptual-analysis"
+      ],
+      "tags": [
+        "interpretation"
+      ]
+    },
+    {
+      "id": "room-razor",
+      "name": "Room razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Choose settings that expose you to relevant expertise and allow you to learn without needless intimidation.",
+      "body": "A room can be valuable when it contains people who know what you need to learn and when its norms make questions, correction, and participation possible. Assess both parts: who has relevant knowledge, and whether you can access it through conversation, observation, or useful work. Enter as a learner, contribute where you can, and turn vague admiration into specific questions.\n\nStatus alone does not make a setting educational. A prestigious group may hoard information, reward performance, or lack the expertise relevant to your problem. A less prestigious setting may teach more effectively. The razor is advice about choosing learning environments, not a claim that intelligence is located in a room or that every intimidating environment is worth enduring.",
+      "lensQuestion": "Will this setting expose me to relevant knowledge and let me participate constructively?",
+      "examples": [
+        {
+          "text": "An experienced designer joins a workshop where others have deeper accessibility expertise.",
+          "note": "The opportunity comes from relevant expertise and open exchange, not from a general ranking of who is intelligent."
+        }
+      ],
+      "limitations": [
+        "A room full of experts may still be irrelevant, inaccessible, or poorly suited to the learner's current needs.",
+        "Learning can also come from books, practice, mentoring, or solitary work rather than physical or social proximity."
+      ],
+      "related": [
+        "social-epistemology"
+      ],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "sagan-standard",
+      "name": "Sagan standard",
+      "aliases": [
+        "Sagan's razor"
+      ],
+      "symbolName": "scissors",
+      "summary": "Claims that conflict with strong background knowledge require evidence that clearly separates them from ordinary alternatives.",
+      "body": "When a claim is surprising, identify the background expectations and the ordinary explanations that compete with it. Then ask whether the evidence is reliable, specific, and more likely under the extraordinary account than under those alternatives. A striking story or blurry image may be compatible with many explanations and therefore carry little weight.\n\nThis standard is not permission to ignore new evidence or demand a special kind of evidence. A claim with low prior plausibility can still be established by ordinary, well-controlled observations if those observations discriminate between the possibilities. The useful demand is evidential strength relative to the claim, not spectacle or exotic instrumentation.",
+      "lensQuestion": "How strongly does this evidence favor the surprising claim over plausible ordinary explanations?",
+      "examples": [
+        {
+          "text": "A blurry photograph is offered as proof of a previously unknown spacecraft.",
+          "note": "Camera artifacts, aircraft, and image manipulation must be assessed because the photograph does not yet distinguish the proposed explanation."
+        }
+      ],
+      "limitations": [
+        "Background knowledge can be wrong or incomplete, so strong prior expectation should not become a veto on investigation.",
+        "Evidence can be compelling without being dramatic if its collection and interpretation are reliable."
+      ],
+      "related": [
+        "base-rate-fallacy",
+        "burden-of-proof"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "smart-friends-razor",
+      "name": "Smart-friends razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "Treat informed peers' unusual interests as leads worth investigating, not as proof that their view is right.",
+      "body": "People who know a field may notice a development before it becomes obvious to outsiders. If several informed peers point toward an unfamiliar idea, ask what they know, what evidence they share, and what they expect to happen. Use their interest to choose what to read, test, or ask about. The value is efficient attention, not deference to status.\n\nAgreement can be correlated: everyone may have copied the same source, incentive, or fashionable assumption. Look for independent reasons, direct results, and evidence that would change their view. A smart person's enthusiasm is a useful prior for where to investigate, but it does not remove the need to examine the underlying claim.",
+      "lensQuestion": "What do these informed people know, and are their reasons independent enough to justify further confidence?",
+      "examples": [
+        {
+          "text": "Several colleagues investigate the same new tool, but all learned about it from one sponsored post.",
+          "note": "Their agreement identifies a topic, not independent corroboration; the sponsorship and underlying results need checking."
+        }
+      ],
+      "limitations": [
+        "Experts can share blind spots, incentives, or a common source and therefore make the same mistake.",
+        "A lack of expert interest is not proof that an idea is worthless; attention and evidence can arrive at different times."
+      ],
+      "related": [
+        "peer-disagreement",
+        "base-rate-fallacy"
+      ],
+      "tags": [
+        "decision-making"
+      ]
+    },
+    {
+      "id": "tarzwells-razor",
+      "name": "Tarzwell's razor",
+      "aliases": [],
+      "symbolName": "scissors",
+      "summary": "When strong emotion narrows judgment, pause and reassess the claim after separating the feeling from the evidence.",
+      "body": "Anger, fear, shame, and excitement can direct attention to something important, but they can also enlarge a single event into a global conclusion. Record what happened, what you inferred, and what action is immediately necessary. If safety or a deadline requires action, take the protective step first; otherwise allow enough time for the emotional surge to settle before making irreversible judgments.\n\nCalmness is not proof of correctness, and emotion is not proof of error. The feeling may be responding to a genuine pattern or violation, so reassessment should include the evidence that triggered it rather than demanding emotional detachment. The attribution and wording circulate as popular advice, not as an independently verified psychological law.",
+      "lensQuestion": "What remains supported after I separate the immediate emotional reaction from the specific evidence?",
+      "examples": [
+        {
+          "text": "After an angry meeting, you conclude a colleague's entire career is fraudulent.",
+          "note": "Delaying the global judgment lets you document the actual conduct and assess whether it supports a narrow criticism or a broader conclusion."
+        }
+      ],
+      "limitations": [
+        "Strong emotion can be an important warning, especially when it reflects repeated boundary violations or danger.",
+        "Waiting is not appropriate when immediate action is needed to protect someone or preserve evidence."
+      ],
+      "related": [
+        "affect-infusion"
+      ],
+      "tags": [
+        "evidence"
+      ]
+    }
+  ]
+}

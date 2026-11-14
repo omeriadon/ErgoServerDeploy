@@ -1,0 +1,14 @@
+# Read by BuildKit for `docker build -f ErgoServer/Dockerfile .`, since the context is the repository root
+**
+!ErgoKit/Package.swift
+!ErgoKit/Sources/**
+!ErgoKit/Tests/**
+!ErgoServer/Package.swift
+!ErgoServer/Package.resolved
+!ErgoServer/Sources/**
+!ErgoServer/Tests/**
+**/.build
+**/.swiftpm
+**/.DS_Store
+# SwiftPM only needs the test folders to exist, so a commit that only changes tests doesn't rebuild or restart the server
+**/Tests/**/*.swift
